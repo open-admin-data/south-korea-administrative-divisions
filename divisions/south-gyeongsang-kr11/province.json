@@ -1,0 +1,33 @@
+{
+  "id": "KR11",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "경상남도",
+    "en": "South Gyeongsang",
+    "slug": "south-gyeongsang-kr11"
+  },
+  "code": {
+    "id": "KR11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.351",
+    "lon": "128.191"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/south-gyeongsang-kr11/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

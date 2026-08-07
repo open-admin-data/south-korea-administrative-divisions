@@ -1,0 +1,45 @@
+# South Korea Administrative Divisions — Full Reference
+
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Per-Province/City Data Files
+
+- [North Chungcheong](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/north-chungcheong-kr01.txt) — 13 districts
+- [Incheon](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/incheon-kr02.txt) — 6 districts
+- [Gangwon](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/gangwon-kr03.txt) — 17 districts
+- [Seoul](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/seoul-kr04.txt) — 24 districts
+- [Gyeonggi](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/gyeonggi-kr05.txt) — 44 districts
+- [North Jeolla](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/north-jeolla-kr06.txt) — 15 districts
+- [Gwangju](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/gwangju-kr07.txt) — 5 districts
+- [South Chungcheong](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/south-chungcheong-kr08.txt) — 16 districts
+- [Daejeon](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/daejeon-kr09.txt) — 2 districts
+- [Daegu](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/daegu-kr10.txt) — 3 districts
+- [South Gyeongsang](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/south-gyeongsang-kr11.txt) — 21 districts
+- [South Jeolla](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/south-jeolla-kr12.txt) — 22 districts
+- [Busan](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/busan-kr13.txt) — 11 districts
+- [Ulsan](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/ulsan-kr14.txt) — 1 districts
+- [North Gyeongsang](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/north-gyeongsang-kr15.txt) — 22 districts
+- [Jeju](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/jeju-kr16.txt) — 2 districts
+- [Sejong](https://github.com/open-admin-data/south-korea-administrative-divisions/blob/main/docs/llms-full/sejong-kr17.txt) — 1 districts
+
+## Summary
+
+| Province/City | Districts | 
+|---|---|
+| North Chungcheong | 13 | 
+| Incheon | 6 | 
+| Gangwon | 17 | 
+| Seoul | 24 | 
+| Gyeonggi | 44 | 
+| North Jeolla | 15 | 
+| Gwangju | 5 | 
+| South Chungcheong | 16 | 
+| Daejeon | 2 | 
+| Daegu | 3 | 
+| South Gyeongsang | 21 | 
+| South Jeolla | 22 | 
+| Busan | 11 | 
+| Ulsan | 1 | 
+| North Gyeongsang | 22 | 
+| Jeju | 2 | 
+| Sejong | 1 | 

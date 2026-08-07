@@ -1,0 +1,992 @@
+[
+  {
+    "id": "KR12D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boseong",
+      "en": "Boseong",
+      "slug": "boseong-kr12d07"
+    },
+    "code": {
+      "id": "KR12D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.819",
+      "lon": "127.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Damyang",
+      "en": "Damyang",
+      "slug": "damyang-kr12d06"
+    },
+    "code": {
+      "id": "KR12D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.314",
+      "lon": "126.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangjin",
+      "en": "Gangjin",
+      "slug": "gangjin-kr12d15"
+    },
+    "code": {
+      "id": "KR12D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.693",
+      "lon": "126.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goheung",
+      "en": "Goheung",
+      "slug": "goheung-kr12d08"
+    },
+    "code": {
+      "id": "KR12D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.659",
+      "lon": "127.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D21",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gokseong",
+      "en": "Gokseong",
+      "slug": "gokseong-kr12d21"
+    },
+    "code": {
+      "id": "KR12D21",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.22",
+      "lon": "127.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D19",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gurye",
+      "en": "Gurye",
+      "slug": "gurye-kr12d19"
+    },
+    "code": {
+      "id": "KR12D19",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.24",
+      "lon": "127.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwangyang",
+      "en": "Gwangyang",
+      "slug": "gwangyang-kr12d02"
+    },
+    "code": {
+      "id": "KR12D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.035",
+      "lon": "127.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D20",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Haenam",
+      "en": "Haenam",
+      "slug": "haenam-kr12d20"
+    },
+    "code": {
+      "id": "KR12D20",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.481",
+      "lon": "126.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D22",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hampyeong",
+      "en": "Hampyeong",
+      "slug": "hampyeong-kr12d22"
+    },
+    "code": {
+      "id": "KR12D22",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.112",
+      "lon": "126.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hwasun",
+      "en": "Hwasun",
+      "slug": "hwasun-kr12d11"
+    },
+    "code": {
+      "id": "KR12D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35",
+      "lon": "127.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jangheung",
+      "en": "Jangheung",
+      "slug": "jangheung-kr12d14"
+    },
+    "code": {
+      "id": "KR12D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.754",
+      "lon": "126.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jangseong",
+      "en": "Jangseong",
+      "slug": "jangseong-kr12d12"
+    },
+    "code": {
+      "id": "KR12D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.323",
+      "lon": "126.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jindo",
+      "en": "Jindo",
+      "slug": "jindo-kr12d01"
+    },
+    "code": {
+      "id": "KR12D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.473",
+      "lon": "126.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mokpo",
+      "en": "Mokpo",
+      "slug": "mokpo-kr12d13"
+    },
+    "code": {
+      "id": "KR12D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.812",
+      "lon": "126.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muan",
+      "en": "Muan",
+      "slug": "muan-kr12d05"
+    },
+    "code": {
+      "id": "KR12D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.934",
+      "lon": "126.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Naju",
+      "en": "Naju",
+      "slug": "naju-kr12d04"
+    },
+    "code": {
+      "id": "KR12D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.98",
+      "lon": "126.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D18",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sinan",
+      "en": "Sinan",
+      "slug": "sinan-kr12d18"
+    },
+    "code": {
+      "id": "KR12D18",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.896",
+      "lon": "126.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suncheon",
+      "en": "Suncheon",
+      "slug": "suncheon-kr12d16"
+    },
+    "code": {
+      "id": "KR12D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.983",
+      "lon": "127.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wando",
+      "en": "Wando",
+      "slug": "wando-kr12d03"
+    },
+    "code": {
+      "id": "KR12D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.362",
+      "lon": "126.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongam",
+      "en": "Yeongam",
+      "slug": "yeongam-kr12d17"
+    },
+    "code": {
+      "id": "KR12D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.835",
+      "lon": "126.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeonggwang",
+      "en": "Yeonggwang",
+      "slug": "yeonggwang-kr12d10"
+    },
+    "code": {
+      "id": "KR12D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.252",
+      "lon": "126.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeosu",
+      "en": "Yeosu",
+      "slug": "yeosu-kr12d09"
+    },
+    "code": {
+      "id": "KR12D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.788",
+      "lon": "127.701"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

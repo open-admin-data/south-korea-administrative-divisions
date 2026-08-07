@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "South Korea Administrative Divisions Dataset"
+version: "2026.08"
+date-released: "2026-08-07"
+url: "https://github.com/open-admin-data/south-korea-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/south-korea-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - south korea
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of South Korea's administrative hierarchy:
+  17 province/citys, 225 districts.
+  Bilingual with coordinates and postal codes where available.

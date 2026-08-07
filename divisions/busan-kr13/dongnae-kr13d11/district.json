@@ -1,0 +1,45 @@
+{
+  "id": "KR13D11",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dongnae",
+    "en": "Dongnae",
+    "slug": "dongnae-kr13d11"
+  },
+  "code": {
+    "id": "KR13D11",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR13",
+    "level": 1,
+    "name": {
+      "local": "부산광역시",
+      "en": "Busan",
+      "slug": "busan-kr13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.211",
+    "lon": "129.085"
+  },
+  "metadata": {},
+  "source": {}
+}

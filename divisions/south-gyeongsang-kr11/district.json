@@ -1,0 +1,947 @@
+[
+  {
+    "id": "KR11D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Changnyeong",
+      "en": "Changnyeong",
+      "slug": "changnyeong-kr11d06"
+    },
+    "code": {
+      "id": "KR11D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.539",
+      "lon": "128.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Geochang",
+      "en": "Geochang",
+      "slug": "geochang-kr11d16"
+    },
+    "code": {
+      "id": "KR11D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.768",
+      "lon": "127.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Geoje",
+      "en": "Geoje",
+      "slug": "geoje-kr11d08"
+    },
+    "code": {
+      "id": "KR11D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.846",
+      "lon": "128.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gimhae",
+      "en": "Gimhae",
+      "slug": "gimhae-kr11d14"
+    },
+    "code": {
+      "id": "KR11D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.271",
+      "lon": "128.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hadong",
+      "en": "Hadong",
+      "slug": "hadong-kr11d12"
+    },
+    "code": {
+      "id": "KR11D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.139",
+      "lon": "127.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Haman",
+      "en": "Haman",
+      "slug": "haman-kr11d07"
+    },
+    "code": {
+      "id": "KR11D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.293",
+      "lon": "128.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hamyang",
+      "en": "Hamyang",
+      "slug": "hamyang-kr11d03"
+    },
+    "code": {
+      "id": "KR11D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.571",
+      "lon": "127.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hapcheon",
+      "en": "Hapcheon",
+      "slug": "hapcheon-kr11d04"
+    },
+    "code": {
+      "id": "KR11D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.545",
+      "lon": "128.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jinhae",
+      "en": "Jinhae",
+      "slug": "jinhae-kr11d17"
+    },
+    "code": {
+      "id": "KR11D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.131",
+      "lon": "128.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jinju",
+      "en": "Jinju",
+      "slug": "jinju-kr11d13"
+    },
+    "code": {
+      "id": "KR11D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.223",
+      "lon": "128.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D18",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Masanhappo",
+      "en": "Masanhappo",
+      "slug": "masanhappo-kr11d18"
+    },
+    "code": {
+      "id": "KR11D18",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.143",
+      "lon": "128.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D19",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Masanhoewon",
+      "en": "Masanhoewon",
+      "slug": "masanhoewon-kr11d19"
+    },
+    "code": {
+      "id": "KR11D19",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.237",
+      "lon": "128.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Miryang",
+      "en": "Miryang",
+      "slug": "miryang-kr11d01"
+    },
+    "code": {
+      "id": "KR11D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.476",
+      "lon": "128.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namhae",
+      "en": "Namhae",
+      "slug": "namhae-kr11d15"
+    },
+    "code": {
+      "id": "KR11D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.803",
+      "lon": "127.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sacheon",
+      "en": "Sacheon",
+      "slug": "sacheon-kr11d05"
+    },
+    "code": {
+      "id": "KR11D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.037",
+      "lon": "128.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sancheong",
+      "en": "Sancheong",
+      "slug": "sancheong-kr11d02"
+    },
+    "code": {
+      "id": "KR11D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.382",
+      "lon": "127.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D20",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seongsan",
+      "en": "Seongsan",
+      "slug": "seongsan-kr11d20"
+    },
+    "code": {
+      "id": "KR11D20",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.201",
+      "lon": "128.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tongyeong",
+      "en": "Tongyeong",
+      "slug": "tongyeong-kr11d09"
+    },
+    "code": {
+      "id": "KR11D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.921",
+      "lon": "128.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D21",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uichang",
+      "en": "Uichang",
+      "slug": "uichang-kr11d21"
+    },
+    "code": {
+      "id": "KR11D21",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.311",
+      "lon": "128.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uiryeong",
+      "en": "Uiryeong",
+      "slug": "uiryeong-kr11d11"
+    },
+    "code": {
+      "id": "KR11D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.423",
+      "lon": "128.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yangsan",
+      "en": "Yangsan",
+      "slug": "yangsan-kr11d10"
+    },
+    "code": {
+      "id": "KR11D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.398",
+      "lon": "129.041"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

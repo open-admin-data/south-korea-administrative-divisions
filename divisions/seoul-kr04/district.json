@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "KR04D23",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dobong",
+      "en": "Dobong",
+      "slug": "dobong-kr04d23"
+    },
+    "code": {
+      "id": "KR04D23",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.671",
+      "lon": "127.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongdaemun",
+      "en": "Dongdaemun",
+      "slug": "dongdaemun-kr04d16"
+    },
+    "code": {
+      "id": "KR04D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.586",
+      "lon": "127.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D22",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongjak",
+      "en": "Dongjak",
+      "slug": "dongjak-kr04d22"
+    },
+    "code": {
+      "id": "KR04D22",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.504",
+      "lon": "126.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Eunpyeong",
+      "en": "Eunpyeong",
+      "slug": "eunpyeong-kr04d17"
+    },
+    "code": {
+      "id": "KR04D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.623",
+      "lon": "126.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangbuk",
+      "en": "Gangbuk",
+      "slug": "gangbuk-kr04d11"
+    },
+    "code": {
+      "id": "KR04D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.645",
+      "lon": "127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangdong",
+      "en": "Gangdong",
+      "slug": "gangdong-kr04d15"
+    },
+    "code": {
+      "id": "KR04D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.55",
+      "lon": "127.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D18",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangnam",
+      "en": "Gangnam",
+      "slug": "gangnam-kr04d18"
+    },
+    "code": {
+      "id": "KR04D18",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.499",
+      "lon": "127.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Geumcheon",
+      "en": "Geumcheon",
+      "slug": "geumcheon-kr04d06"
+    },
+    "code": {
+      "id": "KR04D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.46",
+      "lon": "126.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D19",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Guro",
+      "en": "Guro",
+      "slug": "guro-kr04d19"
+    },
+    "code": {
+      "id": "KR04D19",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.501",
+      "lon": "126.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwanak",
+      "en": "Gwanak",
+      "slug": "gwanak-kr04d01"
+    },
+    "code": {
+      "id": "KR04D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.47",
+      "lon": "126.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwangjin",
+      "en": "Gwangjin",
+      "slug": "gwangjin-kr04d02"
+    },
+    "code": {
+      "id": "KR04D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.546",
+      "lon": "127.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jongno",
+      "en": "Jongno",
+      "slug": "jongno-kr04d09"
+    },
+    "code": {
+      "id": "KR04D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.61",
+      "lon": "126.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D21",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jung",
+      "en": "Jung",
+      "slug": "jung-kr04d21"
+    },
+    "code": {
+      "id": "KR04D21",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.562",
+      "lon": "126.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D24",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jungnang",
+      "en": "Jungnang",
+      "slug": "jungnang-kr04d24"
+    },
+    "code": {
+      "id": "KR04D24",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.596",
+      "lon": "127.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mapo",
+      "en": "Mapo",
+      "slug": "mapo-kr04d08"
+    },
+    "code": {
+      "id": "KR04D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.557",
+      "lon": "126.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nowon",
+      "en": "Nowon",
+      "slug": "nowon-kr04d03"
+    },
+    "code": {
+      "id": "KR04D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.64",
+      "lon": "127.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seocho",
+      "en": "Seocho",
+      "slug": "seocho-kr04d14"
+    },
+    "code": {
+      "id": "KR04D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.477",
+      "lon": "127.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seodaemun",
+      "en": "Seodaemun",
+      "slug": "seodaemun-kr04d07"
+    },
+    "code": {
+      "id": "KR04D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.576",
+      "lon": "126.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seongbuk",
+      "en": "Seongbuk",
+      "slug": "seongbuk-kr04d04"
+    },
+    "code": {
+      "id": "KR04D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.598",
+      "lon": "127.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seongdong",
+      "en": "Seongdong",
+      "slug": "seongdong-kr04d12"
+    },
+    "code": {
+      "id": "KR04D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.556",
+      "lon": "127.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Songpa",
+      "en": "Songpa",
+      "slug": "songpa-kr04d13"
+    },
+    "code": {
+      "id": "KR04D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.506",
+      "lon": "127.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yangcheon",
+      "en": "Yangcheon",
+      "slug": "yangcheon-kr04d05"
+    },
+    "code": {
+      "id": "KR04D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.52",
+      "lon": "126.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongdeungpo",
+      "en": "Yeongdeungpo",
+      "slug": "yeongdeungpo-kr04d10"
+    },
+    "code": {
+      "id": "KR04D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.522",
+      "lon": "126.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D20",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yongsan",
+      "en": "Yongsan",
+      "slug": "yongsan-kr04d20"
+    },
+    "code": {
+      "id": "KR04D20",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.534",
+      "lon": "126.981"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

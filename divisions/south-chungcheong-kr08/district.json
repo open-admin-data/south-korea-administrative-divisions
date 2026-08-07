@@ -1,0 +1,722 @@
+[
+  {
+    "id": "KR08D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asan",
+      "en": "Asan",
+      "slug": "asan-kr08d11"
+    },
+    "code": {
+      "id": "KR08D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.803",
+      "lon": "126.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boryeong",
+      "en": "Boryeong",
+      "slug": "boryeong-kr08d04"
+    },
+    "code": {
+      "id": "KR08D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.379",
+      "lon": "126.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buyeo",
+      "en": "Buyeo",
+      "slug": "buyeo-kr08d06"
+    },
+    "code": {
+      "id": "KR08D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.229",
+      "lon": "126.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cheongyang",
+      "en": "Cheongyang",
+      "slug": "cheongyang-kr08d08"
+    },
+    "code": {
+      "id": "KR08D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.457",
+      "lon": "126.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dangjin",
+      "en": "Dangjin",
+      "slug": "dangjin-kr08d15"
+    },
+    "code": {
+      "id": "KR08D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.883",
+      "lon": "126.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongnam",
+      "en": "Dongnam",
+      "slug": "dongnam-kr08d13"
+    },
+    "code": {
+      "id": "KR08D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.787",
+      "lon": "127.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Geumsan",
+      "en": "Geumsan",
+      "slug": "geumsan-kr08d05"
+    },
+    "code": {
+      "id": "KR08D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.109",
+      "lon": "127.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gongju",
+      "en": "Gongju",
+      "slug": "gongju-kr08d02"
+    },
+    "code": {
+      "id": "KR08D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.534",
+      "lon": "127.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gyeryong",
+      "en": "Gyeryong",
+      "slug": "gyeryong-kr08d03"
+    },
+    "code": {
+      "id": "KR08D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.286",
+      "lon": "127.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hongseong",
+      "en": "Hongseong",
+      "slug": "hongseong-kr08d01"
+    },
+    "code": {
+      "id": "KR08D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.551",
+      "lon": "126.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nonsan",
+      "en": "Nonsan",
+      "slug": "nonsan-kr08d07"
+    },
+    "code": {
+      "id": "KR08D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.182",
+      "lon": "127.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seobuk",
+      "en": "Seobuk",
+      "slug": "seobuk-kr08d14"
+    },
+    "code": {
+      "id": "KR08D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.903",
+      "lon": "127.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seocheon",
+      "en": "Seocheon",
+      "slug": "seocheon-kr08d12"
+    },
+    "code": {
+      "id": "KR08D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.098",
+      "lon": "126.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seosan",
+      "en": "Seosan",
+      "slug": "seosan-kr08d10"
+    },
+    "code": {
+      "id": "KR08D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.79",
+      "lon": "126.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taean",
+      "en": "Taean",
+      "slug": "taean-kr08d16"
+    },
+    "code": {
+      "id": "KR08D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.763",
+      "lon": "126.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yesan",
+      "en": "Yesan",
+      "slug": "yesan-kr08d09"
+    },
+    "code": {
+      "id": "KR08D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.67",
+      "lon": "126.819"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "KR06D13",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sunchang",
+    "en": "Sunchang",
+    "slug": "sunchang-kr06d13"
+  },
+  "code": {
+    "id": "KR06D13",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR06",
+    "level": 1,
+    "name": {
+      "local": "전라북도",
+      "en": "North Jeolla",
+      "slug": "north-jeolla-kr06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.399",
+    "lon": "127.133"
+  },
+  "metadata": {},
+  "source": {}
+}

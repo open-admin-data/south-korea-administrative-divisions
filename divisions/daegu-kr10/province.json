@@ -1,0 +1,33 @@
+{
+  "id": "KR10",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "대구광역시",
+    "en": "Daegu",
+    "slug": "daegu-kr10"
+  },
+  "code": {
+    "id": "KR10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.846",
+    "lon": "128.599"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/daegu-kr10/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

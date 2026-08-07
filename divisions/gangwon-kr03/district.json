@@ -1,0 +1,767 @@
+[
+  {
+    "id": "KR03D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chuncheon",
+      "en": "Chuncheon",
+      "slug": "chuncheon-kr03d02"
+    },
+    "code": {
+      "id": "KR03D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.89",
+      "lon": "127.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Donghae",
+      "en": "Donghae",
+      "slug": "donghae-kr03d17"
+    },
+    "code": {
+      "id": "KR03D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.504",
+      "lon": "129.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangneung",
+      "en": "Gangneung",
+      "slug": "gangneung-kr03d14"
+    },
+    "code": {
+      "id": "KR03D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.716",
+      "lon": "128.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goseong",
+      "en": "Goseong",
+      "slug": "goseong-kr03d09"
+    },
+    "code": {
+      "id": "KR03D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.383",
+      "lon": "128.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hoengseong",
+      "en": "Hoengseong",
+      "slug": "hoengseong-kr03d07"
+    },
+    "code": {
+      "id": "KR03D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.54",
+      "lon": "128.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hongcheon",
+      "en": "Hongcheon",
+      "slug": "hongcheon-kr03d10"
+    },
+    "code": {
+      "id": "KR03D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.779",
+      "lon": "128.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hwacheon",
+      "en": "Hwacheon",
+      "slug": "hwacheon-kr03d15"
+    },
+    "code": {
+      "id": "KR03D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.182",
+      "lon": "127.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Inje",
+      "en": "Inje",
+      "slug": "inje-kr03d01"
+    },
+    "code": {
+      "id": "KR03D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.068",
+      "lon": "128.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeongseon",
+      "en": "Jeongseon",
+      "slug": "jeongseon-kr03d06"
+    },
+    "code": {
+      "id": "KR03D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.39",
+      "lon": "128.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pyeongchang",
+      "en": "Pyeongchang",
+      "slug": "pyeongchang-kr03d13"
+    },
+    "code": {
+      "id": "KR03D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.565",
+      "lon": "128.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Samcheok",
+      "en": "Samcheok",
+      "slug": "samcheok-kr03d16"
+    },
+    "code": {
+      "id": "KR03D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.284",
+      "lon": "129.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sokcho",
+      "en": "Sokcho",
+      "slug": "sokcho-kr03d12"
+    },
+    "code": {
+      "id": "KR03D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.178",
+      "lon": "128.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taebaek",
+      "en": "Taebaek",
+      "slug": "taebaek-kr03d04"
+    },
+    "code": {
+      "id": "KR03D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.153",
+      "lon": "128.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wonju",
+      "en": "Wonju",
+      "slug": "wonju-kr03d03"
+    },
+    "code": {
+      "id": "KR03D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.333",
+      "lon": "127.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yanggu",
+      "en": "Yanggu",
+      "slug": "yanggu-kr03d08"
+    },
+    "code": {
+      "id": "KR03D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.198",
+      "lon": "127.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yangyang",
+      "en": "Yangyang",
+      "slug": "yangyang-kr03d11"
+    },
+    "code": {
+      "id": "KR03D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.99",
+      "lon": "128.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongwol",
+      "en": "Yeongwol",
+      "slug": "yeongwol-kr03d05"
+    },
+    "code": {
+      "id": "KR03D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.211",
+      "lon": "128.465"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

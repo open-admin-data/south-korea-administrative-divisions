@@ -1,0 +1,563 @@
+[
+  {
+    "id": "KR01",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "충청북도",
+      "en": "North Chungcheong",
+      "slug": "north-chungcheong-kr01"
+    },
+    "code": {
+      "id": "KR01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.846",
+      "lon": "127.708"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/north-chungcheong-kr01/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR02",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "인천광역시",
+      "en": "Incheon",
+      "slug": "incheon-kr02"
+    },
+    "code": {
+      "id": "KR02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.532",
+      "lon": "126.704"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/incheon-kr02/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR03",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "강원도",
+      "en": "Gangwon",
+      "slug": "gangwon-kr03"
+    },
+    "code": {
+      "id": "KR03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.747",
+      "lon": "128.3"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/gangwon-kr03/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR04",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "서울특별시",
+      "en": "Seoul",
+      "slug": "seoul-kr04"
+    },
+    "code": {
+      "id": "KR04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.549",
+      "lon": "126.996"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/seoul-kr04/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR05",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "경기도",
+      "en": "Gyeonggi",
+      "slug": "gyeonggi-kr05"
+    },
+    "code": {
+      "id": "KR05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.335",
+      "lon": "127.414"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/gyeonggi-kr05/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR06",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "전라북도",
+      "en": "North Jeolla",
+      "slug": "north-jeolla-kr06"
+    },
+    "code": {
+      "id": "KR06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.74",
+      "lon": "127.209"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/north-jeolla-kr06/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR07",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "광주광역시",
+      "en": "Gwangju",
+      "slug": "gwangju-kr07"
+    },
+    "code": {
+      "id": "KR07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.157",
+      "lon": "126.853"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/gwangju-kr07/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR08",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "충청남도",
+      "en": "South Chungcheong",
+      "slug": "south-chungcheong-kr08"
+    },
+    "code": {
+      "id": "KR08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.48",
+      "lon": "126.867"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/south-chungcheong-kr08/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR09",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "대전광역시",
+      "en": "Daejeon",
+      "slug": "daejeon-kr09"
+    },
+    "code": {
+      "id": "KR09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.359",
+      "lon": "127.393"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/daejeon-kr09/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR10",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "대구광역시",
+      "en": "Daegu",
+      "slug": "daegu-kr10"
+    },
+    "code": {
+      "id": "KR10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.846",
+      "lon": "128.599"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/daegu-kr10/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR11",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "경상남도",
+      "en": "South Gyeongsang",
+      "slug": "south-gyeongsang-kr11"
+    },
+    "code": {
+      "id": "KR11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.351",
+      "lon": "128.191"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/south-gyeongsang-kr11/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR12",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "전라남도",
+      "en": "South Jeolla",
+      "slug": "south-jeolla-kr12"
+    },
+    "code": {
+      "id": "KR12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.845",
+      "lon": "126.909"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/south-jeolla-kr12/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR13",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "부산광역시",
+      "en": "Busan",
+      "slug": "busan-kr13"
+    },
+    "code": {
+      "id": "KR13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.233",
+      "lon": "129.117"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/busan-kr13/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR14",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "울산광역시",
+      "en": "Ulsan",
+      "slug": "ulsan-kr14"
+    },
+    "code": {
+      "id": "KR14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.544",
+      "lon": "129.234"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/ulsan-kr14/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR15",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "경상북도",
+      "en": "North Gyeongsang",
+      "slug": "north-gyeongsang-kr15"
+    },
+    "code": {
+      "id": "KR15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.503",
+      "lon": "128.891"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/north-gyeongsang-kr15/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR16",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "제주특별자치도",
+      "en": "Jeju",
+      "slug": "jeju-kr16"
+    },
+    "code": {
+      "id": "KR16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.381",
+      "lon": "126.553"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/jeju-kr16/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  },
+  {
+    "id": "KR17",
+    "level": 1,
+    "level_name": {
+      "local": "시·도",
+      "en": "Province/City"
+    },
+    "name": {
+      "local": "세종특별자치시",
+      "en": "Sejong",
+      "slug": "sejong-kr17"
+    },
+    "code": {
+      "id": "KR17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.51",
+      "lon": "127.273"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kr/provinces/sejong-kr17/",
+      "api": "https://openadmindata.org/api/kr/"
+    }
+  }
+]

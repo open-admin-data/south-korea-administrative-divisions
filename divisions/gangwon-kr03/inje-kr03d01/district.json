@@ -1,0 +1,45 @@
+{
+  "id": "KR03D01",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Inje",
+    "en": "Inje",
+    "slug": "inje-kr03d01"
+  },
+  "code": {
+    "id": "KR03D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR03",
+    "level": 1,
+    "name": {
+      "local": "강원도",
+      "en": "Gangwon",
+      "slug": "gangwon-kr03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.068",
+    "lon": "128.265"
+  },
+  "metadata": {},
+  "source": {}
+}

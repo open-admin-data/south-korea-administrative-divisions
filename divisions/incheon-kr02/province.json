@@ -1,0 +1,33 @@
+{
+  "id": "KR02",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "인천광역시",
+    "en": "Incheon",
+    "slug": "incheon-kr02"
+  },
+  "code": {
+    "id": "KR02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.532",
+    "lon": "126.704"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/incheon-kr02/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

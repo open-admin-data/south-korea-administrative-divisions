@@ -1,0 +1,587 @@
+[
+  {
+    "id": "KR01D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boeun",
+      "en": "Boeun",
+      "slug": "boeun-kr01d02"
+    },
+    "code": {
+      "id": "KR01D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.493",
+      "lon": "127.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cheongwon",
+      "en": "Cheongwon",
+      "slug": "cheongwon-kr01d04"
+    },
+    "code": {
+      "id": "KR01D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.529",
+      "lon": "127.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chungju",
+      "en": "Chungju",
+      "slug": "chungju-kr01d01"
+    },
+    "code": {
+      "id": "KR01D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.014",
+      "lon": "127.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Danyang",
+      "en": "Danyang",
+      "slug": "danyang-kr01d03"
+    },
+    "code": {
+      "id": "KR01D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.011",
+      "lon": "128.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Eumseong",
+      "en": "Eumseong",
+      "slug": "eumseong-kr01d12"
+    },
+    "code": {
+      "id": "KR01D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.978",
+      "lon": "127.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goesan",
+      "en": "Goesan",
+      "slug": "goesan-kr01d06"
+    },
+    "code": {
+      "id": "KR01D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.779",
+      "lon": "127.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Heungdeok",
+      "en": "Heungdeok",
+      "slug": "heungdeok-kr01d10"
+    },
+    "code": {
+      "id": "KR01D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.641",
+      "lon": "127.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jecheon",
+      "en": "Jecheon",
+      "slug": "jecheon-kr01d07"
+    },
+    "code": {
+      "id": "KR01D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.121",
+      "lon": "128.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeungpyeong",
+      "en": "Jeungpyeong",
+      "slug": "jeungpyeong-kr01d13"
+    },
+    "code": {
+      "id": "KR01D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.798",
+      "lon": "127.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jincheon",
+      "en": "Jincheon",
+      "slug": "jincheon-kr01d09"
+    },
+    "code": {
+      "id": "KR01D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.867",
+      "lon": "127.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Okcheon",
+      "en": "Okcheon",
+      "slug": "okcheon-kr01d08"
+    },
+    "code": {
+      "id": "KR01D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.334",
+      "lon": "127.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sangdang",
+      "en": "Sangdang",
+      "slug": "sangdang-kr01d11"
+    },
+    "code": {
+      "id": "KR01D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.637",
+      "lon": "127.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongdong",
+      "en": "Yeongdong",
+      "slug": "yeongdong-kr01d05"
+    },
+    "code": {
+      "id": "KR01D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.155",
+      "lon": "127.793"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

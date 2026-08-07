@@ -1,0 +1,10127 @@
+[
+  {
+    "id": "KR13D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeonje",
+      "en": "Yeonje",
+      "slug": "yeonje-kr13d01"
+    },
+    "code": {
+      "id": "KR13D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.188",
+      "lon": "129.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Haeundae",
+      "en": "Haeundae",
+      "slug": "haeundae-kr13d02"
+    },
+    "code": {
+      "id": "KR13D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.189",
+      "lon": "129.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangseo",
+      "en": "Gangseo",
+      "slug": "gangseo-kr13d03"
+    },
+    "code": {
+      "id": "KR13D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.162",
+      "lon": "128.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR07D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dong",
+      "en": "Dong",
+      "slug": "dong-kr07d01"
+    },
+    "code": {
+      "id": "KR07D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR07",
+      "level": 1,
+      "name": {
+        "local": "광주광역시",
+        "en": "Gwangju",
+        "slug": "gwangju-kr07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR07",
+        "level": 1,
+        "name": {
+          "local": "광주광역시",
+          "en": "Gwangju",
+          "slug": "gwangju-kr07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.112",
+      "lon": "126.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Geumjeong",
+      "en": "Geumjeong",
+      "slug": "geumjeong-kr13d04"
+    },
+    "code": {
+      "id": "KR13D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.259",
+      "lon": "129.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gijang",
+      "en": "Gijang",
+      "slug": "gijang-kr13d05"
+    },
+    "code": {
+      "id": "KR13D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.299",
+      "lon": "129.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hongseong",
+      "en": "Hongseong",
+      "slug": "hongseong-kr08d01"
+    },
+    "code": {
+      "id": "KR08D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.551",
+      "lon": "126.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR07D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nam",
+      "en": "Nam",
+      "slug": "nam-kr07d02"
+    },
+    "code": {
+      "id": "KR07D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR07",
+      "level": 1,
+      "name": {
+        "local": "광주광역시",
+        "en": "Gwangju",
+        "slug": "gwangju-kr07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR07",
+        "level": 1,
+        "name": {
+          "local": "광주광역시",
+          "en": "Gwangju",
+          "slug": "gwangju-kr07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.094",
+      "lon": "126.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwanak",
+      "en": "Gwanak",
+      "slug": "gwanak-kr04d01"
+    },
+    "code": {
+      "id": "KR04D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.47",
+      "lon": "126.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jindo",
+      "en": "Jindo",
+      "slug": "jindo-kr12d01"
+    },
+    "code": {
+      "id": "KR12D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.473",
+      "lon": "126.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwangyang",
+      "en": "Gwangyang",
+      "slug": "gwangyang-kr12d02"
+    },
+    "code": {
+      "id": "KR12D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.035",
+      "lon": "127.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gumi",
+      "en": "Gumi",
+      "slug": "gumi-kr15d01"
+    },
+    "code": {
+      "id": "KR15D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.206",
+      "lon": "128.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwangju",
+      "en": "Gwangju",
+      "slug": "gwangju-kr05d01"
+    },
+    "code": {
+      "id": "KR05D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.419",
+      "lon": "127.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chungju",
+      "en": "Chungju",
+      "slug": "chungju-kr01d01"
+    },
+    "code": {
+      "id": "KR01D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.014",
+      "lon": "127.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jinan",
+      "en": "Jinan",
+      "slug": "jinan-kr06d01"
+    },
+    "code": {
+      "id": "KR06D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.844",
+      "lon": "127.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wando",
+      "en": "Wando",
+      "slug": "wando-kr12d03"
+    },
+    "code": {
+      "id": "KR12D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.362",
+      "lon": "126.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR07D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seo",
+      "en": "Seo",
+      "slug": "seo-kr07d03"
+    },
+    "code": {
+      "id": "KR07D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR07",
+      "level": 1,
+      "name": {
+        "local": "광주광역시",
+        "en": "Gwangju",
+        "slug": "gwangju-kr07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR07",
+        "level": 1,
+        "name": {
+          "local": "광주광역시",
+          "en": "Gwangju",
+          "slug": "gwangju-kr07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.14",
+      "lon": "126.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwangjin",
+      "en": "Gwangjin",
+      "slug": "gwangjin-kr04d02"
+    },
+    "code": {
+      "id": "KR04D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.546",
+      "lon": "127.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nowon",
+      "en": "Nowon",
+      "slug": "nowon-kr04d03"
+    },
+    "code": {
+      "id": "KR04D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.64",
+      "lon": "127.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seongbuk",
+      "en": "Seongbuk",
+      "slug": "seongbuk-kr04d04"
+    },
+    "code": {
+      "id": "KR04D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.598",
+      "lon": "127.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yangcheon",
+      "en": "Yangcheon",
+      "slug": "yangcheon-kr04d05"
+    },
+    "code": {
+      "id": "KR04D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.52",
+      "lon": "126.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Geumcheon",
+      "en": "Geumcheon",
+      "slug": "geumcheon-kr04d06"
+    },
+    "code": {
+      "id": "KR04D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.46",
+      "lon": "126.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Naju",
+      "en": "Naju",
+      "slug": "naju-kr12d04"
+    },
+    "code": {
+      "id": "KR12D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.98",
+      "lon": "126.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boeun",
+      "en": "Boeun",
+      "slug": "boeun-kr01d02"
+    },
+    "code": {
+      "id": "KR01D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.493",
+      "lon": "127.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sangju",
+      "en": "Sangju",
+      "slug": "sangju-kr15d02"
+    },
+    "code": {
+      "id": "KR15D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.403",
+      "lon": "128.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muan",
+      "en": "Muan",
+      "slug": "muan-kr12d05"
+    },
+    "code": {
+      "id": "KR12D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.934",
+      "lon": "126.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Inje",
+      "en": "Inje",
+      "slug": "inje-kr03d01"
+    },
+    "code": {
+      "id": "KR03D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.068",
+      "lon": "128.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Miryang",
+      "en": "Miryang",
+      "slug": "miryang-kr11d01"
+    },
+    "code": {
+      "id": "KR11D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.476",
+      "lon": "128.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gongju",
+      "en": "Gongju",
+      "slug": "gongju-kr08d02"
+    },
+    "code": {
+      "id": "KR08D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.534",
+      "lon": "127.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gapyeong",
+      "en": "Gapyeong",
+      "slug": "gapyeong-kr05d02"
+    },
+    "code": {
+      "id": "KR05D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.822",
+      "lon": "127.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chuncheon",
+      "en": "Chuncheon",
+      "slug": "chuncheon-kr03d02"
+    },
+    "code": {
+      "id": "KR03D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.89",
+      "lon": "127.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Damyang",
+      "en": "Damyang",
+      "slug": "damyang-kr12d06"
+    },
+    "code": {
+      "id": "KR12D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.314",
+      "lon": "126.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sancheong",
+      "en": "Sancheong",
+      "slug": "sancheong-kr11d02"
+    },
+    "code": {
+      "id": "KR11D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.382",
+      "lon": "127.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gyeongju",
+      "en": "Gyeongju",
+      "slug": "gyeongju-kr15d03"
+    },
+    "code": {
+      "id": "KR15D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.84",
+      "lon": "129.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gimpo",
+      "en": "Gimpo",
+      "slug": "gimpo-kr05d03"
+    },
+    "code": {
+      "id": "KR05D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.67",
+      "lon": "126.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR02D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namdong",
+      "en": "Namdong",
+      "slug": "namdong-kr02d01"
+    },
+    "code": {
+      "id": "KR02D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.437",
+      "lon": "126.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hamyang",
+      "en": "Hamyang",
+      "slug": "hamyang-kr11d03"
+    },
+    "code": {
+      "id": "KR11D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.571",
+      "lon": "127.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gyeryong",
+      "en": "Gyeryong",
+      "slug": "gyeryong-kr08d03"
+    },
+    "code": {
+      "id": "KR08D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.286",
+      "lon": "127.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwangmyeong",
+      "en": "Gwangmyeong",
+      "slug": "gwangmyeong-kr05d04"
+    },
+    "code": {
+      "id": "KR05D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.444",
+      "lon": "126.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boryeong",
+      "en": "Boryeong",
+      "slug": "boryeong-kr08d04"
+    },
+    "code": {
+      "id": "KR08D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.379",
+      "lon": "126.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Danyang",
+      "en": "Danyang",
+      "slug": "danyang-kr01d03"
+    },
+    "code": {
+      "id": "KR01D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.011",
+      "lon": "128.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seodaemun",
+      "en": "Seodaemun",
+      "slug": "seodaemun-kr04d07"
+    },
+    "code": {
+      "id": "KR04D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.576",
+      "lon": "126.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muju",
+      "en": "Muju",
+      "slug": "muju-kr06d02"
+    },
+    "code": {
+      "id": "KR06D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.934",
+      "lon": "127.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR10D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suseong",
+      "en": "Suseong",
+      "slug": "suseong-kr10d01"
+    },
+    "code": {
+      "id": "KR10D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR10",
+      "level": 1,
+      "name": {
+        "local": "대구광역시",
+        "en": "Daegu",
+        "slug": "daegu-kr10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR10",
+        "level": 1,
+        "name": {
+          "local": "대구광역시",
+          "en": "Daegu",
+          "slug": "daegu-kr10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.843",
+      "lon": "128.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Boseong",
+      "en": "Boseong",
+      "slug": "boseong-kr12d07"
+    },
+    "code": {
+      "id": "KR12D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.819",
+      "lon": "127.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goheung",
+      "en": "Goheung",
+      "slug": "goheung-kr12d08"
+    },
+    "code": {
+      "id": "KR12D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.659",
+      "lon": "127.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR16D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeju",
+      "en": "Jeju",
+      "slug": "jeju-kr16d01"
+    },
+    "code": {
+      "id": "KR16D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR16",
+      "level": 1,
+      "name": {
+        "local": "제주특별자치도",
+        "en": "Jeju",
+        "slug": "jeju-kr16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR16",
+        "level": 1,
+        "name": {
+          "local": "제주특별자치도",
+          "en": "Jeju",
+          "slug": "jeju-kr16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.439",
+      "lon": "126.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwacheon",
+      "en": "Gwacheon",
+      "slug": "gwacheon-kr05d05"
+    },
+    "code": {
+      "id": "KR05D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.433",
+      "lon": "127.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goryeong",
+      "en": "Goryeong",
+      "slug": "goryeong-kr15d04"
+    },
+    "code": {
+      "id": "KR15D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.724",
+      "lon": "128.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hapcheon",
+      "en": "Hapcheon",
+      "slug": "hapcheon-kr11d04"
+    },
+    "code": {
+      "id": "KR11D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.545",
+      "lon": "128.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gimcheon",
+      "en": "Gimcheon",
+      "slug": "gimcheon-kr15d05"
+    },
+    "code": {
+      "id": "KR15D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.076",
+      "lon": "128.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wonju",
+      "en": "Wonju",
+      "slug": "wonju-kr03d03"
+    },
+    "code": {
+      "id": "KR03D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.333",
+      "lon": "127.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taebaek",
+      "en": "Taebaek",
+      "slug": "taebaek-kr03d04"
+    },
+    "code": {
+      "id": "KR03D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.153",
+      "lon": "128.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seongju",
+      "en": "Seongju",
+      "slug": "seongju-kr15d06"
+    },
+    "code": {
+      "id": "KR15D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.916",
+      "lon": "128.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Siheung",
+      "en": "Siheung",
+      "slug": "siheung-kr05d06"
+    },
+    "code": {
+      "id": "KR05D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.401",
+      "lon": "126.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR07D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwangsan",
+      "en": "Gwangsan",
+      "slug": "gwangsan-kr07d04"
+    },
+    "code": {
+      "id": "KR07D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR07",
+      "level": 1,
+      "name": {
+        "local": "광주광역시",
+        "en": "Gwangju",
+        "slug": "gwangju-kr07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR07",
+        "level": 1,
+        "name": {
+          "local": "광주광역시",
+          "en": "Gwangju",
+          "slug": "gwangju-kr07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.168",
+      "lon": "126.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mapo",
+      "en": "Mapo",
+      "slug": "mapo-kr04d08"
+    },
+    "code": {
+      "id": "KR04D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.557",
+      "lon": "126.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Andong",
+      "en": "Andong",
+      "slug": "andong-kr15d07"
+    },
+    "code": {
+      "id": "KR15D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.605",
+      "lon": "128.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeosu",
+      "en": "Yeosu",
+      "slug": "yeosu-kr12d09"
+    },
+    "code": {
+      "id": "KR12D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.788",
+      "lon": "127.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jongno",
+      "en": "Jongno",
+      "slug": "jongno-kr04d09"
+    },
+    "code": {
+      "id": "KR04D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.61",
+      "lon": "126.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeonggwang",
+      "en": "Yeonggwang",
+      "slug": "yeonggwang-kr12d10"
+    },
+    "code": {
+      "id": "KR12D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.252",
+      "lon": "126.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongdeungpo",
+      "en": "Yeongdeungpo",
+      "slug": "yeongdeungpo-kr04d10"
+    },
+    "code": {
+      "id": "KR04D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.522",
+      "lon": "126.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangbuk",
+      "en": "Gangbuk",
+      "slug": "gangbuk-kr04d11"
+    },
+    "code": {
+      "id": "KR04D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.645",
+      "lon": "127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hwasun",
+      "en": "Hwasun",
+      "slug": "hwasun-kr12d11"
+    },
+    "code": {
+      "id": "KR12D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35",
+      "lon": "127.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seongdong",
+      "en": "Seongdong",
+      "slug": "seongdong-kr04d12"
+    },
+    "code": {
+      "id": "KR04D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.556",
+      "lon": "127.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Songpa",
+      "en": "Songpa",
+      "slug": "songpa-kr04d13"
+    },
+    "code": {
+      "id": "KR04D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.506",
+      "lon": "127.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jangseong",
+      "en": "Jangseong",
+      "slug": "jangseong-kr12d12"
+    },
+    "code": {
+      "id": "KR12D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.323",
+      "lon": "126.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hanam",
+      "en": "Hanam",
+      "slug": "hanam-kr05d07"
+    },
+    "code": {
+      "id": "KR05D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.522",
+      "lon": "127.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mokpo",
+      "en": "Mokpo",
+      "slug": "mokpo-kr12d13"
+    },
+    "code": {
+      "id": "KR12D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.812",
+      "lon": "126.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seocho",
+      "en": "Seocho",
+      "slug": "seocho-kr04d14"
+    },
+    "code": {
+      "id": "KR04D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.477",
+      "lon": "127.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR07D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buk",
+      "en": "Buk",
+      "slug": "buk-kr07d05"
+    },
+    "code": {
+      "id": "KR07D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR07",
+      "level": 1,
+      "name": {
+        "local": "광주광역시",
+        "en": "Gwangju",
+        "slug": "gwangju-kr07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR07",
+        "level": 1,
+        "name": {
+          "local": "광주광역시",
+          "en": "Gwangju",
+          "slug": "gwangju-kr07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.209",
+      "lon": "126.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Osan",
+      "en": "Osan",
+      "slug": "osan-kr05d08"
+    },
+    "code": {
+      "id": "KR05D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.161",
+      "lon": "127.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Geumsan",
+      "en": "Geumsan",
+      "slug": "geumsan-kr08d05"
+    },
+    "code": {
+      "id": "KR08D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.109",
+      "lon": "127.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongwol",
+      "en": "Yeongwol",
+      "slug": "yeongwol-kr03d05"
+    },
+    "code": {
+      "id": "KR03D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.211",
+      "lon": "128.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cheongwon",
+      "en": "Cheongwon",
+      "slug": "cheongwon-kr01d04"
+    },
+    "code": {
+      "id": "KR01D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.529",
+      "lon": "127.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangdong",
+      "en": "Gangdong",
+      "slug": "gangdong-kr04d15"
+    },
+    "code": {
+      "id": "KR04D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.55",
+      "lon": "127.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sacheon",
+      "en": "Sacheon",
+      "slug": "sacheon-kr11d05"
+    },
+    "code": {
+      "id": "KR11D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.037",
+      "lon": "128.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeongseon",
+      "en": "Jeongseon",
+      "slug": "jeongseon-kr03d06"
+    },
+    "code": {
+      "id": "KR03D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.39",
+      "lon": "128.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buyeo",
+      "en": "Buyeo",
+      "slug": "buyeo-kr08d06"
+    },
+    "code": {
+      "id": "KR08D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.229",
+      "lon": "126.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gimje",
+      "en": "Gimje",
+      "slug": "gimje-kr06d03"
+    },
+    "code": {
+      "id": "KR06D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.834",
+      "lon": "126.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongdaemun",
+      "en": "Dongdaemun",
+      "slug": "dongdaemun-kr04d16"
+    },
+    "code": {
+      "id": "KR04D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.586",
+      "lon": "127.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jangheung",
+      "en": "Jangheung",
+      "slug": "jangheung-kr12d14"
+    },
+    "code": {
+      "id": "KR12D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.754",
+      "lon": "126.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR02D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ongjin",
+      "en": "Ongjin",
+      "slug": "ongjin-kr02d02"
+    },
+    "code": {
+      "id": "KR02D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.23",
+      "lon": "126.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongdong",
+      "en": "Yeongdong",
+      "slug": "yeongdong-kr01d05"
+    },
+    "code": {
+      "id": "KR01D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.155",
+      "lon": "127.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Eunpyeong",
+      "en": "Eunpyeong",
+      "slug": "eunpyeong-kr04d17"
+    },
+    "code": {
+      "id": "KR04D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.623",
+      "lon": "126.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Changnyeong",
+      "en": "Changnyeong",
+      "slug": "changnyeong-kr11d06"
+    },
+    "code": {
+      "id": "KR11D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.539",
+      "lon": "128.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hoengseong",
+      "en": "Hoengseong",
+      "slug": "hoengseong-kr03d07"
+    },
+    "code": {
+      "id": "KR03D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.54",
+      "lon": "128.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangjin",
+      "en": "Gangjin",
+      "slug": "gangjin-kr12d15"
+    },
+    "code": {
+      "id": "KR12D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.693",
+      "lon": "126.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongyang",
+      "en": "Yeongyang",
+      "slug": "yeongyang-kr15d08"
+    },
+    "code": {
+      "id": "KR15D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.708",
+      "lon": "129.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goesan",
+      "en": "Goesan",
+      "slug": "goesan-kr01d06"
+    },
+    "code": {
+      "id": "KR01D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.779",
+      "lon": "127.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR09D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Daedeok",
+      "en": "Daedeok",
+      "slug": "daedeok-kr09d01"
+    },
+    "code": {
+      "id": "KR09D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR09",
+      "level": 1,
+      "name": {
+        "local": "대전광역시",
+        "en": "Daejeon",
+        "slug": "daejeon-kr09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR09",
+        "level": 1,
+        "name": {
+          "local": "대전광역시",
+          "en": "Daejeon",
+          "slug": "daejeon-kr09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.425",
+      "lon": "127.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nonsan",
+      "en": "Nonsan",
+      "slug": "nonsan-kr08d07"
+    },
+    "code": {
+      "id": "KR08D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.182",
+      "lon": "127.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D18",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangnam",
+      "en": "Gangnam",
+      "slug": "gangnam-kr04d18"
+    },
+    "code": {
+      "id": "KR04D18",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.499",
+      "lon": "127.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bonghwa",
+      "en": "Bonghwa",
+      "slug": "bonghwa-kr15d09"
+    },
+    "code": {
+      "id": "KR15D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.924",
+      "lon": "128.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Haman",
+      "en": "Haman",
+      "slug": "haman-kr11d07"
+    },
+    "code": {
+      "id": "KR11D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.293",
+      "lon": "128.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Geoje",
+      "en": "Geoje",
+      "slug": "geoje-kr11d08"
+    },
+    "code": {
+      "id": "KR11D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.846",
+      "lon": "128.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tongyeong",
+      "en": "Tongyeong",
+      "slug": "tongyeong-kr11d09"
+    },
+    "code": {
+      "id": "KR11D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.921",
+      "lon": "128.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namyangju",
+      "en": "Namyangju",
+      "slug": "namyangju-kr05d09"
+    },
+    "code": {
+      "id": "KR05D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.667",
+      "lon": "127.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunpo",
+      "en": "Gunpo",
+      "slug": "gunpo-kr05d10"
+    },
+    "code": {
+      "id": "KR05D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.346",
+      "lon": "126.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Guri",
+      "en": "Guri",
+      "slug": "guri-kr05d11"
+    },
+    "code": {
+      "id": "KR05D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.595",
+      "lon": "127.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yangsan",
+      "en": "Yangsan",
+      "slug": "yangsan-kr11d10"
+    },
+    "code": {
+      "id": "KR11D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.398",
+      "lon": "129.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR09D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yuseong",
+      "en": "Yuseong",
+      "slug": "yuseong-kr09d02"
+    },
+    "code": {
+      "id": "KR09D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR09",
+      "level": 1,
+      "name": {
+        "local": "대전광역시",
+        "en": "Daejeon",
+        "slug": "daejeon-kr09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR09",
+        "level": 1,
+        "name": {
+          "local": "대전광역시",
+          "en": "Daejeon",
+          "slug": "daejeon-kr09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.38",
+      "lon": "127.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saha",
+      "en": "Saha",
+      "slug": "saha-kr13d06"
+    },
+    "code": {
+      "id": "KR13D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.099",
+      "lon": "128.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uiryeong",
+      "en": "Uiryeong",
+      "slug": "uiryeong-kr11d11"
+    },
+    "code": {
+      "id": "KR11D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.423",
+      "lon": "128.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uiseong",
+      "en": "Uiseong",
+      "slug": "uiseong-kr15d10"
+    },
+    "code": {
+      "id": "KR15D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.328",
+      "lon": "128.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR16D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seogwipo",
+      "en": "Seogwipo",
+      "slug": "seogwipo-kr16d02"
+    },
+    "code": {
+      "id": "KR16D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR16",
+      "level": 1,
+      "name": {
+        "local": "제주특별자치도",
+        "en": "Jeju",
+        "slug": "jeju-kr16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR16",
+        "level": 1,
+        "name": {
+          "local": "제주특별자치도",
+          "en": "Jeju",
+          "slug": "jeju-kr16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.308",
+      "lon": "126.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suncheon",
+      "en": "Suncheon",
+      "slug": "suncheon-kr12d16"
+    },
+    "code": {
+      "id": "KR12D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.983",
+      "lon": "127.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uiwang",
+      "en": "Uiwang",
+      "slug": "uiwang-kr05d12"
+    },
+    "code": {
+      "id": "KR05D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.368",
+      "lon": "126.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uljin",
+      "en": "Uljin",
+      "slug": "uljin-kr15d11"
+    },
+    "code": {
+      "id": "KR15D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.972",
+      "lon": "129.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Anseong",
+      "en": "Anseong",
+      "slug": "anseong-kr05d13"
+    },
+    "code": {
+      "id": "KR05D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.026",
+      "lon": "127.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Imsil",
+      "en": "Imsil",
+      "slug": "imsil-kr06d04"
+    },
+    "code": {
+      "id": "KR06D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.592",
+      "lon": "127.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR02D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gyeyang",
+      "en": "Gyeyang",
+      "slug": "gyeyang-kr02d03"
+    },
+    "code": {
+      "id": "KR02D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.557",
+      "lon": "126.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cheongyang",
+      "en": "Cheongyang",
+      "slug": "cheongyang-kr08d08"
+    },
+    "code": {
+      "id": "KR08D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.457",
+      "lon": "126.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR14D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulju",
+      "en": "Ulju",
+      "slug": "ulju-kr14d01"
+    },
+    "code": {
+      "id": "KR14D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR14",
+      "level": 1,
+      "name": {
+        "local": "울산광역시",
+        "en": "Ulsan",
+        "slug": "ulsan-kr14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR14",
+        "level": 1,
+        "name": {
+          "local": "울산광역시",
+          "en": "Ulsan",
+          "slug": "ulsan-kr14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.585",
+      "lon": "129.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wanju",
+      "en": "Wanju",
+      "slug": "wanju-kr06d05"
+    },
+    "code": {
+      "id": "KR06D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.962",
+      "lon": "127.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yanggu",
+      "en": "Yanggu",
+      "slug": "yanggu-kr03d08"
+    },
+    "code": {
+      "id": "KR03D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.198",
+      "lon": "127.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongam",
+      "en": "Yeongam",
+      "slug": "yeongam-kr12d17"
+    },
+    "code": {
+      "id": "KR12D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.835",
+      "lon": "126.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yesan",
+      "en": "Yesan",
+      "slug": "yesan-kr08d09"
+    },
+    "code": {
+      "id": "KR08D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.67",
+      "lon": "126.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cheongsong",
+      "en": "Cheongsong",
+      "slug": "cheongsong-kr15d12"
+    },
+    "code": {
+      "id": "KR15D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.376",
+      "lon": "129.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D19",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Guro",
+      "en": "Guro",
+      "slug": "guro-kr04d19"
+    },
+    "code": {
+      "id": "KR04D19",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.501",
+      "lon": "126.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunwi",
+      "en": "Gunwi",
+      "slug": "gunwi-kr15d13"
+    },
+    "code": {
+      "id": "KR15D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.138",
+      "lon": "128.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jecheon",
+      "en": "Jecheon",
+      "slug": "jecheon-kr01d07"
+    },
+    "code": {
+      "id": "KR01D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.121",
+      "lon": "128.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seosan",
+      "en": "Seosan",
+      "slug": "seosan-kr08d10"
+    },
+    "code": {
+      "id": "KR08D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.79",
+      "lon": "126.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D18",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sinan",
+      "en": "Sinan",
+      "slug": "sinan-kr12d18"
+    },
+    "code": {
+      "id": "KR12D18",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.896",
+      "lon": "126.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Icheon",
+      "en": "Icheon",
+      "slug": "icheon-kr05d14"
+    },
+    "code": {
+      "id": "KR05D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.254",
+      "lon": "127.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D19",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gurye",
+      "en": "Gurye",
+      "slug": "gurye-kr12d19"
+    },
+    "code": {
+      "id": "KR12D19",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.24",
+      "lon": "127.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hadong",
+      "en": "Hadong",
+      "slug": "hadong-kr11d12"
+    },
+    "code": {
+      "id": "KR11D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.139",
+      "lon": "127.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D20",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Haenam",
+      "en": "Haenam",
+      "slug": "haenam-kr12d20"
+    },
+    "code": {
+      "id": "KR12D20",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.481",
+      "lon": "126.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chilgok",
+      "en": "Chilgok",
+      "slug": "chilgok-kr15d14"
+    },
+    "code": {
+      "id": "KR15D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.008",
+      "lon": "128.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D20",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yongsan",
+      "en": "Yongsan",
+      "slug": "yongsan-kr04d20"
+    },
+    "code": {
+      "id": "KR04D20",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.534",
+      "lon": "126.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D21",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jung",
+      "en": "Jung",
+      "slug": "jung-kr04d21"
+    },
+    "code": {
+      "id": "KR04D21",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.562",
+      "lon": "126.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uijeongbu",
+      "en": "Uijeongbu",
+      "slug": "uijeongbu-kr05d15"
+    },
+    "code": {
+      "id": "KR05D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.733",
+      "lon": "127.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jinju",
+      "en": "Jinju",
+      "slug": "jinju-kr11d13"
+    },
+    "code": {
+      "id": "KR11D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.223",
+      "lon": "128.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gimhae",
+      "en": "Gimhae",
+      "slug": "gimhae-kr11d14"
+    },
+    "code": {
+      "id": "KR11D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.271",
+      "lon": "128.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongdeok",
+      "en": "Yeongdeok",
+      "slug": "yeongdeok-kr15d15"
+    },
+    "code": {
+      "id": "KR15D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.458",
+      "lon": "129.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yangpyeong",
+      "en": "Yangpyeong",
+      "slug": "yangpyeong-kr05d16"
+    },
+    "code": {
+      "id": "KR05D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.511",
+      "lon": "127.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yecheon",
+      "en": "Yecheon",
+      "slug": "yecheon-kr15d16"
+    },
+    "code": {
+      "id": "KR15D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.683",
+      "lon": "128.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongcheon",
+      "en": "Yeongcheon",
+      "slug": "yeongcheon-kr15d17"
+    },
+    "code": {
+      "id": "KR15D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.033",
+      "lon": "128.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongdo",
+      "en": "Yeongdo",
+      "slug": "yeongdo-kr13d07"
+    },
+    "code": {
+      "id": "KR13D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.084",
+      "lon": "129.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D18",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulleung",
+      "en": "Ulleung",
+      "slug": "ulleung-kr15d18"
+    },
+    "code": {
+      "id": "KR15D18",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.492",
+      "lon": "130.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D21",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gokseong",
+      "en": "Gokseong",
+      "slug": "gokseong-kr12d21"
+    },
+    "code": {
+      "id": "KR12D21",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.22",
+      "lon": "127.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunsan",
+      "en": "Gunsan",
+      "slug": "gunsan-kr06d06"
+    },
+    "code": {
+      "id": "KR06D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.952",
+      "lon": "126.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yangju",
+      "en": "Yangju",
+      "slug": "yangju-kr05d17"
+    },
+    "code": {
+      "id": "KR05D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.829",
+      "lon": "127.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goseong",
+      "en": "Goseong",
+      "slug": "goseong-kr03d09"
+    },
+    "code": {
+      "id": "KR03D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.383",
+      "lon": "128.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namhae",
+      "en": "Namhae",
+      "slug": "namhae-kr11d15"
+    },
+    "code": {
+      "id": "KR11D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.803",
+      "lon": "127.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gochang",
+      "en": "Gochang",
+      "slug": "gochang-kr06d07"
+    },
+    "code": {
+      "id": "KR06D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.428",
+      "lon": "126.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asan",
+      "en": "Asan",
+      "slug": "asan-kr08d11"
+    },
+    "code": {
+      "id": "KR08D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.803",
+      "lon": "126.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Okcheon",
+      "en": "Okcheon",
+      "slug": "okcheon-kr01d08"
+    },
+    "code": {
+      "id": "KR01D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.334",
+      "lon": "127.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jangsu",
+      "en": "Jangsu",
+      "slug": "jangsu-kr06d08"
+    },
+    "code": {
+      "id": "KR06D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.657",
+      "lon": "127.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D19",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cheongdo",
+      "en": "Cheongdo",
+      "slug": "cheongdo-kr15d19"
+    },
+    "code": {
+      "id": "KR15D19",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.634",
+      "lon": "128.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Busanjin",
+      "en": "Busanjin",
+      "slug": "busanjin-kr13d08"
+    },
+    "code": {
+      "id": "KR13D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.168",
+      "lon": "129.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buan",
+      "en": "Buan",
+      "slug": "buan-kr06d09"
+    },
+    "code": {
+      "id": "KR06D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.669",
+      "lon": "126.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namwon",
+      "en": "Namwon",
+      "slug": "namwon-kr06d10"
+    },
+    "code": {
+      "id": "KR06D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.451",
+      "lon": "127.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeongeup",
+      "en": "Jeongeup",
+      "slug": "jeongeup-kr06d11"
+    },
+    "code": {
+      "id": "KR06D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.618",
+      "lon": "126.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hongcheon",
+      "en": "Hongcheon",
+      "slug": "hongcheon-kr03d10"
+    },
+    "code": {
+      "id": "KR03D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.779",
+      "lon": "128.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR10D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dalseong",
+      "en": "Dalseong",
+      "slug": "dalseong-kr10d02"
+    },
+    "code": {
+      "id": "KR10D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR10",
+      "level": 1,
+      "name": {
+        "local": "대구광역시",
+        "en": "Daegu",
+        "slug": "daegu-kr10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR10",
+        "level": 1,
+        "name": {
+          "local": "대구광역시",
+          "en": "Daegu",
+          "slug": "daegu-kr10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.753",
+      "lon": "128.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yangyang",
+      "en": "Yangyang",
+      "slug": "yangyang-kr03d11"
+    },
+    "code": {
+      "id": "KR03D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.99",
+      "lon": "128.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D18",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeoncheon",
+      "en": "Yeoncheon",
+      "slug": "yeoncheon-kr05d18"
+    },
+    "code": {
+      "id": "KR05D18",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.142",
+      "lon": "127.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Geochang",
+      "en": "Geochang",
+      "slug": "geochang-kr11d16"
+    },
+    "code": {
+      "id": "KR11D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.768",
+      "lon": "127.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR10D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dalseo",
+      "en": "Dalseo",
+      "slug": "dalseo-kr10d03"
+    },
+    "code": {
+      "id": "KR10D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR10",
+      "level": 1,
+      "name": {
+        "local": "대구광역시",
+        "en": "Daegu",
+        "slug": "daegu-kr10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR10",
+        "level": 1,
+        "name": {
+          "local": "대구광역시",
+          "en": "Daegu",
+          "slug": "daegu-kr10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.829",
+      "lon": "128.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR02D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeonsu",
+      "en": "Yeonsu",
+      "slug": "yeonsu-kr02d04"
+    },
+    "code": {
+      "id": "KR02D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.42",
+      "lon": "126.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR02D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bupyeong",
+      "en": "Bupyeong",
+      "slug": "bupyeong-kr02d05"
+    },
+    "code": {
+      "id": "KR02D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.504",
+      "lon": "126.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sasang",
+      "en": "Sasang",
+      "slug": "sasang-kr13d09"
+    },
+    "code": {
+      "id": "KR13D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.16",
+      "lon": "128.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D19",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hwaseong",
+      "en": "Hwaseong",
+      "slug": "hwaseong-kr05d19"
+    },
+    "code": {
+      "id": "KR05D19",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.172",
+      "lon": "126.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D20",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Paju",
+      "en": "Paju",
+      "slug": "paju-kr05d20"
+    },
+    "code": {
+      "id": "KR05D20",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.864",
+      "lon": "126.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D21",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pocheon",
+      "en": "Pocheon",
+      "slug": "pocheon-kr05d21"
+    },
+    "code": {
+      "id": "KR05D21",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.981",
+      "lon": "127.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sokcho",
+      "en": "Sokcho",
+      "slug": "sokcho-kr03d12"
+    },
+    "code": {
+      "id": "KR03D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.178",
+      "lon": "128.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Iksan",
+      "en": "Iksan",
+      "slug": "iksan-kr06d12"
+    },
+    "code": {
+      "id": "KR06D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.015",
+      "lon": "127.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pyeongchang",
+      "en": "Pyeongchang",
+      "slug": "pyeongchang-kr03d13"
+    },
+    "code": {
+      "id": "KR03D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.565",
+      "lon": "128.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D22",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pyeongtaek",
+      "en": "Pyeongtaek",
+      "slug": "pyeongtaek-kr05d22"
+    },
+    "code": {
+      "id": "KR05D22",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.021",
+      "lon": "127.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangneung",
+      "en": "Gangneung",
+      "slug": "gangneung-kr03d14"
+    },
+    "code": {
+      "id": "KR03D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.716",
+      "lon": "128.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sunchang",
+      "en": "Sunchang",
+      "slug": "sunchang-kr06d13"
+    },
+    "code": {
+      "id": "KR06D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.399",
+      "lon": "127.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suyeong",
+      "en": "Suyeong",
+      "slug": "suyeong-kr13d10"
+    },
+    "code": {
+      "id": "KR13D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.164",
+      "lon": "129.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D20",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongju",
+      "en": "Yeongju",
+      "slug": "yeongju-kr15d20"
+    },
+    "code": {
+      "id": "KR15D20",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.874",
+      "lon": "128.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jincheon",
+      "en": "Jincheon",
+      "slug": "jincheon-kr01d09"
+    },
+    "code": {
+      "id": "KR01D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.867",
+      "lon": "127.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hwacheon",
+      "en": "Hwacheon",
+      "slug": "hwacheon-kr03d15"
+    },
+    "code": {
+      "id": "KR03D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.182",
+      "lon": "127.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Samcheok",
+      "en": "Samcheok",
+      "slug": "samcheok-kr03d16"
+    },
+    "code": {
+      "id": "KR03D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.284",
+      "lon": "129.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seocheon",
+      "en": "Seocheon",
+      "slug": "seocheon-kr08d12"
+    },
+    "code": {
+      "id": "KR08D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.098",
+      "lon": "126.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D21",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mungyeong",
+      "en": "Mungyeong",
+      "slug": "mungyeong-kr15d21"
+    },
+    "code": {
+      "id": "KR15D21",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.708",
+      "lon": "128.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D22",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gyeongsan",
+      "en": "Gyeongsan",
+      "slug": "gyeongsan-kr15d22"
+    },
+    "code": {
+      "id": "KR15D22",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.818",
+      "lon": "128.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR12D22",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hampyeong",
+      "en": "Hampyeong",
+      "slug": "hampyeong-kr12d22"
+    },
+    "code": {
+      "id": "KR12D22",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR12",
+        "level": 1,
+        "name": {
+          "local": "전라남도",
+          "en": "South Jeolla",
+          "slug": "south-jeolla-kr12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.112",
+      "lon": "126.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D23",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongducheon",
+      "en": "Dongducheon",
+      "slug": "dongducheon-kr05d23"
+    },
+    "code": {
+      "id": "KR05D23",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.917",
+      "lon": "127.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR03D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Donghae",
+      "en": "Donghae",
+      "slug": "donghae-kr03d17"
+    },
+    "code": {
+      "id": "KR03D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR03",
+        "level": 1,
+        "name": {
+          "local": "강원도",
+          "en": "Gangwon",
+          "slug": "gangwon-kr03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.504",
+      "lon": "129.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR02D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ganghwa",
+      "en": "Ganghwa",
+      "slug": "ganghwa-kr02d06"
+    },
+    "code": {
+      "id": "KR02D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.721",
+      "lon": "126.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D22",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongjak",
+      "en": "Dongjak",
+      "slug": "dongjak-kr04d22"
+    },
+    "code": {
+      "id": "KR04D22",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.504",
+      "lon": "126.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D24",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manan",
+      "en": "Manan",
+      "slug": "manan-kr05d24"
+    },
+    "code": {
+      "id": "KR05D24",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.399",
+      "lon": "126.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D25",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ojeong",
+      "en": "Ojeong",
+      "slug": "ojeong-kr05d25"
+    },
+    "code": {
+      "id": "KR05D25",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.526",
+      "lon": "126.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D26",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Danwon",
+      "en": "Danwon",
+      "slug": "danwon-kr05d26"
+    },
+    "code": {
+      "id": "KR05D26",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.244",
+      "lon": "126.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D27",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sangnok",
+      "en": "Sangnok",
+      "slug": "sangnok-kr05d27"
+    },
+    "code": {
+      "id": "KR05D27",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.299",
+      "lon": "126.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D28",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongan",
+      "en": "Dongan",
+      "slug": "dongan-kr05d28"
+    },
+    "code": {
+      "id": "KR05D28",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.401",
+      "lon": "126.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D29",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sosa",
+      "en": "Sosa",
+      "slug": "sosa-kr05d29"
+    },
+    "code": {
+      "id": "KR05D29",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.474",
+      "lon": "126.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D30",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wonmi",
+      "en": "Wonmi",
+      "slug": "wonmi-kr05d30"
+    },
+    "code": {
+      "id": "KR05D30",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.499",
+      "lon": "126.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongnam",
+      "en": "Dongnam",
+      "slug": "dongnam-kr08d13"
+    },
+    "code": {
+      "id": "KR08D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.787",
+      "lon": "127.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seobuk",
+      "en": "Seobuk",
+      "slug": "seobuk-kr08d14"
+    },
+    "code": {
+      "id": "KR08D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.903",
+      "lon": "127.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Heungdeok",
+      "en": "Heungdeok",
+      "slug": "heungdeok-kr01d10"
+    },
+    "code": {
+      "id": "KR01D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.641",
+      "lon": "127.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sangdang",
+      "en": "Sangdang",
+      "slug": "sangdang-kr01d11"
+    },
+    "code": {
+      "id": "KR01D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.637",
+      "lon": "127.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dangjin",
+      "en": "Dangjin",
+      "slug": "dangjin-kr08d15"
+    },
+    "code": {
+      "id": "KR08D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.883",
+      "lon": "126.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D23",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dobong",
+      "en": "Dobong",
+      "slug": "dobong-kr04d23"
+    },
+    "code": {
+      "id": "KR04D23",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.671",
+      "lon": "127.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongnae",
+      "en": "Dongnae",
+      "slug": "dongnae-kr13d11"
+    },
+    "code": {
+      "id": "KR13D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.211",
+      "lon": "129.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Eumseong",
+      "en": "Eumseong",
+      "slug": "eumseong-kr01d12"
+    },
+    "code": {
+      "id": "KR01D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.978",
+      "lon": "127.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D31",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Deogyang",
+      "en": "Deogyang",
+      "slug": "deogyang-kr05d31"
+    },
+    "code": {
+      "id": "KR05D31",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.645",
+      "lon": "126.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D32",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ilsandong",
+      "en": "Ilsandong",
+      "slug": "ilsandong-kr05d32"
+    },
+    "code": {
+      "id": "KR05D32",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.697",
+      "lon": "126.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D33",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ilsanseo",
+      "en": "Ilsanseo",
+      "slug": "ilsanseo-kr05d33"
+    },
+    "code": {
+      "id": "KR05D33",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.678",
+      "lon": "126.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Deokjin",
+      "en": "Deokjin",
+      "slug": "deokjin-kr06d14"
+    },
+    "code": {
+      "id": "KR06D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.87",
+      "lon": "127.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR06D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wansan",
+      "en": "Wansan",
+      "slug": "wansan-kr06d15"
+    },
+    "code": {
+      "id": "KR06D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR06",
+        "level": 1,
+        "name": {
+          "local": "전라북도",
+          "en": "North Jeolla",
+          "slug": "north-jeolla-kr06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.794",
+      "lon": "127.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR01D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeungpyeong",
+      "en": "Jeungpyeong",
+      "slug": "jeungpyeong-kr01d13"
+    },
+    "code": {
+      "id": "KR01D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR01",
+        "level": 1,
+        "name": {
+          "local": "충청북도",
+          "en": "North Chungcheong",
+          "slug": "north-chungcheong-kr01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.798",
+      "lon": "127.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jinhae",
+      "en": "Jinhae",
+      "slug": "jinhae-kr11d17"
+    },
+    "code": {
+      "id": "KR11D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.131",
+      "lon": "128.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR04D24",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jungnang",
+      "en": "Jungnang",
+      "slug": "jungnang-kr04d24"
+    },
+    "code": {
+      "id": "KR04D24",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR04",
+        "level": 1,
+        "name": {
+          "local": "서울특별시",
+          "en": "Seoul",
+          "slug": "seoul-kr04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.596",
+      "lon": "127.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D18",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Masanhappo",
+      "en": "Masanhappo",
+      "slug": "masanhappo-kr11d18"
+    },
+    "code": {
+      "id": "KR11D18",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.143",
+      "lon": "128.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D19",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Masanhoewon",
+      "en": "Masanhoewon",
+      "slug": "masanhoewon-kr11d19"
+    },
+    "code": {
+      "id": "KR11D19",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.237",
+      "lon": "128.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR17D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sejong",
+      "en": "Sejong",
+      "slug": "sejong-kr17d01"
+    },
+    "code": {
+      "id": "KR17D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR17",
+      "level": 1,
+      "name": {
+        "local": "세종특별자치시",
+        "en": "Sejong",
+        "slug": "sejong-kr17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR17",
+        "level": 1,
+        "name": {
+          "local": "세종특별자치시",
+          "en": "Sejong",
+          "slug": "sejong-kr17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.51",
+      "lon": "127.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D34",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bundang",
+      "en": "Bundang",
+      "slug": "bundang-kr05d34"
+    },
+    "code": {
+      "id": "KR05D34",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.377",
+      "lon": "127.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D35",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jungwon",
+      "en": "Jungwon",
+      "slug": "jungwon-kr05d35"
+    },
+    "code": {
+      "id": "KR05D35",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.43",
+      "lon": "127.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D36",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sujeong",
+      "en": "Sujeong",
+      "slug": "sujeong-kr05d36"
+    },
+    "code": {
+      "id": "KR05D36",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.428",
+      "lon": "127.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D20",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seongsan",
+      "en": "Seongsan",
+      "slug": "seongsan-kr11d20"
+    },
+    "code": {
+      "id": "KR11D20",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.201",
+      "lon": "128.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D37",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwonseon",
+      "en": "Gwonseon",
+      "slug": "gwonseon-kr05d37"
+    },
+    "code": {
+      "id": "KR05D37",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.263",
+      "lon": "126.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D38",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jangan",
+      "en": "Jangan",
+      "slug": "jangan-kr05d38"
+    },
+    "code": {
+      "id": "KR05D38",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.312",
+      "lon": "127.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D39",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Paldal",
+      "en": "Paldal",
+      "slug": "paldal-kr05d39"
+    },
+    "code": {
+      "id": "KR05D39",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.278",
+      "lon": "127.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D40",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongtong",
+      "en": "Yeongtong",
+      "slug": "yeongtong-kr05d40"
+    },
+    "code": {
+      "id": "KR05D40",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.282",
+      "lon": "127.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR08D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taean",
+      "en": "Taean",
+      "slug": "taean-kr08d16"
+    },
+    "code": {
+      "id": "KR08D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR08",
+        "level": 1,
+        "name": {
+          "local": "충청남도",
+          "en": "South Chungcheong",
+          "slug": "south-chungcheong-kr08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.763",
+      "lon": "126.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR11D21",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uichang",
+      "en": "Uichang",
+      "slug": "uichang-kr11d21"
+    },
+    "code": {
+      "id": "KR11D21",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR11",
+        "level": 1,
+        "name": {
+          "local": "경상남도",
+          "en": "South Gyeongsang",
+          "slug": "south-gyeongsang-kr11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.311",
+      "lon": "128.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D41",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeoju",
+      "en": "Yeoju",
+      "slug": "yeoju-kr05d41"
+    },
+    "code": {
+      "id": "KR05D41",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.281",
+      "lon": "127.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D42",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cheoin",
+      "en": "Cheoin",
+      "slug": "cheoin-kr05d42"
+    },
+    "code": {
+      "id": "KR05D42",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.218",
+      "lon": "127.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D43",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Giheung",
+      "en": "Giheung",
+      "slug": "giheung-kr05d43"
+    },
+    "code": {
+      "id": "KR05D43",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.271",
+      "lon": "127.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D44",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suji",
+      "en": "Suji",
+      "slug": "suji-kr05d44"
+    },
+    "code": {
+      "id": "KR05D44",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.338",
+      "lon": "127.062"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

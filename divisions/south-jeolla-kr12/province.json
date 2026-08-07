@@ -1,0 +1,33 @@
+{
+  "id": "KR12",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "전라남도",
+    "en": "South Jeolla",
+    "slug": "south-jeolla-kr12"
+  },
+  "code": {
+    "id": "KR12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.845",
+    "lon": "126.909"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/south-jeolla-kr12/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

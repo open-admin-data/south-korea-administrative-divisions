@@ -1,0 +1,992 @@
+[
+  {
+    "id": "KR15D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Andong",
+      "en": "Andong",
+      "slug": "andong-kr15d07"
+    },
+    "code": {
+      "id": "KR15D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.605",
+      "lon": "128.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bonghwa",
+      "en": "Bonghwa",
+      "slug": "bonghwa-kr15d09"
+    },
+    "code": {
+      "id": "KR15D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.924",
+      "lon": "128.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D19",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cheongdo",
+      "en": "Cheongdo",
+      "slug": "cheongdo-kr15d19"
+    },
+    "code": {
+      "id": "KR15D19",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.634",
+      "lon": "128.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cheongsong",
+      "en": "Cheongsong",
+      "slug": "cheongsong-kr15d12"
+    },
+    "code": {
+      "id": "KR15D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.376",
+      "lon": "129.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Chilgok",
+      "en": "Chilgok",
+      "slug": "chilgok-kr15d14"
+    },
+    "code": {
+      "id": "KR15D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.008",
+      "lon": "128.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gimcheon",
+      "en": "Gimcheon",
+      "slug": "gimcheon-kr15d05"
+    },
+    "code": {
+      "id": "KR15D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.076",
+      "lon": "128.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Goryeong",
+      "en": "Goryeong",
+      "slug": "goryeong-kr15d04"
+    },
+    "code": {
+      "id": "KR15D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.724",
+      "lon": "128.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gumi",
+      "en": "Gumi",
+      "slug": "gumi-kr15d01"
+    },
+    "code": {
+      "id": "KR15D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.206",
+      "lon": "128.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunwi",
+      "en": "Gunwi",
+      "slug": "gunwi-kr15d13"
+    },
+    "code": {
+      "id": "KR15D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.138",
+      "lon": "128.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gyeongju",
+      "en": "Gyeongju",
+      "slug": "gyeongju-kr15d03"
+    },
+    "code": {
+      "id": "KR15D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.84",
+      "lon": "129.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D22",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gyeongsan",
+      "en": "Gyeongsan",
+      "slug": "gyeongsan-kr15d22"
+    },
+    "code": {
+      "id": "KR15D22",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.818",
+      "lon": "128.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D21",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mungyeong",
+      "en": "Mungyeong",
+      "slug": "mungyeong-kr15d21"
+    },
+    "code": {
+      "id": "KR15D21",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.708",
+      "lon": "128.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sangju",
+      "en": "Sangju",
+      "slug": "sangju-kr15d02"
+    },
+    "code": {
+      "id": "KR15D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.403",
+      "lon": "128.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seongju",
+      "en": "Seongju",
+      "slug": "seongju-kr15d06"
+    },
+    "code": {
+      "id": "KR15D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.916",
+      "lon": "128.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uiseong",
+      "en": "Uiseong",
+      "slug": "uiseong-kr15d10"
+    },
+    "code": {
+      "id": "KR15D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.328",
+      "lon": "128.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uljin",
+      "en": "Uljin",
+      "slug": "uljin-kr15d11"
+    },
+    "code": {
+      "id": "KR15D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.972",
+      "lon": "129.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D18",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulleung",
+      "en": "Ulleung",
+      "slug": "ulleung-kr15d18"
+    },
+    "code": {
+      "id": "KR15D18",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.492",
+      "lon": "130.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yecheon",
+      "en": "Yecheon",
+      "slug": "yecheon-kr15d16"
+    },
+    "code": {
+      "id": "KR15D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.683",
+      "lon": "128.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongcheon",
+      "en": "Yeongcheon",
+      "slug": "yeongcheon-kr15d17"
+    },
+    "code": {
+      "id": "KR15D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.033",
+      "lon": "128.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongdeok",
+      "en": "Yeongdeok",
+      "slug": "yeongdeok-kr15d15"
+    },
+    "code": {
+      "id": "KR15D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.458",
+      "lon": "129.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D20",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongju",
+      "en": "Yeongju",
+      "slug": "yeongju-kr15d20"
+    },
+    "code": {
+      "id": "KR15D20",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.874",
+      "lon": "128.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR15D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongyang",
+      "en": "Yeongyang",
+      "slug": "yeongyang-kr15d08"
+    },
+    "code": {
+      "id": "KR15D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR15",
+        "level": 1,
+        "name": {
+          "local": "경상북도",
+          "en": "North Gyeongsang",
+          "slug": "north-gyeongsang-kr15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.708",
+      "lon": "129.127"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

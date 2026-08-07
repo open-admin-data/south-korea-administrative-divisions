@@ -1,0 +1,19 @@
+# Data from Open Admin Data (https://openadmindata.org/kr/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/south-korea-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,zip_codes,geo.lat,geo.lon,source_url
+KR01,1,시·도,Province/City,충청북도,North Chungcheong,north-chungcheong-kr01,KR01,,,,,,13,,36.846,127.708,https://openadmindata.org/kr/provinces/north-chungcheong-kr01/
+KR02,1,시·도,Province/City,인천광역시,Incheon,incheon-kr02,KR02,,,,,,6,,37.532,126.704,https://openadmindata.org/kr/provinces/incheon-kr02/
+KR03,1,시·도,Province/City,강원도,Gangwon,gangwon-kr03,KR03,,,,,,17,,37.747,128.3,https://openadmindata.org/kr/provinces/gangwon-kr03/
+KR04,1,시·도,Province/City,서울특별시,Seoul,seoul-kr04,KR04,,,,,,24,,37.549,126.996,https://openadmindata.org/kr/provinces/seoul-kr04/
+KR05,1,시·도,Province/City,경기도,Gyeonggi,gyeonggi-kr05,KR05,,,,,,44,,37.335,127.414,https://openadmindata.org/kr/provinces/gyeonggi-kr05/
+KR06,1,시·도,Province/City,전라북도,North Jeolla,north-jeolla-kr06,KR06,,,,,,15,,35.74,127.209,https://openadmindata.org/kr/provinces/north-jeolla-kr06/
+KR07,1,시·도,Province/City,광주광역시,Gwangju,gwangju-kr07,KR07,,,,,,5,,35.157,126.853,https://openadmindata.org/kr/provinces/gwangju-kr07/
+KR08,1,시·도,Province/City,충청남도,South Chungcheong,south-chungcheong-kr08,KR08,,,,,,16,,36.48,126.867,https://openadmindata.org/kr/provinces/south-chungcheong-kr08/
+KR09,1,시·도,Province/City,대전광역시,Daejeon,daejeon-kr09,KR09,,,,,,2,,36.359,127.393,https://openadmindata.org/kr/provinces/daejeon-kr09/
+KR10,1,시·도,Province/City,대구광역시,Daegu,daegu-kr10,KR10,,,,,,3,,35.846,128.599,https://openadmindata.org/kr/provinces/daegu-kr10/
+KR11,1,시·도,Province/City,경상남도,South Gyeongsang,south-gyeongsang-kr11,KR11,,,,,,21,,35.351,128.191,https://openadmindata.org/kr/provinces/south-gyeongsang-kr11/
+KR12,1,시·도,Province/City,전라남도,South Jeolla,south-jeolla-kr12,KR12,,,,,,22,,34.845,126.909,https://openadmindata.org/kr/provinces/south-jeolla-kr12/
+KR13,1,시·도,Province/City,부산광역시,Busan,busan-kr13,KR13,,,,,,11,,35.233,129.117,https://openadmindata.org/kr/provinces/busan-kr13/
+KR14,1,시·도,Province/City,울산광역시,Ulsan,ulsan-kr14,KR14,,,,,,1,,35.544,129.234,https://openadmindata.org/kr/provinces/ulsan-kr14/
+KR15,1,시·도,Province/City,경상북도,North Gyeongsang,north-gyeongsang-kr15,KR15,,,,,,22,,36.503,128.891,https://openadmindata.org/kr/provinces/north-gyeongsang-kr15/
+KR16,1,시·도,Province/City,제주특별자치도,Jeju,jeju-kr16,KR16,,,,,,2,,33.381,126.553,https://openadmindata.org/kr/provinces/jeju-kr16/
+KR17,1,시·도,Province/City,세종특별자치시,Sejong,sejong-kr17,KR17,,,,,,1,,36.51,127.273,https://openadmindata.org/kr/provinces/sejong-kr17/

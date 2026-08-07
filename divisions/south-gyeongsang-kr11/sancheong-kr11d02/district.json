@@ -1,0 +1,45 @@
+{
+  "id": "KR11D02",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sancheong",
+    "en": "Sancheong",
+    "slug": "sancheong-kr11d02"
+  },
+  "code": {
+    "id": "KR11D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR11",
+    "level": 1,
+    "name": {
+      "local": "경상남도",
+      "en": "South Gyeongsang",
+      "slug": "south-gyeongsang-kr11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.382",
+    "lon": "127.889"
+  },
+  "metadata": {},
+  "source": {}
+}

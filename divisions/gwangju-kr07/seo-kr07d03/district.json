@@ -1,0 +1,45 @@
+{
+  "id": "KR07D03",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seo",
+    "en": "Seo",
+    "slug": "seo-kr07d03"
+  },
+  "code": {
+    "id": "KR07D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR07",
+    "level": 1,
+    "name": {
+      "local": "광주광역시",
+      "en": "Gwangju",
+      "slug": "gwangju-kr07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR07",
+      "level": 1,
+      "name": {
+        "local": "광주광역시",
+        "en": "Gwangju",
+        "slug": "gwangju-kr07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.14",
+    "lon": "126.859"
+  },
+  "metadata": {},
+  "source": {}
+}

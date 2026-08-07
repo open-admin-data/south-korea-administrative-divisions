@@ -1,0 +1,45 @@
+{
+  "id": "KR02D05",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bupyeong",
+    "en": "Bupyeong",
+    "slug": "bupyeong-kr02d05"
+  },
+  "code": {
+    "id": "KR02D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR02",
+    "level": 1,
+    "name": {
+      "local": "인천광역시",
+      "en": "Incheon",
+      "slug": "incheon-kr02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.504",
+    "lon": "126.719"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KR16D01",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jeju",
+    "en": "Jeju",
+    "slug": "jeju-kr16d01"
+  },
+  "code": {
+    "id": "KR16D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR16",
+    "level": 1,
+    "name": {
+      "local": "제주특별자치도",
+      "en": "Jeju",
+      "slug": "jeju-kr16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR16",
+      "level": 1,
+      "name": {
+        "local": "제주특별자치도",
+        "en": "Jeju",
+        "slug": "jeju-kr16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.439",
+    "lon": "126.522"
+  },
+  "metadata": {},
+  "source": {}
+}

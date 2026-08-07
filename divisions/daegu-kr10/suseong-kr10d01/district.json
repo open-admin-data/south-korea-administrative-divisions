@@ -1,0 +1,45 @@
+{
+  "id": "KR10D01",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Suseong",
+    "en": "Suseong",
+    "slug": "suseong-kr10d01"
+  },
+  "code": {
+    "id": "KR10D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR10",
+    "level": 1,
+    "name": {
+      "local": "대구광역시",
+      "en": "Daegu",
+      "slug": "daegu-kr10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR10",
+      "level": 1,
+      "name": {
+        "local": "대구광역시",
+        "en": "Daegu",
+        "slug": "daegu-kr10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.843",
+    "lon": "128.651"
+  },
+  "metadata": {},
+  "source": {}
+}

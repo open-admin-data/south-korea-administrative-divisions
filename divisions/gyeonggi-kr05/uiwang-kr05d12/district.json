@@ -1,0 +1,45 @@
+{
+  "id": "KR05D12",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Uiwang",
+    "en": "Uiwang",
+    "slug": "uiwang-kr05d12"
+  },
+  "code": {
+    "id": "KR05D12",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR05",
+    "level": 1,
+    "name": {
+      "local": "경기도",
+      "en": "Gyeonggi",
+      "slug": "gyeonggi-kr05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.368",
+    "lon": "126.992"
+  },
+  "metadata": {},
+  "source": {}
+}

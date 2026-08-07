@@ -1,0 +1,33 @@
+{
+  "id": "KR14",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "울산광역시",
+    "en": "Ulsan",
+    "slug": "ulsan-kr14"
+  },
+  "code": {
+    "id": "KR14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.544",
+    "lon": "129.234"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/ulsan-kr14/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

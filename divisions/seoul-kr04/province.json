@@ -1,0 +1,33 @@
+{
+  "id": "KR04",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "서울특별시",
+    "en": "Seoul",
+    "slug": "seoul-kr04"
+  },
+  "code": {
+    "id": "KR04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.549",
+    "lon": "126.996"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/seoul-kr04/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

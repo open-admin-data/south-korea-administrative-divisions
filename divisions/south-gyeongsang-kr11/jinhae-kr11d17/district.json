@@ -1,0 +1,45 @@
+{
+  "id": "KR11D17",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jinhae",
+    "en": "Jinhae",
+    "slug": "jinhae-kr11d17"
+  },
+  "code": {
+    "id": "KR11D17",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR11",
+    "level": 1,
+    "name": {
+      "local": "경상남도",
+      "en": "South Gyeongsang",
+      "slug": "south-gyeongsang-kr11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.131",
+    "lon": "128.754"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KR04D13",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Songpa",
+    "en": "Songpa",
+    "slug": "songpa-kr04d13"
+  },
+  "code": {
+    "id": "KR04D13",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR04",
+    "level": 1,
+    "name": {
+      "local": "서울특별시",
+      "en": "Seoul",
+      "slug": "seoul-kr04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.506",
+    "lon": "127.121"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,19 @@
+# Jeju — South Korea Administrative Divisions
+
+> 2 districts
+> Code: KR16
+> Coordinates: 33.381, 126.553
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Jeju
+
+Code: KR16D01, Coordinates: 33.439, 126.522
+
+
+### Seogwipo
+
+Code: KR16D02, Coordinates: 33.308, 126.582
+
+

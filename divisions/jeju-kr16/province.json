@@ -1,0 +1,33 @@
+{
+  "id": "KR16",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "제주특별자치도",
+    "en": "Jeju",
+    "slug": "jeju-kr16"
+  },
+  "code": {
+    "id": "KR16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.381",
+    "lon": "126.553"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/jeju-kr16/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

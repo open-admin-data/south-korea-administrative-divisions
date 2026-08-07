@@ -1,0 +1,45 @@
+{
+  "id": "KR06D10",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Namwon",
+    "en": "Namwon",
+    "slug": "namwon-kr06d10"
+  },
+  "code": {
+    "id": "KR06D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR06",
+    "level": 1,
+    "name": {
+      "local": "전라북도",
+      "en": "North Jeolla",
+      "slug": "north-jeolla-kr06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.451",
+    "lon": "127.426"
+  },
+  "metadata": {},
+  "source": {}
+}

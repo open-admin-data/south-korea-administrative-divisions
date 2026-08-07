@@ -1,0 +1,45 @@
+{
+  "id": "KR13D02",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Haeundae",
+    "en": "Haeundae",
+    "slug": "haeundae-kr13d02"
+  },
+  "code": {
+    "id": "KR13D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR13",
+    "level": 1,
+    "name": {
+      "local": "부산광역시",
+      "en": "Busan",
+      "slug": "busan-kr13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.189",
+    "lon": "129.147"
+  },
+  "metadata": {},
+  "source": {}
+}

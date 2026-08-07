@@ -1,0 +1,47 @@
+[
+  {
+    "id": "KR14D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulju",
+      "en": "Ulju",
+      "slug": "ulju-kr14d01"
+    },
+    "code": {
+      "id": "KR14D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR14",
+      "level": 1,
+      "name": {
+        "local": "울산광역시",
+        "en": "Ulsan",
+        "slug": "ulsan-kr14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR14",
+        "level": 1,
+        "name": {
+          "local": "울산광역시",
+          "en": "Ulsan",
+          "slug": "ulsan-kr14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.585",
+      "lon": "129.154"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

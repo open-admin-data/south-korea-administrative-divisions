@@ -1,0 +1,45 @@
+{
+  "id": "KR03D02",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Chuncheon",
+    "en": "Chuncheon",
+    "slug": "chuncheon-kr03d02"
+  },
+  "code": {
+    "id": "KR03D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR03",
+    "level": 1,
+    "name": {
+      "local": "강원도",
+      "en": "Gangwon",
+      "slug": "gangwon-kr03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.89",
+    "lon": "127.724"
+  },
+  "metadata": {},
+  "source": {}
+}

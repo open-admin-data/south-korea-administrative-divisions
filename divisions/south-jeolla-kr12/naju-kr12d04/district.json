@@ -1,0 +1,45 @@
+{
+  "id": "KR12D04",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Naju",
+    "en": "Naju",
+    "slug": "naju-kr12d04"
+  },
+  "code": {
+    "id": "KR12D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR12",
+    "level": 1,
+    "name": {
+      "local": "전라남도",
+      "en": "South Jeolla",
+      "slug": "south-jeolla-kr12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR12",
+      "level": 1,
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.98",
+    "lon": "126.763"
+  },
+  "metadata": {},
+  "source": {}
+}

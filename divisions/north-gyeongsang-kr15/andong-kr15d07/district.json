@@ -1,0 +1,45 @@
+{
+  "id": "KR15D07",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Andong",
+    "en": "Andong",
+    "slug": "andong-kr15d07"
+  },
+  "code": {
+    "id": "KR15D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR15",
+    "level": 1,
+    "name": {
+      "local": "경상북도",
+      "en": "North Gyeongsang",
+      "slug": "north-gyeongsang-kr15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.605",
+    "lon": "128.829"
+  },
+  "metadata": {},
+  "source": {}
+}

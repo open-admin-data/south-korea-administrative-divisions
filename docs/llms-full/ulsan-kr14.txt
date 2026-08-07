@@ -1,0 +1,14 @@
+# Ulsan — South Korea Administrative Divisions
+
+> 1 districts
+> Code: KR14
+> Coordinates: 35.544, 129.234
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Ulju
+
+Code: KR14D01, Coordinates: 35.585, 129.154
+
+

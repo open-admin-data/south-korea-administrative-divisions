@@ -1,0 +1,45 @@
+{
+  "id": "KR03D15",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hwacheon",
+    "en": "Hwacheon",
+    "slug": "hwacheon-kr03d15"
+  },
+  "code": {
+    "id": "KR03D15",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR03",
+    "level": 1,
+    "name": {
+      "local": "강원도",
+      "en": "Gangwon",
+      "slug": "gangwon-kr03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.182",
+    "lon": "127.713"
+  },
+  "metadata": {},
+  "source": {}
+}

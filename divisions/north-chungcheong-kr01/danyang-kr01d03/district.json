@@ -1,0 +1,45 @@
+{
+  "id": "KR01D03",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Danyang",
+    "en": "Danyang",
+    "slug": "danyang-kr01d03"
+  },
+  "code": {
+    "id": "KR01D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR01",
+    "level": 1,
+    "name": {
+      "local": "충청북도",
+      "en": "North Chungcheong",
+      "slug": "north-chungcheong-kr01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.011",
+    "lon": "128.375"
+  },
+  "metadata": {},
+  "source": {}
+}

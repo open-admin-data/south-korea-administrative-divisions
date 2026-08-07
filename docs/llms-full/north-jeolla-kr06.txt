@@ -1,0 +1,84 @@
+# North Jeolla — South Korea Administrative Divisions
+
+> 15 districts
+> Code: KR06
+> Coordinates: 35.74, 127.209
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Buan
+
+Code: KR06D09, Coordinates: 35.669, 126.652
+
+
+### Deokjin
+
+Code: KR06D14, Coordinates: 35.87, 127.126
+
+
+### Gimje
+
+Code: KR06D03, Coordinates: 35.834, 126.914
+
+
+### Gochang
+
+Code: KR06D07, Coordinates: 35.428, 126.617
+
+
+### Gunsan
+
+Code: KR06D06, Coordinates: 35.952, 126.781
+
+
+### Iksan
+
+Code: KR06D12, Coordinates: 36.015, 127.009
+
+
+### Imsil
+
+Code: KR06D04, Coordinates: 35.592, 127.238
+
+
+### Jangsu
+
+Code: KR06D08, Coordinates: 35.657, 127.548
+
+
+### Jeongeup
+
+Code: KR06D11, Coordinates: 35.618, 126.903
+
+
+### Jinan
+
+Code: KR06D01, Coordinates: 35.844, 127.428
+
+
+### Muju
+
+Code: KR06D02, Coordinates: 35.934, 127.698
+
+
+### Namwon
+
+Code: KR06D10, Coordinates: 35.451, 127.426
+
+
+### Sunchang
+
+Code: KR06D13, Coordinates: 35.399, 127.133
+
+
+### Wanju
+
+Code: KR06D05, Coordinates: 35.962, 127.236
+
+
+### Wansan
+
+Code: KR06D15, Coordinates: 35.794, 127.111
+
+

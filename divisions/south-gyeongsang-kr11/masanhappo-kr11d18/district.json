@@ -1,0 +1,45 @@
+{
+  "id": "KR11D18",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Masanhappo",
+    "en": "Masanhappo",
+    "slug": "masanhappo-kr11d18"
+  },
+  "code": {
+    "id": "KR11D18",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR11",
+    "level": 1,
+    "name": {
+      "local": "경상남도",
+      "en": "South Gyeongsang",
+      "slug": "south-gyeongsang-kr11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.143",
+    "lon": "128.478"
+  },
+  "metadata": {},
+  "source": {}
+}

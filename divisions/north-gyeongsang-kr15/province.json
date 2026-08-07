@@ -1,0 +1,33 @@
+{
+  "id": "KR15",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "경상북도",
+    "en": "North Gyeongsang",
+    "slug": "north-gyeongsang-kr15"
+  },
+  "code": {
+    "id": "KR15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.503",
+    "lon": "128.891"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/north-gyeongsang-kr15/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KR15D01",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gumi",
+    "en": "Gumi",
+    "slug": "gumi-kr15d01"
+  },
+  "code": {
+    "id": "KR15D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR15",
+    "level": 1,
+    "name": {
+      "local": "경상북도",
+      "en": "North Gyeongsang",
+      "slug": "north-gyeongsang-kr15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.206",
+    "lon": "128.357"
+  },
+  "metadata": {},
+  "source": {}
+}

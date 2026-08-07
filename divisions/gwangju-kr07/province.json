@@ -1,0 +1,33 @@
+{
+  "id": "KR07",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "광주광역시",
+    "en": "Gwangju",
+    "slug": "gwangju-kr07"
+  },
+  "code": {
+    "id": "KR07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.157",
+    "lon": "126.853"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/gwangju-kr07/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

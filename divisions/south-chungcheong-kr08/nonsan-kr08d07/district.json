@@ -1,0 +1,45 @@
+{
+  "id": "KR08D07",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nonsan",
+    "en": "Nonsan",
+    "slug": "nonsan-kr08d07"
+  },
+  "code": {
+    "id": "KR08D07",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR08",
+    "level": 1,
+    "name": {
+      "local": "충청남도",
+      "en": "South Chungcheong",
+      "slug": "south-chungcheong-kr08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.182",
+    "lon": "127.147"
+  },
+  "metadata": {},
+  "source": {}
+}

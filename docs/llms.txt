@@ -1,0 +1,84 @@
+# South Korea Administrative Divisions
+
+> Open dataset of South Korea's administrative hierarchy:
+> 17 province/citys, 225 districts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total province/citys: 17
+- Total districts: 225
+- Coordinates: included (all levels)
+- Last updated: 2026-08-07
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All province/citys (JSON)](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/data/all-province.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/data/all-district.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/data/schema.json)
+
+## Browse by Province/City
+
+- [North Chungcheong](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/north-chungcheong-kr01/) — 13 districts
+- [Incheon](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/incheon-kr02/) — 6 districts
+- [Gangwon](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/gangwon-kr03/) — 17 districts
+- [Seoul](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/seoul-kr04/) — 24 districts
+- [Gyeonggi](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/gyeonggi-kr05/) — 44 districts
+- [North Jeolla](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/north-jeolla-kr06/) — 15 districts
+- [Gwangju](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/gwangju-kr07/) — 5 districts
+- [South Chungcheong](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/south-chungcheong-kr08/) — 16 districts
+- [Daejeon](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/daejeon-kr09/) — 2 districts
+- [Daegu](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/daegu-kr10/) — 3 districts
+- [South Gyeongsang](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/south-gyeongsang-kr11/) — 21 districts
+- [South Jeolla](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/south-jeolla-kr12/) — 22 districts
+- [Busan](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/busan-kr13/) — 11 districts
+- [Ulsan](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/ulsan-kr14/) — 1 districts
+- [North Gyeongsang](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/north-gyeongsang-kr15/) — 22 districts
+- [Jeju](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/jeju-kr16/) — 2 districts
+- [Sejong](https://github.com/open-admin-data/south-korea-administrative-divisions/tree/main/divisions/sejong-kr17/) — 1 districts
+
+## Per-Province/City Full Data
+
+- [North Chungcheong](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/north-chungcheong-kr01.txt)
+- [Incheon](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/incheon-kr02.txt)
+- [Gangwon](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/gangwon-kr03.txt)
+- [Seoul](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/seoul-kr04.txt)
+- [Gyeonggi](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/gyeonggi-kr05.txt)
+- [North Jeolla](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/north-jeolla-kr06.txt)
+- [Gwangju](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/gwangju-kr07.txt)
+- [South Chungcheong](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/south-chungcheong-kr08.txt)
+- [Daejeon](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/daejeon-kr09.txt)
+- [Daegu](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/daegu-kr10.txt)
+- [South Gyeongsang](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/south-gyeongsang-kr11.txt)
+- [South Jeolla](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/south-jeolla-kr12.txt)
+- [Busan](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/busan-kr13.txt)
+- [Ulsan](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/ulsan-kr14.txt)
+- [North Gyeongsang](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/north-gyeongsang-kr15.txt)
+- [Jeju](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/jeju-kr16.txt)
+- [Sejong](https://raw.githubusercontent.com/open-admin-data/south-korea-administrative-divisions/main/docs/llms-full/sejong-kr17.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province/city), 2 (district)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+South Korea Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/south-korea-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

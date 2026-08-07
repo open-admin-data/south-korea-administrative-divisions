@@ -1,0 +1,229 @@
+# Gyeonggi — South Korea Administrative Divisions
+
+> 44 districts
+> Code: KR05
+> Coordinates: 37.335, 127.414
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Anseong
+
+Code: KR05D13, Coordinates: 37.026, 127.268
+
+
+### Bundang
+
+Code: KR05D34, Coordinates: 37.377, 127.105
+
+
+### Cheoin
+
+Code: KR05D42, Coordinates: 37.218, 127.239
+
+
+### Danwon
+
+Code: KR05D26, Coordinates: 37.244, 126.586
+
+
+### Deogyang
+
+Code: KR05D31, Coordinates: 37.645, 126.864
+
+
+### Dongan
+
+Code: KR05D28, Coordinates: 37.401, 126.957
+
+
+### Dongducheon
+
+Code: KR05D23, Coordinates: 37.917, 127.074
+
+
+### Gapyeong
+
+Code: KR05D02, Coordinates: 37.822, 127.42
+
+
+### Giheung
+
+Code: KR05D43, Coordinates: 37.271, 127.125
+
+
+### Gimpo
+
+Code: KR05D03, Coordinates: 37.67, 126.597
+
+
+### Gunpo
+
+Code: KR05D10, Coordinates: 37.346, 126.928
+
+
+### Guri
+
+Code: KR05D11, Coordinates: 37.595, 127.135
+
+
+### Gwacheon
+
+Code: KR05D05, Coordinates: 37.433, 127.003
+
+
+### Gwangju
+
+Code: KR05D01, Coordinates: 37.419, 127.302
+
+
+### Gwangmyeong
+
+Code: KR05D04, Coordinates: 37.444, 126.869
+
+
+### Gwonseon
+
+Code: KR05D37, Coordinates: 37.263, 126.977
+
+
+### Hanam
+
+Code: KR05D07, Coordinates: 37.522, 127.209
+
+
+### Hwaseong
+
+Code: KR05D19, Coordinates: 37.172, 126.904
+
+
+### Icheon
+
+Code: KR05D14, Coordinates: 37.254, 127.446
+
+
+### Ilsandong
+
+Code: KR05D32, Coordinates: 37.697, 126.808
+
+
+### Ilsanseo
+
+Code: KR05D33, Coordinates: 37.678, 126.731
+
+
+### Jangan
+
+Code: KR05D38, Coordinates: 37.312, 127.012
+
+
+### Jungwon
+
+Code: KR05D35, Coordinates: 37.43, 127.168
+
+
+### Manan
+
+Code: KR05D24, Coordinates: 37.399, 126.907
+
+
+### Namyangju
+
+Code: KR05D09, Coordinates: 37.667, 127.255
+
+
+### Ojeong
+
+Code: KR05D25, Coordinates: 37.526, 126.805
+
+
+### Osan
+
+Code: KR05D08, Coordinates: 37.161, 127.052
+
+
+### Paju
+
+Code: KR05D20, Coordinates: 37.864, 126.821
+
+
+### Paldal
+
+Code: KR05D39, Coordinates: 37.278, 127.028
+
+
+### Pocheon
+
+Code: KR05D21, Coordinates: 37.981, 127.25
+
+
+### Pyeongtaek
+
+Code: KR05D22, Coordinates: 37.021, 127.043
+
+
+### Sangnok
+
+Code: KR05D27, Coordinates: 37.299, 126.867
+
+
+### Siheung
+
+Code: KR05D06, Coordinates: 37.401, 126.804
+
+
+### Sosa
+
+Code: KR05D29, Coordinates: 37.474, 126.81
+
+
+### Sujeong
+
+Code: KR05D36, Coordinates: 37.428, 127.1
+
+
+### Suji
+
+Code: KR05D44, Coordinates: 37.338, 127.062
+
+
+### Uijeongbu
+
+Code: KR05D15, Coordinates: 37.733, 127.069
+
+
+### Uiwang
+
+Code: KR05D12, Coordinates: 37.368, 126.992
+
+
+### Wonmi
+
+Code: KR05D30, Coordinates: 37.499, 126.786
+
+
+### Yangju
+
+Code: KR05D17, Coordinates: 37.829, 127.001
+
+
+### Yangpyeong
+
+Code: KR05D16, Coordinates: 37.511, 127.603
+
+
+### Yeoju
+
+Code: KR05D41, Coordinates: 37.281, 127.648
+
+
+### Yeoncheon
+
+Code: KR05D18, Coordinates: 38.142, 127.062
+
+
+### Yeongtong
+
+Code: KR05D40, Coordinates: 37.282, 127.059
+
+

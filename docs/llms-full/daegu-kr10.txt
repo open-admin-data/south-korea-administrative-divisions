@@ -1,0 +1,24 @@
+# Daegu — South Korea Administrative Divisions
+
+> 3 districts
+> Code: KR10
+> Coordinates: 35.846, 128.599
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Dalseo
+
+Code: KR10D03, Coordinates: 35.829, 128.531
+
+
+### Dalseong
+
+Code: KR10D02, Coordinates: 35.753, 128.484
+
+
+### Suseong
+
+Code: KR10D01, Coordinates: 35.843, 128.651
+
+

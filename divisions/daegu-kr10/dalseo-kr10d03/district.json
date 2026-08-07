@@ -1,0 +1,45 @@
+{
+  "id": "KR10D03",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dalseo",
+    "en": "Dalseo",
+    "slug": "dalseo-kr10d03"
+  },
+  "code": {
+    "id": "KR10D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR10",
+    "level": 1,
+    "name": {
+      "local": "대구광역시",
+      "en": "Daegu",
+      "slug": "daegu-kr10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR10",
+      "level": 1,
+      "name": {
+        "local": "대구광역시",
+        "en": "Daegu",
+        "slug": "daegu-kr10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.829",
+    "lon": "128.531"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KR13D10",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Suyeong",
+    "en": "Suyeong",
+    "slug": "suyeong-kr13d10"
+  },
+  "code": {
+    "id": "KR13D10",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR13",
+    "level": 1,
+    "name": {
+      "local": "부산광역시",
+      "en": "Busan",
+      "slug": "busan-kr13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.164",
+    "lon": "129.113"
+  },
+  "metadata": {},
+  "source": {}
+}

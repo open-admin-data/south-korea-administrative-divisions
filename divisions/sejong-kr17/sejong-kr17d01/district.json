@@ -1,0 +1,45 @@
+{
+  "id": "KR17D01",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sejong",
+    "en": "Sejong",
+    "slug": "sejong-kr17d01"
+  },
+  "code": {
+    "id": "KR17D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR17",
+    "level": 1,
+    "name": {
+      "local": "세종특별자치시",
+      "en": "Sejong",
+      "slug": "sejong-kr17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR17",
+      "level": 1,
+      "name": {
+        "local": "세종특별자치시",
+        "en": "Sejong",
+        "slug": "sejong-kr17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.51",
+    "lon": "127.273"
+  },
+  "metadata": {},
+  "source": {}
+}

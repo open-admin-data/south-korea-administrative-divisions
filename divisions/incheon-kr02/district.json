@@ -1,0 +1,272 @@
+[
+  {
+    "id": "KR02D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bupyeong",
+      "en": "Bupyeong",
+      "slug": "bupyeong-kr02d05"
+    },
+    "code": {
+      "id": "KR02D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.504",
+      "lon": "126.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR02D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ganghwa",
+      "en": "Ganghwa",
+      "slug": "ganghwa-kr02d06"
+    },
+    "code": {
+      "id": "KR02D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.721",
+      "lon": "126.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR02D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gyeyang",
+      "en": "Gyeyang",
+      "slug": "gyeyang-kr02d03"
+    },
+    "code": {
+      "id": "KR02D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.557",
+      "lon": "126.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR02D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namdong",
+      "en": "Namdong",
+      "slug": "namdong-kr02d01"
+    },
+    "code": {
+      "id": "KR02D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.437",
+      "lon": "126.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR02D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ongjin",
+      "en": "Ongjin",
+      "slug": "ongjin-kr02d02"
+    },
+    "code": {
+      "id": "KR02D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.23",
+      "lon": "126.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR02D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeonsu",
+      "en": "Yeonsu",
+      "slug": "yeonsu-kr02d04"
+    },
+    "code": {
+      "id": "KR02D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR02",
+        "level": 1,
+        "name": {
+          "local": "인천광역시",
+          "en": "Incheon",
+          "slug": "incheon-kr02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.42",
+      "lon": "126.667"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

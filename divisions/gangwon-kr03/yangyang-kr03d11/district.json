@@ -1,0 +1,45 @@
+{
+  "id": "KR03D11",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Yangyang",
+    "en": "Yangyang",
+    "slug": "yangyang-kr03d11"
+  },
+  "code": {
+    "id": "KR03D11",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR03",
+    "level": 1,
+    "name": {
+      "local": "강원도",
+      "en": "Gangwon",
+      "slug": "gangwon-kr03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.99",
+    "lon": "128.613"
+  },
+  "metadata": {},
+  "source": {}
+}

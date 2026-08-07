@@ -1,0 +1,33 @@
+{
+  "id": "KR17",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "세종특별자치시",
+    "en": "Sejong",
+    "slug": "sejong-kr17"
+  },
+  "code": {
+    "id": "KR17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.51",
+    "lon": "127.273"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/sejong-kr17/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

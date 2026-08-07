@@ -1,0 +1,45 @@
+{
+  "id": "KR05D01",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gwangju",
+    "en": "Gwangju",
+    "slug": "gwangju-kr05d01"
+  },
+  "code": {
+    "id": "KR05D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR05",
+    "level": 1,
+    "name": {
+      "local": "경기도",
+      "en": "Gyeonggi",
+      "slug": "gyeonggi-kr05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.419",
+    "lon": "127.302"
+  },
+  "metadata": {},
+  "source": {}
+}

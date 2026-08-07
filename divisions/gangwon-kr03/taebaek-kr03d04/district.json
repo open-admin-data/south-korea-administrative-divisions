@@ -1,0 +1,45 @@
+{
+  "id": "KR03D04",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Taebaek",
+    "en": "Taebaek",
+    "slug": "taebaek-kr03d04"
+  },
+  "code": {
+    "id": "KR03D04",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR03",
+    "level": 1,
+    "name": {
+      "local": "강원도",
+      "en": "Gangwon",
+      "slug": "gangwon-kr03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.153",
+    "lon": "128.974"
+  },
+  "metadata": {},
+  "source": {}
+}

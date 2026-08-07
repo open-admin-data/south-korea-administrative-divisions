@@ -1,0 +1,45 @@
+{
+  "id": "KR04D03",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nowon",
+    "en": "Nowon",
+    "slug": "nowon-kr04d03"
+  },
+  "code": {
+    "id": "KR04D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR04",
+    "level": 1,
+    "name": {
+      "local": "서울특별시",
+      "en": "Seoul",
+      "slug": "seoul-kr04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR04",
+      "level": 1,
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.64",
+    "lon": "127.076"
+  },
+  "metadata": {},
+  "source": {}
+}

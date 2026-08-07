@@ -1,0 +1,33 @@
+{
+  "id": "KR06",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "전라북도",
+    "en": "North Jeolla",
+    "slug": "north-jeolla-kr06"
+  },
+  "code": {
+    "id": "KR06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.74",
+    "lon": "127.209"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/north-jeolla-kr06/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

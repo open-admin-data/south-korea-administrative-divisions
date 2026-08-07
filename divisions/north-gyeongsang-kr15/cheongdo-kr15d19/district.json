@@ -1,0 +1,45 @@
+{
+  "id": "KR15D19",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cheongdo",
+    "en": "Cheongdo",
+    "slug": "cheongdo-kr15d19"
+  },
+  "code": {
+    "id": "KR15D19",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR15",
+    "level": 1,
+    "name": {
+      "local": "경상북도",
+      "en": "North Gyeongsang",
+      "slug": "north-gyeongsang-kr15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.634",
+    "lon": "128.76"
+  },
+  "metadata": {},
+  "source": {}
+}

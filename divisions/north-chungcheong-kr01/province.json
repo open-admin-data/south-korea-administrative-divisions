@@ -1,0 +1,33 @@
+{
+  "id": "KR01",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "충청북도",
+    "en": "North Chungcheong",
+    "slug": "north-chungcheong-kr01"
+  },
+  "code": {
+    "id": "KR01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.846",
+    "lon": "127.708"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/north-chungcheong-kr01/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

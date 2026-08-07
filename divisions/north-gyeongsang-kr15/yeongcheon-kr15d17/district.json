@@ -1,0 +1,45 @@
+{
+  "id": "KR15D17",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Yeongcheon",
+    "en": "Yeongcheon",
+    "slug": "yeongcheon-kr15d17"
+  },
+  "code": {
+    "id": "KR15D17",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR15",
+    "level": 1,
+    "name": {
+      "local": "경상북도",
+      "en": "North Gyeongsang",
+      "slug": "north-gyeongsang-kr15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.033",
+    "lon": "128.967"
+  },
+  "metadata": {},
+  "source": {}
+}

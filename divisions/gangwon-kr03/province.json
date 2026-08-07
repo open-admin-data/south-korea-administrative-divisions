@@ -1,0 +1,33 @@
+{
+  "id": "KR03",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "강원도",
+    "en": "Gangwon",
+    "slug": "gangwon-kr03"
+  },
+  "code": {
+    "id": "KR03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.747",
+    "lon": "128.3"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/gangwon-kr03/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

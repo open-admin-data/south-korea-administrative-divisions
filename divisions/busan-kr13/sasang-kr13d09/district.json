@@ -1,0 +1,45 @@
+{
+  "id": "KR13D09",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sasang",
+    "en": "Sasang",
+    "slug": "sasang-kr13d09"
+  },
+  "code": {
+    "id": "KR13D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR13",
+    "level": 1,
+    "name": {
+      "local": "부산광역시",
+      "en": "Busan",
+      "slug": "busan-kr13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.16",
+    "lon": "128.99"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "KR09",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "대전광역시",
+    "en": "Daejeon",
+    "slug": "daejeon-kr09"
+  },
+  "code": {
+    "id": "KR09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.359",
+    "lon": "127.393"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/daejeon-kr09/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

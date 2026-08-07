@@ -1,0 +1,33 @@
+{
+  "id": "KR08",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "충청남도",
+    "en": "South Chungcheong",
+    "slug": "south-chungcheong-kr08"
+  },
+  "code": {
+    "id": "KR08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.48",
+    "lon": "126.867"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/south-chungcheong-kr08/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

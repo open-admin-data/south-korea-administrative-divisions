@@ -1,0 +1,33 @@
+{
+  "id": "KR13",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "부산광역시",
+    "en": "Busan",
+    "slug": "busan-kr13"
+  },
+  "code": {
+    "id": "KR13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.233",
+    "lon": "129.117"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/busan-kr13/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

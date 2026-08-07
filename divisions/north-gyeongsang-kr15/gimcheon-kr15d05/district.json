@@ -1,0 +1,45 @@
+{
+  "id": "KR15D05",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gimcheon",
+    "en": "Gimcheon",
+    "slug": "gimcheon-kr15d05"
+  },
+  "code": {
+    "id": "KR15D05",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR15",
+    "level": 1,
+    "name": {
+      "local": "경상북도",
+      "en": "North Gyeongsang",
+      "slug": "north-gyeongsang-kr15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR15",
+      "level": 1,
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.076",
+    "lon": "128.076"
+  },
+  "metadata": {},
+  "source": {}
+}

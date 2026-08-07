@@ -1,0 +1,45 @@
+{
+  "id": "KR01D11",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sangdang",
+    "en": "Sangdang",
+    "slug": "sangdang-kr01d11"
+  },
+  "code": {
+    "id": "KR01D11",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR01",
+    "level": 1,
+    "name": {
+      "local": "충청북도",
+      "en": "North Chungcheong",
+      "slug": "north-chungcheong-kr01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR01",
+      "level": 1,
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.637",
+    "lon": "127.521"
+  },
+  "metadata": {},
+  "source": {}
+}

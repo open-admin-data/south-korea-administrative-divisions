@@ -1,0 +1,45 @@
+{
+  "id": "KR11D20",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seongsan",
+    "en": "Seongsan",
+    "slug": "seongsan-kr11d20"
+  },
+  "code": {
+    "id": "KR11D20",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR11",
+    "level": 1,
+    "name": {
+      "local": "경상남도",
+      "en": "South Gyeongsang",
+      "slug": "south-gyeongsang-kr11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.201",
+    "lon": "128.675"
+  },
+  "metadata": {},
+  "source": {}
+}

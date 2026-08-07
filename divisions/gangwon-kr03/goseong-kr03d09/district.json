@@ -1,0 +1,45 @@
+{
+  "id": "KR03D09",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Goseong",
+    "en": "Goseong",
+    "slug": "goseong-kr03d09"
+  },
+  "code": {
+    "id": "KR03D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR03",
+    "level": 1,
+    "name": {
+      "local": "강원도",
+      "en": "Gangwon",
+      "slug": "gangwon-kr03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR03",
+      "level": 1,
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "38.383",
+    "lon": "128.383"
+  },
+  "metadata": {},
+  "source": {}
+}

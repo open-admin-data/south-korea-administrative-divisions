@@ -1,0 +1,119 @@
+# South Jeolla — South Korea Administrative Divisions
+
+> 22 districts
+> Code: KR12
+> Coordinates: 34.845, 126.909
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Boseong
+
+Code: KR12D07, Coordinates: 34.819, 127.159
+
+
+### Damyang
+
+Code: KR12D06, Coordinates: 35.314, 126.974
+
+
+### Gangjin
+
+Code: KR12D15, Coordinates: 34.693, 126.776
+
+
+### Goheung
+
+Code: KR12D08, Coordinates: 34.659, 127.369
+
+
+### Gokseong
+
+Code: KR12D21, Coordinates: 35.22, 127.285
+
+
+### Gurye
+
+Code: KR12D19, Coordinates: 35.24, 127.508
+
+
+### Gwangyang
+
+Code: KR12D02, Coordinates: 35.035, 127.648
+
+
+### Haenam
+
+Code: KR12D20, Coordinates: 34.481, 126.608
+
+
+### Hampyeong
+
+Code: KR12D22, Coordinates: 35.112, 126.537
+
+
+### Hwasun
+
+Code: KR12D11, Coordinates: 35, 127.023
+
+
+### Jangheung
+
+Code: KR12D14, Coordinates: 34.754, 126.915
+
+
+### Jangseong
+
+Code: KR12D12, Coordinates: 35.323, 126.786
+
+
+### Jindo
+
+Code: KR12D01, Coordinates: 34.473, 126.291
+
+
+### Mokpo
+
+Code: KR12D13, Coordinates: 34.812, 126.4
+
+
+### Muan
+
+Code: KR12D05, Coordinates: 34.934, 126.463
+
+
+### Naju
+
+Code: KR12D04, Coordinates: 34.98, 126.763
+
+
+### Sinan
+
+Code: KR12D18, Coordinates: 34.896, 126.317
+
+
+### Suncheon
+
+Code: KR12D16, Coordinates: 34.983, 127.414
+
+
+### Wando
+
+Code: KR12D03, Coordinates: 34.362, 126.688
+
+
+### Yeongam
+
+Code: KR12D17, Coordinates: 34.835, 126.733
+
+
+### Yeonggwang
+
+Code: KR12D10, Coordinates: 35.252, 126.489
+
+
+### Yeosu
+
+Code: KR12D09, Coordinates: 34.788, 127.701
+
+

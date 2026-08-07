@@ -1,0 +1,14 @@
+# Sejong — South Korea Administrative Divisions
+
+> 1 districts
+> Code: KR17
+> Coordinates: 36.51, 127.273
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Sejong
+
+Code: KR17D01, Coordinates: 36.51, 127.273
+
+

@@ -1,0 +1,497 @@
+[
+  {
+    "id": "KR13D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Busanjin",
+      "en": "Busanjin",
+      "slug": "busanjin-kr13d08"
+    },
+    "code": {
+      "id": "KR13D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.168",
+      "lon": "129.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongnae",
+      "en": "Dongnae",
+      "slug": "dongnae-kr13d11"
+    },
+    "code": {
+      "id": "KR13D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.211",
+      "lon": "129.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gangseo",
+      "en": "Gangseo",
+      "slug": "gangseo-kr13d03"
+    },
+    "code": {
+      "id": "KR13D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.162",
+      "lon": "128.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Geumjeong",
+      "en": "Geumjeong",
+      "slug": "geumjeong-kr13d04"
+    },
+    "code": {
+      "id": "KR13D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.259",
+      "lon": "129.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gijang",
+      "en": "Gijang",
+      "slug": "gijang-kr13d05"
+    },
+    "code": {
+      "id": "KR13D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.299",
+      "lon": "129.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Haeundae",
+      "en": "Haeundae",
+      "slug": "haeundae-kr13d02"
+    },
+    "code": {
+      "id": "KR13D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.189",
+      "lon": "129.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saha",
+      "en": "Saha",
+      "slug": "saha-kr13d06"
+    },
+    "code": {
+      "id": "KR13D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.099",
+      "lon": "128.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sasang",
+      "en": "Sasang",
+      "slug": "sasang-kr13d09"
+    },
+    "code": {
+      "id": "KR13D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.16",
+      "lon": "128.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suyeong",
+      "en": "Suyeong",
+      "slug": "suyeong-kr13d10"
+    },
+    "code": {
+      "id": "KR13D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.164",
+      "lon": "129.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongdo",
+      "en": "Yeongdo",
+      "slug": "yeongdo-kr13d07"
+    },
+    "code": {
+      "id": "KR13D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.084",
+      "lon": "129.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR13D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeonje",
+      "en": "Yeonje",
+      "slug": "yeonje-kr13d01"
+    },
+    "code": {
+      "id": "KR13D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR13",
+      "level": 1,
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR13",
+        "level": 1,
+        "name": {
+          "local": "부산광역시",
+          "en": "Busan",
+          "slug": "busan-kr13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.188",
+      "lon": "129.081"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

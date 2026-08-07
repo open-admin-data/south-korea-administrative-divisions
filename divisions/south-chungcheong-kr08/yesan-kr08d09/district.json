@@ -1,0 +1,45 @@
+{
+  "id": "KR08D09",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Yesan",
+    "en": "Yesan",
+    "slug": "yesan-kr08d09"
+  },
+  "code": {
+    "id": "KR08D09",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR08",
+    "level": 1,
+    "name": {
+      "local": "충청남도",
+      "en": "South Chungcheong",
+      "slug": "south-chungcheong-kr08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR08",
+      "level": 1,
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.67",
+    "lon": "126.819"
+  },
+  "metadata": {},
+  "source": {}
+}

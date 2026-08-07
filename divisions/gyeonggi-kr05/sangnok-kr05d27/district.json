@@ -1,0 +1,45 @@
+{
+  "id": "KR05D27",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sangnok",
+    "en": "Sangnok",
+    "slug": "sangnok-kr05d27"
+  },
+  "code": {
+    "id": "KR05D27",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR05",
+    "level": 1,
+    "name": {
+      "local": "경기도",
+      "en": "Gyeonggi",
+      "slug": "gyeonggi-kr05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.299",
+    "lon": "126.867"
+  },
+  "metadata": {},
+  "source": {}
+}

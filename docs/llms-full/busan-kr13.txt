@@ -1,0 +1,64 @@
+# Busan — South Korea Administrative Divisions
+
+> 11 districts
+> Code: KR13
+> Coordinates: 35.233, 129.117
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Busanjin
+
+Code: KR13D08, Coordinates: 35.168, 129.044
+
+
+### Dongnae
+
+Code: KR13D11, Coordinates: 35.211, 129.085
+
+
+### Gangseo
+
+Code: KR13D03, Coordinates: 35.162, 128.923
+
+
+### Geumjeong
+
+Code: KR13D04, Coordinates: 35.259, 129.087
+
+
+### Gijang
+
+Code: KR13D05, Coordinates: 35.299, 129.195
+
+
+### Haeundae
+
+Code: KR13D02, Coordinates: 35.189, 129.147
+
+
+### Saha
+
+Code: KR13D06, Coordinates: 35.099, 128.982
+
+
+### Sasang
+
+Code: KR13D09, Coordinates: 35.16, 128.99
+
+
+### Suyeong
+
+Code: KR13D10, Coordinates: 35.164, 129.113
+
+
+### Yeongdo
+
+Code: KR13D07, Coordinates: 35.084, 129.06
+
+
+### Yeonje
+
+Code: KR13D01, Coordinates: 35.188, 129.081
+
+

@@ -1,0 +1,114 @@
+# South Gyeongsang — South Korea Administrative Divisions
+
+> 21 districts
+> Code: KR11
+> Coordinates: 35.351, 128.191
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Changnyeong
+
+Code: KR11D06, Coordinates: 35.539, 128.496
+
+
+### Geochang
+
+Code: KR11D16, Coordinates: 35.768, 127.888
+
+
+### Geoje
+
+Code: KR11D08, Coordinates: 34.846, 128.639
+
+
+### Gimhae
+
+Code: KR11D14, Coordinates: 35.271, 128.82
+
+
+### Hadong
+
+Code: KR11D12, Coordinates: 35.139, 127.793
+
+
+### Haman
+
+Code: KR11D07, Coordinates: 35.293, 128.433
+
+
+### Hamyang
+
+Code: KR11D03, Coordinates: 35.571, 127.725
+
+
+### Hapcheon
+
+Code: KR11D04, Coordinates: 35.545, 128.105
+
+
+### Jinhae
+
+Code: KR11D17, Coordinates: 35.131, 128.754
+
+
+### Jinju
+
+Code: KR11D13, Coordinates: 35.223, 128.108
+
+
+### Masanhappo
+
+Code: KR11D18, Coordinates: 35.143, 128.478
+
+
+### Masanhoewon
+
+Code: KR11D19, Coordinates: 35.237, 128.513
+
+
+### Miryang
+
+Code: KR11D01, Coordinates: 35.476, 128.787
+
+
+### Namhae
+
+Code: KR11D15, Coordinates: 34.803, 127.909
+
+
+### Sacheon
+
+Code: KR11D05, Coordinates: 35.037, 128.102
+
+
+### Sancheong
+
+Code: KR11D02, Coordinates: 35.382, 127.889
+
+
+### Seongsan
+
+Code: KR11D20, Coordinates: 35.201, 128.675
+
+
+### Tongyeong
+
+Code: KR11D09, Coordinates: 34.921, 128.395
+
+
+### Uichang
+
+Code: KR11D21, Coordinates: 35.311, 128.64
+
+
+### Uiryeong
+
+Code: KR11D11, Coordinates: 35.423, 128.28
+
+
+### Yangsan
+
+Code: KR11D10, Coordinates: 35.398, 129.041
+
+

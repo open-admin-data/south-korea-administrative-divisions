@@ -1,0 +1,2943 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/kr/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/south-korea-administrative-divisions",
+  "data": [
+    {
+      "id": "KR01",
+      "name": {
+        "local": "충청북도",
+        "en": "North Chungcheong",
+        "slug": "north-chungcheong-kr01"
+      },
+      "code": {
+        "id": "KR01",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR01D01",
+          "name": {
+            "local": "Chungju",
+            "en": "Chungju",
+            "slug": "chungju-kr01d01"
+          },
+          "code": {
+            "id": "KR01D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D02",
+          "name": {
+            "local": "Boeun",
+            "en": "Boeun",
+            "slug": "boeun-kr01d02"
+          },
+          "code": {
+            "id": "KR01D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D03",
+          "name": {
+            "local": "Danyang",
+            "en": "Danyang",
+            "slug": "danyang-kr01d03"
+          },
+          "code": {
+            "id": "KR01D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D04",
+          "name": {
+            "local": "Cheongwon",
+            "en": "Cheongwon",
+            "slug": "cheongwon-kr01d04"
+          },
+          "code": {
+            "id": "KR01D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D05",
+          "name": {
+            "local": "Yeongdong",
+            "en": "Yeongdong",
+            "slug": "yeongdong-kr01d05"
+          },
+          "code": {
+            "id": "KR01D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D06",
+          "name": {
+            "local": "Goesan",
+            "en": "Goesan",
+            "slug": "goesan-kr01d06"
+          },
+          "code": {
+            "id": "KR01D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D07",
+          "name": {
+            "local": "Jecheon",
+            "en": "Jecheon",
+            "slug": "jecheon-kr01d07"
+          },
+          "code": {
+            "id": "KR01D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D08",
+          "name": {
+            "local": "Okcheon",
+            "en": "Okcheon",
+            "slug": "okcheon-kr01d08"
+          },
+          "code": {
+            "id": "KR01D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D09",
+          "name": {
+            "local": "Jincheon",
+            "en": "Jincheon",
+            "slug": "jincheon-kr01d09"
+          },
+          "code": {
+            "id": "KR01D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D10",
+          "name": {
+            "local": "Heungdeok",
+            "en": "Heungdeok",
+            "slug": "heungdeok-kr01d10"
+          },
+          "code": {
+            "id": "KR01D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D11",
+          "name": {
+            "local": "Sangdang",
+            "en": "Sangdang",
+            "slug": "sangdang-kr01d11"
+          },
+          "code": {
+            "id": "KR01D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D12",
+          "name": {
+            "local": "Eumseong",
+            "en": "Eumseong",
+            "slug": "eumseong-kr01d12"
+          },
+          "code": {
+            "id": "KR01D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR01D13",
+          "name": {
+            "local": "Jeungpyeong",
+            "en": "Jeungpyeong",
+            "slug": "jeungpyeong-kr01d13"
+          },
+          "code": {
+            "id": "KR01D13",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR02",
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      },
+      "code": {
+        "id": "KR02",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR02D01",
+          "name": {
+            "local": "Namdong",
+            "en": "Namdong",
+            "slug": "namdong-kr02d01"
+          },
+          "code": {
+            "id": "KR02D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR02D02",
+          "name": {
+            "local": "Ongjin",
+            "en": "Ongjin",
+            "slug": "ongjin-kr02d02"
+          },
+          "code": {
+            "id": "KR02D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR02D03",
+          "name": {
+            "local": "Gyeyang",
+            "en": "Gyeyang",
+            "slug": "gyeyang-kr02d03"
+          },
+          "code": {
+            "id": "KR02D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR02D04",
+          "name": {
+            "local": "Yeonsu",
+            "en": "Yeonsu",
+            "slug": "yeonsu-kr02d04"
+          },
+          "code": {
+            "id": "KR02D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR02D05",
+          "name": {
+            "local": "Bupyeong",
+            "en": "Bupyeong",
+            "slug": "bupyeong-kr02d05"
+          },
+          "code": {
+            "id": "KR02D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR02D06",
+          "name": {
+            "local": "Ganghwa",
+            "en": "Ganghwa",
+            "slug": "ganghwa-kr02d06"
+          },
+          "code": {
+            "id": "KR02D06",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR03",
+      "name": {
+        "local": "강원도",
+        "en": "Gangwon",
+        "slug": "gangwon-kr03"
+      },
+      "code": {
+        "id": "KR03",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR03D01",
+          "name": {
+            "local": "Inje",
+            "en": "Inje",
+            "slug": "inje-kr03d01"
+          },
+          "code": {
+            "id": "KR03D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D02",
+          "name": {
+            "local": "Chuncheon",
+            "en": "Chuncheon",
+            "slug": "chuncheon-kr03d02"
+          },
+          "code": {
+            "id": "KR03D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D03",
+          "name": {
+            "local": "Wonju",
+            "en": "Wonju",
+            "slug": "wonju-kr03d03"
+          },
+          "code": {
+            "id": "KR03D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D04",
+          "name": {
+            "local": "Taebaek",
+            "en": "Taebaek",
+            "slug": "taebaek-kr03d04"
+          },
+          "code": {
+            "id": "KR03D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D05",
+          "name": {
+            "local": "Yeongwol",
+            "en": "Yeongwol",
+            "slug": "yeongwol-kr03d05"
+          },
+          "code": {
+            "id": "KR03D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D06",
+          "name": {
+            "local": "Jeongseon",
+            "en": "Jeongseon",
+            "slug": "jeongseon-kr03d06"
+          },
+          "code": {
+            "id": "KR03D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D07",
+          "name": {
+            "local": "Hoengseong",
+            "en": "Hoengseong",
+            "slug": "hoengseong-kr03d07"
+          },
+          "code": {
+            "id": "KR03D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D08",
+          "name": {
+            "local": "Yanggu",
+            "en": "Yanggu",
+            "slug": "yanggu-kr03d08"
+          },
+          "code": {
+            "id": "KR03D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D09",
+          "name": {
+            "local": "Goseong",
+            "en": "Goseong",
+            "slug": "goseong-kr03d09"
+          },
+          "code": {
+            "id": "KR03D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D10",
+          "name": {
+            "local": "Hongcheon",
+            "en": "Hongcheon",
+            "slug": "hongcheon-kr03d10"
+          },
+          "code": {
+            "id": "KR03D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D11",
+          "name": {
+            "local": "Yangyang",
+            "en": "Yangyang",
+            "slug": "yangyang-kr03d11"
+          },
+          "code": {
+            "id": "KR03D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D12",
+          "name": {
+            "local": "Sokcho",
+            "en": "Sokcho",
+            "slug": "sokcho-kr03d12"
+          },
+          "code": {
+            "id": "KR03D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D13",
+          "name": {
+            "local": "Pyeongchang",
+            "en": "Pyeongchang",
+            "slug": "pyeongchang-kr03d13"
+          },
+          "code": {
+            "id": "KR03D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D14",
+          "name": {
+            "local": "Gangneung",
+            "en": "Gangneung",
+            "slug": "gangneung-kr03d14"
+          },
+          "code": {
+            "id": "KR03D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D15",
+          "name": {
+            "local": "Hwacheon",
+            "en": "Hwacheon",
+            "slug": "hwacheon-kr03d15"
+          },
+          "code": {
+            "id": "KR03D15",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D16",
+          "name": {
+            "local": "Samcheok",
+            "en": "Samcheok",
+            "slug": "samcheok-kr03d16"
+          },
+          "code": {
+            "id": "KR03D16",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR03D17",
+          "name": {
+            "local": "Donghae",
+            "en": "Donghae",
+            "slug": "donghae-kr03d17"
+          },
+          "code": {
+            "id": "KR03D17",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR04",
+      "name": {
+        "local": "서울특별시",
+        "en": "Seoul",
+        "slug": "seoul-kr04"
+      },
+      "code": {
+        "id": "KR04",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR04D01",
+          "name": {
+            "local": "Gwanak",
+            "en": "Gwanak",
+            "slug": "gwanak-kr04d01"
+          },
+          "code": {
+            "id": "KR04D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D02",
+          "name": {
+            "local": "Gwangjin",
+            "en": "Gwangjin",
+            "slug": "gwangjin-kr04d02"
+          },
+          "code": {
+            "id": "KR04D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D03",
+          "name": {
+            "local": "Nowon",
+            "en": "Nowon",
+            "slug": "nowon-kr04d03"
+          },
+          "code": {
+            "id": "KR04D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D04",
+          "name": {
+            "local": "Seongbuk",
+            "en": "Seongbuk",
+            "slug": "seongbuk-kr04d04"
+          },
+          "code": {
+            "id": "KR04D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D05",
+          "name": {
+            "local": "Yangcheon",
+            "en": "Yangcheon",
+            "slug": "yangcheon-kr04d05"
+          },
+          "code": {
+            "id": "KR04D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D06",
+          "name": {
+            "local": "Geumcheon",
+            "en": "Geumcheon",
+            "slug": "geumcheon-kr04d06"
+          },
+          "code": {
+            "id": "KR04D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D07",
+          "name": {
+            "local": "Seodaemun",
+            "en": "Seodaemun",
+            "slug": "seodaemun-kr04d07"
+          },
+          "code": {
+            "id": "KR04D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D08",
+          "name": {
+            "local": "Mapo",
+            "en": "Mapo",
+            "slug": "mapo-kr04d08"
+          },
+          "code": {
+            "id": "KR04D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D09",
+          "name": {
+            "local": "Jongno",
+            "en": "Jongno",
+            "slug": "jongno-kr04d09"
+          },
+          "code": {
+            "id": "KR04D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D10",
+          "name": {
+            "local": "Yeongdeungpo",
+            "en": "Yeongdeungpo",
+            "slug": "yeongdeungpo-kr04d10"
+          },
+          "code": {
+            "id": "KR04D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D11",
+          "name": {
+            "local": "Gangbuk",
+            "en": "Gangbuk",
+            "slug": "gangbuk-kr04d11"
+          },
+          "code": {
+            "id": "KR04D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D12",
+          "name": {
+            "local": "Seongdong",
+            "en": "Seongdong",
+            "slug": "seongdong-kr04d12"
+          },
+          "code": {
+            "id": "KR04D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D13",
+          "name": {
+            "local": "Songpa",
+            "en": "Songpa",
+            "slug": "songpa-kr04d13"
+          },
+          "code": {
+            "id": "KR04D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D14",
+          "name": {
+            "local": "Seocho",
+            "en": "Seocho",
+            "slug": "seocho-kr04d14"
+          },
+          "code": {
+            "id": "KR04D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D15",
+          "name": {
+            "local": "Gangdong",
+            "en": "Gangdong",
+            "slug": "gangdong-kr04d15"
+          },
+          "code": {
+            "id": "KR04D15",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D16",
+          "name": {
+            "local": "Dongdaemun",
+            "en": "Dongdaemun",
+            "slug": "dongdaemun-kr04d16"
+          },
+          "code": {
+            "id": "KR04D16",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D17",
+          "name": {
+            "local": "Eunpyeong",
+            "en": "Eunpyeong",
+            "slug": "eunpyeong-kr04d17"
+          },
+          "code": {
+            "id": "KR04D17",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D18",
+          "name": {
+            "local": "Gangnam",
+            "en": "Gangnam",
+            "slug": "gangnam-kr04d18"
+          },
+          "code": {
+            "id": "KR04D18",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D19",
+          "name": {
+            "local": "Guro",
+            "en": "Guro",
+            "slug": "guro-kr04d19"
+          },
+          "code": {
+            "id": "KR04D19",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D20",
+          "name": {
+            "local": "Yongsan",
+            "en": "Yongsan",
+            "slug": "yongsan-kr04d20"
+          },
+          "code": {
+            "id": "KR04D20",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D21",
+          "name": {
+            "local": "Jung",
+            "en": "Jung",
+            "slug": "jung-kr04d21"
+          },
+          "code": {
+            "id": "KR04D21",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D22",
+          "name": {
+            "local": "Dongjak",
+            "en": "Dongjak",
+            "slug": "dongjak-kr04d22"
+          },
+          "code": {
+            "id": "KR04D22",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D23",
+          "name": {
+            "local": "Dobong",
+            "en": "Dobong",
+            "slug": "dobong-kr04d23"
+          },
+          "code": {
+            "id": "KR04D23",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR04D24",
+          "name": {
+            "local": "Jungnang",
+            "en": "Jungnang",
+            "slug": "jungnang-kr04d24"
+          },
+          "code": {
+            "id": "KR04D24",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR05",
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      },
+      "code": {
+        "id": "KR05",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR05D01",
+          "name": {
+            "local": "Gwangju",
+            "en": "Gwangju",
+            "slug": "gwangju-kr05d01"
+          },
+          "code": {
+            "id": "KR05D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D02",
+          "name": {
+            "local": "Gapyeong",
+            "en": "Gapyeong",
+            "slug": "gapyeong-kr05d02"
+          },
+          "code": {
+            "id": "KR05D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D03",
+          "name": {
+            "local": "Gimpo",
+            "en": "Gimpo",
+            "slug": "gimpo-kr05d03"
+          },
+          "code": {
+            "id": "KR05D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D04",
+          "name": {
+            "local": "Gwangmyeong",
+            "en": "Gwangmyeong",
+            "slug": "gwangmyeong-kr05d04"
+          },
+          "code": {
+            "id": "KR05D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D05",
+          "name": {
+            "local": "Gwacheon",
+            "en": "Gwacheon",
+            "slug": "gwacheon-kr05d05"
+          },
+          "code": {
+            "id": "KR05D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D06",
+          "name": {
+            "local": "Siheung",
+            "en": "Siheung",
+            "slug": "siheung-kr05d06"
+          },
+          "code": {
+            "id": "KR05D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D07",
+          "name": {
+            "local": "Hanam",
+            "en": "Hanam",
+            "slug": "hanam-kr05d07"
+          },
+          "code": {
+            "id": "KR05D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D08",
+          "name": {
+            "local": "Osan",
+            "en": "Osan",
+            "slug": "osan-kr05d08"
+          },
+          "code": {
+            "id": "KR05D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D09",
+          "name": {
+            "local": "Namyangju",
+            "en": "Namyangju",
+            "slug": "namyangju-kr05d09"
+          },
+          "code": {
+            "id": "KR05D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D10",
+          "name": {
+            "local": "Gunpo",
+            "en": "Gunpo",
+            "slug": "gunpo-kr05d10"
+          },
+          "code": {
+            "id": "KR05D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D11",
+          "name": {
+            "local": "Guri",
+            "en": "Guri",
+            "slug": "guri-kr05d11"
+          },
+          "code": {
+            "id": "KR05D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D12",
+          "name": {
+            "local": "Uiwang",
+            "en": "Uiwang",
+            "slug": "uiwang-kr05d12"
+          },
+          "code": {
+            "id": "KR05D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D13",
+          "name": {
+            "local": "Anseong",
+            "en": "Anseong",
+            "slug": "anseong-kr05d13"
+          },
+          "code": {
+            "id": "KR05D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D14",
+          "name": {
+            "local": "Icheon",
+            "en": "Icheon",
+            "slug": "icheon-kr05d14"
+          },
+          "code": {
+            "id": "KR05D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D15",
+          "name": {
+            "local": "Uijeongbu",
+            "en": "Uijeongbu",
+            "slug": "uijeongbu-kr05d15"
+          },
+          "code": {
+            "id": "KR05D15",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D16",
+          "name": {
+            "local": "Yangpyeong",
+            "en": "Yangpyeong",
+            "slug": "yangpyeong-kr05d16"
+          },
+          "code": {
+            "id": "KR05D16",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D17",
+          "name": {
+            "local": "Yangju",
+            "en": "Yangju",
+            "slug": "yangju-kr05d17"
+          },
+          "code": {
+            "id": "KR05D17",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D18",
+          "name": {
+            "local": "Yeoncheon",
+            "en": "Yeoncheon",
+            "slug": "yeoncheon-kr05d18"
+          },
+          "code": {
+            "id": "KR05D18",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D19",
+          "name": {
+            "local": "Hwaseong",
+            "en": "Hwaseong",
+            "slug": "hwaseong-kr05d19"
+          },
+          "code": {
+            "id": "KR05D19",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D20",
+          "name": {
+            "local": "Paju",
+            "en": "Paju",
+            "slug": "paju-kr05d20"
+          },
+          "code": {
+            "id": "KR05D20",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D21",
+          "name": {
+            "local": "Pocheon",
+            "en": "Pocheon",
+            "slug": "pocheon-kr05d21"
+          },
+          "code": {
+            "id": "KR05D21",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D22",
+          "name": {
+            "local": "Pyeongtaek",
+            "en": "Pyeongtaek",
+            "slug": "pyeongtaek-kr05d22"
+          },
+          "code": {
+            "id": "KR05D22",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D23",
+          "name": {
+            "local": "Dongducheon",
+            "en": "Dongducheon",
+            "slug": "dongducheon-kr05d23"
+          },
+          "code": {
+            "id": "KR05D23",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D24",
+          "name": {
+            "local": "Manan",
+            "en": "Manan",
+            "slug": "manan-kr05d24"
+          },
+          "code": {
+            "id": "KR05D24",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D25",
+          "name": {
+            "local": "Ojeong",
+            "en": "Ojeong",
+            "slug": "ojeong-kr05d25"
+          },
+          "code": {
+            "id": "KR05D25",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D26",
+          "name": {
+            "local": "Danwon",
+            "en": "Danwon",
+            "slug": "danwon-kr05d26"
+          },
+          "code": {
+            "id": "KR05D26",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D27",
+          "name": {
+            "local": "Sangnok",
+            "en": "Sangnok",
+            "slug": "sangnok-kr05d27"
+          },
+          "code": {
+            "id": "KR05D27",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D28",
+          "name": {
+            "local": "Dongan",
+            "en": "Dongan",
+            "slug": "dongan-kr05d28"
+          },
+          "code": {
+            "id": "KR05D28",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D29",
+          "name": {
+            "local": "Sosa",
+            "en": "Sosa",
+            "slug": "sosa-kr05d29"
+          },
+          "code": {
+            "id": "KR05D29",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D30",
+          "name": {
+            "local": "Wonmi",
+            "en": "Wonmi",
+            "slug": "wonmi-kr05d30"
+          },
+          "code": {
+            "id": "KR05D30",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D31",
+          "name": {
+            "local": "Deogyang",
+            "en": "Deogyang",
+            "slug": "deogyang-kr05d31"
+          },
+          "code": {
+            "id": "KR05D31",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D32",
+          "name": {
+            "local": "Ilsandong",
+            "en": "Ilsandong",
+            "slug": "ilsandong-kr05d32"
+          },
+          "code": {
+            "id": "KR05D32",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D33",
+          "name": {
+            "local": "Ilsanseo",
+            "en": "Ilsanseo",
+            "slug": "ilsanseo-kr05d33"
+          },
+          "code": {
+            "id": "KR05D33",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D34",
+          "name": {
+            "local": "Bundang",
+            "en": "Bundang",
+            "slug": "bundang-kr05d34"
+          },
+          "code": {
+            "id": "KR05D34",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D35",
+          "name": {
+            "local": "Jungwon",
+            "en": "Jungwon",
+            "slug": "jungwon-kr05d35"
+          },
+          "code": {
+            "id": "KR05D35",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D36",
+          "name": {
+            "local": "Sujeong",
+            "en": "Sujeong",
+            "slug": "sujeong-kr05d36"
+          },
+          "code": {
+            "id": "KR05D36",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D37",
+          "name": {
+            "local": "Gwonseon",
+            "en": "Gwonseon",
+            "slug": "gwonseon-kr05d37"
+          },
+          "code": {
+            "id": "KR05D37",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D38",
+          "name": {
+            "local": "Jangan",
+            "en": "Jangan",
+            "slug": "jangan-kr05d38"
+          },
+          "code": {
+            "id": "KR05D38",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D39",
+          "name": {
+            "local": "Paldal",
+            "en": "Paldal",
+            "slug": "paldal-kr05d39"
+          },
+          "code": {
+            "id": "KR05D39",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D40",
+          "name": {
+            "local": "Yeongtong",
+            "en": "Yeongtong",
+            "slug": "yeongtong-kr05d40"
+          },
+          "code": {
+            "id": "KR05D40",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D41",
+          "name": {
+            "local": "Yeoju",
+            "en": "Yeoju",
+            "slug": "yeoju-kr05d41"
+          },
+          "code": {
+            "id": "KR05D41",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D42",
+          "name": {
+            "local": "Cheoin",
+            "en": "Cheoin",
+            "slug": "cheoin-kr05d42"
+          },
+          "code": {
+            "id": "KR05D42",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D43",
+          "name": {
+            "local": "Giheung",
+            "en": "Giheung",
+            "slug": "giheung-kr05d43"
+          },
+          "code": {
+            "id": "KR05D43",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR05D44",
+          "name": {
+            "local": "Suji",
+            "en": "Suji",
+            "slug": "suji-kr05d44"
+          },
+          "code": {
+            "id": "KR05D44",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR06",
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      },
+      "code": {
+        "id": "KR06",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR06D01",
+          "name": {
+            "local": "Jinan",
+            "en": "Jinan",
+            "slug": "jinan-kr06d01"
+          },
+          "code": {
+            "id": "KR06D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D02",
+          "name": {
+            "local": "Muju",
+            "en": "Muju",
+            "slug": "muju-kr06d02"
+          },
+          "code": {
+            "id": "KR06D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D03",
+          "name": {
+            "local": "Gimje",
+            "en": "Gimje",
+            "slug": "gimje-kr06d03"
+          },
+          "code": {
+            "id": "KR06D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D04",
+          "name": {
+            "local": "Imsil",
+            "en": "Imsil",
+            "slug": "imsil-kr06d04"
+          },
+          "code": {
+            "id": "KR06D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D05",
+          "name": {
+            "local": "Wanju",
+            "en": "Wanju",
+            "slug": "wanju-kr06d05"
+          },
+          "code": {
+            "id": "KR06D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D06",
+          "name": {
+            "local": "Gunsan",
+            "en": "Gunsan",
+            "slug": "gunsan-kr06d06"
+          },
+          "code": {
+            "id": "KR06D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D07",
+          "name": {
+            "local": "Gochang",
+            "en": "Gochang",
+            "slug": "gochang-kr06d07"
+          },
+          "code": {
+            "id": "KR06D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D08",
+          "name": {
+            "local": "Jangsu",
+            "en": "Jangsu",
+            "slug": "jangsu-kr06d08"
+          },
+          "code": {
+            "id": "KR06D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D09",
+          "name": {
+            "local": "Buan",
+            "en": "Buan",
+            "slug": "buan-kr06d09"
+          },
+          "code": {
+            "id": "KR06D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D10",
+          "name": {
+            "local": "Namwon",
+            "en": "Namwon",
+            "slug": "namwon-kr06d10"
+          },
+          "code": {
+            "id": "KR06D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D11",
+          "name": {
+            "local": "Jeongeup",
+            "en": "Jeongeup",
+            "slug": "jeongeup-kr06d11"
+          },
+          "code": {
+            "id": "KR06D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D12",
+          "name": {
+            "local": "Iksan",
+            "en": "Iksan",
+            "slug": "iksan-kr06d12"
+          },
+          "code": {
+            "id": "KR06D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D13",
+          "name": {
+            "local": "Sunchang",
+            "en": "Sunchang",
+            "slug": "sunchang-kr06d13"
+          },
+          "code": {
+            "id": "KR06D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D14",
+          "name": {
+            "local": "Deokjin",
+            "en": "Deokjin",
+            "slug": "deokjin-kr06d14"
+          },
+          "code": {
+            "id": "KR06D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR06D15",
+          "name": {
+            "local": "Wansan",
+            "en": "Wansan",
+            "slug": "wansan-kr06d15"
+          },
+          "code": {
+            "id": "KR06D15",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR07",
+      "name": {
+        "local": "광주광역시",
+        "en": "Gwangju",
+        "slug": "gwangju-kr07"
+      },
+      "code": {
+        "id": "KR07",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR07D01",
+          "name": {
+            "local": "Dong",
+            "en": "Dong",
+            "slug": "dong-kr07d01"
+          },
+          "code": {
+            "id": "KR07D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR07D02",
+          "name": {
+            "local": "Nam",
+            "en": "Nam",
+            "slug": "nam-kr07d02"
+          },
+          "code": {
+            "id": "KR07D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR07D03",
+          "name": {
+            "local": "Seo",
+            "en": "Seo",
+            "slug": "seo-kr07d03"
+          },
+          "code": {
+            "id": "KR07D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR07D04",
+          "name": {
+            "local": "Gwangsan",
+            "en": "Gwangsan",
+            "slug": "gwangsan-kr07d04"
+          },
+          "code": {
+            "id": "KR07D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR07D05",
+          "name": {
+            "local": "Buk",
+            "en": "Buk",
+            "slug": "buk-kr07d05"
+          },
+          "code": {
+            "id": "KR07D05",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR08",
+      "name": {
+        "local": "충청남도",
+        "en": "South Chungcheong",
+        "slug": "south-chungcheong-kr08"
+      },
+      "code": {
+        "id": "KR08",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR08D01",
+          "name": {
+            "local": "Hongseong",
+            "en": "Hongseong",
+            "slug": "hongseong-kr08d01"
+          },
+          "code": {
+            "id": "KR08D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D02",
+          "name": {
+            "local": "Gongju",
+            "en": "Gongju",
+            "slug": "gongju-kr08d02"
+          },
+          "code": {
+            "id": "KR08D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D03",
+          "name": {
+            "local": "Gyeryong",
+            "en": "Gyeryong",
+            "slug": "gyeryong-kr08d03"
+          },
+          "code": {
+            "id": "KR08D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D04",
+          "name": {
+            "local": "Boryeong",
+            "en": "Boryeong",
+            "slug": "boryeong-kr08d04"
+          },
+          "code": {
+            "id": "KR08D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D05",
+          "name": {
+            "local": "Geumsan",
+            "en": "Geumsan",
+            "slug": "geumsan-kr08d05"
+          },
+          "code": {
+            "id": "KR08D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D06",
+          "name": {
+            "local": "Buyeo",
+            "en": "Buyeo",
+            "slug": "buyeo-kr08d06"
+          },
+          "code": {
+            "id": "KR08D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D07",
+          "name": {
+            "local": "Nonsan",
+            "en": "Nonsan",
+            "slug": "nonsan-kr08d07"
+          },
+          "code": {
+            "id": "KR08D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D08",
+          "name": {
+            "local": "Cheongyang",
+            "en": "Cheongyang",
+            "slug": "cheongyang-kr08d08"
+          },
+          "code": {
+            "id": "KR08D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D09",
+          "name": {
+            "local": "Yesan",
+            "en": "Yesan",
+            "slug": "yesan-kr08d09"
+          },
+          "code": {
+            "id": "KR08D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D10",
+          "name": {
+            "local": "Seosan",
+            "en": "Seosan",
+            "slug": "seosan-kr08d10"
+          },
+          "code": {
+            "id": "KR08D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D11",
+          "name": {
+            "local": "Asan",
+            "en": "Asan",
+            "slug": "asan-kr08d11"
+          },
+          "code": {
+            "id": "KR08D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D12",
+          "name": {
+            "local": "Seocheon",
+            "en": "Seocheon",
+            "slug": "seocheon-kr08d12"
+          },
+          "code": {
+            "id": "KR08D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D13",
+          "name": {
+            "local": "Dongnam",
+            "en": "Dongnam",
+            "slug": "dongnam-kr08d13"
+          },
+          "code": {
+            "id": "KR08D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D14",
+          "name": {
+            "local": "Seobuk",
+            "en": "Seobuk",
+            "slug": "seobuk-kr08d14"
+          },
+          "code": {
+            "id": "KR08D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D15",
+          "name": {
+            "local": "Dangjin",
+            "en": "Dangjin",
+            "slug": "dangjin-kr08d15"
+          },
+          "code": {
+            "id": "KR08D15",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR08D16",
+          "name": {
+            "local": "Taean",
+            "en": "Taean",
+            "slug": "taean-kr08d16"
+          },
+          "code": {
+            "id": "KR08D16",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR09",
+      "name": {
+        "local": "대전광역시",
+        "en": "Daejeon",
+        "slug": "daejeon-kr09"
+      },
+      "code": {
+        "id": "KR09",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR09D01",
+          "name": {
+            "local": "Daedeok",
+            "en": "Daedeok",
+            "slug": "daedeok-kr09d01"
+          },
+          "code": {
+            "id": "KR09D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR09D02",
+          "name": {
+            "local": "Yuseong",
+            "en": "Yuseong",
+            "slug": "yuseong-kr09d02"
+          },
+          "code": {
+            "id": "KR09D02",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR10",
+      "name": {
+        "local": "대구광역시",
+        "en": "Daegu",
+        "slug": "daegu-kr10"
+      },
+      "code": {
+        "id": "KR10",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR10D01",
+          "name": {
+            "local": "Suseong",
+            "en": "Suseong",
+            "slug": "suseong-kr10d01"
+          },
+          "code": {
+            "id": "KR10D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR10D02",
+          "name": {
+            "local": "Dalseong",
+            "en": "Dalseong",
+            "slug": "dalseong-kr10d02"
+          },
+          "code": {
+            "id": "KR10D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR10D03",
+          "name": {
+            "local": "Dalseo",
+            "en": "Dalseo",
+            "slug": "dalseo-kr10d03"
+          },
+          "code": {
+            "id": "KR10D03",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR11",
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      },
+      "code": {
+        "id": "KR11",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR11D01",
+          "name": {
+            "local": "Miryang",
+            "en": "Miryang",
+            "slug": "miryang-kr11d01"
+          },
+          "code": {
+            "id": "KR11D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D02",
+          "name": {
+            "local": "Sancheong",
+            "en": "Sancheong",
+            "slug": "sancheong-kr11d02"
+          },
+          "code": {
+            "id": "KR11D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D03",
+          "name": {
+            "local": "Hamyang",
+            "en": "Hamyang",
+            "slug": "hamyang-kr11d03"
+          },
+          "code": {
+            "id": "KR11D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D04",
+          "name": {
+            "local": "Hapcheon",
+            "en": "Hapcheon",
+            "slug": "hapcheon-kr11d04"
+          },
+          "code": {
+            "id": "KR11D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D05",
+          "name": {
+            "local": "Sacheon",
+            "en": "Sacheon",
+            "slug": "sacheon-kr11d05"
+          },
+          "code": {
+            "id": "KR11D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D06",
+          "name": {
+            "local": "Changnyeong",
+            "en": "Changnyeong",
+            "slug": "changnyeong-kr11d06"
+          },
+          "code": {
+            "id": "KR11D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D07",
+          "name": {
+            "local": "Haman",
+            "en": "Haman",
+            "slug": "haman-kr11d07"
+          },
+          "code": {
+            "id": "KR11D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D08",
+          "name": {
+            "local": "Geoje",
+            "en": "Geoje",
+            "slug": "geoje-kr11d08"
+          },
+          "code": {
+            "id": "KR11D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D09",
+          "name": {
+            "local": "Tongyeong",
+            "en": "Tongyeong",
+            "slug": "tongyeong-kr11d09"
+          },
+          "code": {
+            "id": "KR11D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D10",
+          "name": {
+            "local": "Yangsan",
+            "en": "Yangsan",
+            "slug": "yangsan-kr11d10"
+          },
+          "code": {
+            "id": "KR11D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D11",
+          "name": {
+            "local": "Uiryeong",
+            "en": "Uiryeong",
+            "slug": "uiryeong-kr11d11"
+          },
+          "code": {
+            "id": "KR11D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D12",
+          "name": {
+            "local": "Hadong",
+            "en": "Hadong",
+            "slug": "hadong-kr11d12"
+          },
+          "code": {
+            "id": "KR11D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D13",
+          "name": {
+            "local": "Jinju",
+            "en": "Jinju",
+            "slug": "jinju-kr11d13"
+          },
+          "code": {
+            "id": "KR11D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D14",
+          "name": {
+            "local": "Gimhae",
+            "en": "Gimhae",
+            "slug": "gimhae-kr11d14"
+          },
+          "code": {
+            "id": "KR11D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D15",
+          "name": {
+            "local": "Namhae",
+            "en": "Namhae",
+            "slug": "namhae-kr11d15"
+          },
+          "code": {
+            "id": "KR11D15",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D16",
+          "name": {
+            "local": "Geochang",
+            "en": "Geochang",
+            "slug": "geochang-kr11d16"
+          },
+          "code": {
+            "id": "KR11D16",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D17",
+          "name": {
+            "local": "Jinhae",
+            "en": "Jinhae",
+            "slug": "jinhae-kr11d17"
+          },
+          "code": {
+            "id": "KR11D17",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D18",
+          "name": {
+            "local": "Masanhappo",
+            "en": "Masanhappo",
+            "slug": "masanhappo-kr11d18"
+          },
+          "code": {
+            "id": "KR11D18",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D19",
+          "name": {
+            "local": "Masanhoewon",
+            "en": "Masanhoewon",
+            "slug": "masanhoewon-kr11d19"
+          },
+          "code": {
+            "id": "KR11D19",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D20",
+          "name": {
+            "local": "Seongsan",
+            "en": "Seongsan",
+            "slug": "seongsan-kr11d20"
+          },
+          "code": {
+            "id": "KR11D20",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR11D21",
+          "name": {
+            "local": "Uichang",
+            "en": "Uichang",
+            "slug": "uichang-kr11d21"
+          },
+          "code": {
+            "id": "KR11D21",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR12",
+      "name": {
+        "local": "전라남도",
+        "en": "South Jeolla",
+        "slug": "south-jeolla-kr12"
+      },
+      "code": {
+        "id": "KR12",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR12D01",
+          "name": {
+            "local": "Jindo",
+            "en": "Jindo",
+            "slug": "jindo-kr12d01"
+          },
+          "code": {
+            "id": "KR12D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D02",
+          "name": {
+            "local": "Gwangyang",
+            "en": "Gwangyang",
+            "slug": "gwangyang-kr12d02"
+          },
+          "code": {
+            "id": "KR12D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D03",
+          "name": {
+            "local": "Wando",
+            "en": "Wando",
+            "slug": "wando-kr12d03"
+          },
+          "code": {
+            "id": "KR12D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D04",
+          "name": {
+            "local": "Naju",
+            "en": "Naju",
+            "slug": "naju-kr12d04"
+          },
+          "code": {
+            "id": "KR12D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D05",
+          "name": {
+            "local": "Muan",
+            "en": "Muan",
+            "slug": "muan-kr12d05"
+          },
+          "code": {
+            "id": "KR12D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D06",
+          "name": {
+            "local": "Damyang",
+            "en": "Damyang",
+            "slug": "damyang-kr12d06"
+          },
+          "code": {
+            "id": "KR12D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D07",
+          "name": {
+            "local": "Boseong",
+            "en": "Boseong",
+            "slug": "boseong-kr12d07"
+          },
+          "code": {
+            "id": "KR12D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D08",
+          "name": {
+            "local": "Goheung",
+            "en": "Goheung",
+            "slug": "goheung-kr12d08"
+          },
+          "code": {
+            "id": "KR12D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D09",
+          "name": {
+            "local": "Yeosu",
+            "en": "Yeosu",
+            "slug": "yeosu-kr12d09"
+          },
+          "code": {
+            "id": "KR12D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D10",
+          "name": {
+            "local": "Yeonggwang",
+            "en": "Yeonggwang",
+            "slug": "yeonggwang-kr12d10"
+          },
+          "code": {
+            "id": "KR12D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D11",
+          "name": {
+            "local": "Hwasun",
+            "en": "Hwasun",
+            "slug": "hwasun-kr12d11"
+          },
+          "code": {
+            "id": "KR12D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D12",
+          "name": {
+            "local": "Jangseong",
+            "en": "Jangseong",
+            "slug": "jangseong-kr12d12"
+          },
+          "code": {
+            "id": "KR12D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D13",
+          "name": {
+            "local": "Mokpo",
+            "en": "Mokpo",
+            "slug": "mokpo-kr12d13"
+          },
+          "code": {
+            "id": "KR12D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D14",
+          "name": {
+            "local": "Jangheung",
+            "en": "Jangheung",
+            "slug": "jangheung-kr12d14"
+          },
+          "code": {
+            "id": "KR12D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D15",
+          "name": {
+            "local": "Gangjin",
+            "en": "Gangjin",
+            "slug": "gangjin-kr12d15"
+          },
+          "code": {
+            "id": "KR12D15",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D16",
+          "name": {
+            "local": "Suncheon",
+            "en": "Suncheon",
+            "slug": "suncheon-kr12d16"
+          },
+          "code": {
+            "id": "KR12D16",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D17",
+          "name": {
+            "local": "Yeongam",
+            "en": "Yeongam",
+            "slug": "yeongam-kr12d17"
+          },
+          "code": {
+            "id": "KR12D17",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D18",
+          "name": {
+            "local": "Sinan",
+            "en": "Sinan",
+            "slug": "sinan-kr12d18"
+          },
+          "code": {
+            "id": "KR12D18",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D19",
+          "name": {
+            "local": "Gurye",
+            "en": "Gurye",
+            "slug": "gurye-kr12d19"
+          },
+          "code": {
+            "id": "KR12D19",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D20",
+          "name": {
+            "local": "Haenam",
+            "en": "Haenam",
+            "slug": "haenam-kr12d20"
+          },
+          "code": {
+            "id": "KR12D20",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D21",
+          "name": {
+            "local": "Gokseong",
+            "en": "Gokseong",
+            "slug": "gokseong-kr12d21"
+          },
+          "code": {
+            "id": "KR12D21",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR12D22",
+          "name": {
+            "local": "Hampyeong",
+            "en": "Hampyeong",
+            "slug": "hampyeong-kr12d22"
+          },
+          "code": {
+            "id": "KR12D22",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR13",
+      "name": {
+        "local": "부산광역시",
+        "en": "Busan",
+        "slug": "busan-kr13"
+      },
+      "code": {
+        "id": "KR13",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR13D01",
+          "name": {
+            "local": "Yeonje",
+            "en": "Yeonje",
+            "slug": "yeonje-kr13d01"
+          },
+          "code": {
+            "id": "KR13D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR13D02",
+          "name": {
+            "local": "Haeundae",
+            "en": "Haeundae",
+            "slug": "haeundae-kr13d02"
+          },
+          "code": {
+            "id": "KR13D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR13D03",
+          "name": {
+            "local": "Gangseo",
+            "en": "Gangseo",
+            "slug": "gangseo-kr13d03"
+          },
+          "code": {
+            "id": "KR13D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR13D04",
+          "name": {
+            "local": "Geumjeong",
+            "en": "Geumjeong",
+            "slug": "geumjeong-kr13d04"
+          },
+          "code": {
+            "id": "KR13D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR13D05",
+          "name": {
+            "local": "Gijang",
+            "en": "Gijang",
+            "slug": "gijang-kr13d05"
+          },
+          "code": {
+            "id": "KR13D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR13D06",
+          "name": {
+            "local": "Saha",
+            "en": "Saha",
+            "slug": "saha-kr13d06"
+          },
+          "code": {
+            "id": "KR13D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR13D07",
+          "name": {
+            "local": "Yeongdo",
+            "en": "Yeongdo",
+            "slug": "yeongdo-kr13d07"
+          },
+          "code": {
+            "id": "KR13D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR13D08",
+          "name": {
+            "local": "Busanjin",
+            "en": "Busanjin",
+            "slug": "busanjin-kr13d08"
+          },
+          "code": {
+            "id": "KR13D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR13D09",
+          "name": {
+            "local": "Sasang",
+            "en": "Sasang",
+            "slug": "sasang-kr13d09"
+          },
+          "code": {
+            "id": "KR13D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR13D10",
+          "name": {
+            "local": "Suyeong",
+            "en": "Suyeong",
+            "slug": "suyeong-kr13d10"
+          },
+          "code": {
+            "id": "KR13D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR13D11",
+          "name": {
+            "local": "Dongnae",
+            "en": "Dongnae",
+            "slug": "dongnae-kr13d11"
+          },
+          "code": {
+            "id": "KR13D11",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR14",
+      "name": {
+        "local": "울산광역시",
+        "en": "Ulsan",
+        "slug": "ulsan-kr14"
+      },
+      "code": {
+        "id": "KR14",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR14D01",
+          "name": {
+            "local": "Ulju",
+            "en": "Ulju",
+            "slug": "ulju-kr14d01"
+          },
+          "code": {
+            "id": "KR14D01",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR15",
+      "name": {
+        "local": "경상북도",
+        "en": "North Gyeongsang",
+        "slug": "north-gyeongsang-kr15"
+      },
+      "code": {
+        "id": "KR15",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR15D01",
+          "name": {
+            "local": "Gumi",
+            "en": "Gumi",
+            "slug": "gumi-kr15d01"
+          },
+          "code": {
+            "id": "KR15D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D02",
+          "name": {
+            "local": "Sangju",
+            "en": "Sangju",
+            "slug": "sangju-kr15d02"
+          },
+          "code": {
+            "id": "KR15D02",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D03",
+          "name": {
+            "local": "Gyeongju",
+            "en": "Gyeongju",
+            "slug": "gyeongju-kr15d03"
+          },
+          "code": {
+            "id": "KR15D03",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D04",
+          "name": {
+            "local": "Goryeong",
+            "en": "Goryeong",
+            "slug": "goryeong-kr15d04"
+          },
+          "code": {
+            "id": "KR15D04",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D05",
+          "name": {
+            "local": "Gimcheon",
+            "en": "Gimcheon",
+            "slug": "gimcheon-kr15d05"
+          },
+          "code": {
+            "id": "KR15D05",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D06",
+          "name": {
+            "local": "Seongju",
+            "en": "Seongju",
+            "slug": "seongju-kr15d06"
+          },
+          "code": {
+            "id": "KR15D06",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D07",
+          "name": {
+            "local": "Andong",
+            "en": "Andong",
+            "slug": "andong-kr15d07"
+          },
+          "code": {
+            "id": "KR15D07",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D08",
+          "name": {
+            "local": "Yeongyang",
+            "en": "Yeongyang",
+            "slug": "yeongyang-kr15d08"
+          },
+          "code": {
+            "id": "KR15D08",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D09",
+          "name": {
+            "local": "Bonghwa",
+            "en": "Bonghwa",
+            "slug": "bonghwa-kr15d09"
+          },
+          "code": {
+            "id": "KR15D09",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D10",
+          "name": {
+            "local": "Uiseong",
+            "en": "Uiseong",
+            "slug": "uiseong-kr15d10"
+          },
+          "code": {
+            "id": "KR15D10",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D11",
+          "name": {
+            "local": "Uljin",
+            "en": "Uljin",
+            "slug": "uljin-kr15d11"
+          },
+          "code": {
+            "id": "KR15D11",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D12",
+          "name": {
+            "local": "Cheongsong",
+            "en": "Cheongsong",
+            "slug": "cheongsong-kr15d12"
+          },
+          "code": {
+            "id": "KR15D12",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D13",
+          "name": {
+            "local": "Gunwi",
+            "en": "Gunwi",
+            "slug": "gunwi-kr15d13"
+          },
+          "code": {
+            "id": "KR15D13",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D14",
+          "name": {
+            "local": "Chilgok",
+            "en": "Chilgok",
+            "slug": "chilgok-kr15d14"
+          },
+          "code": {
+            "id": "KR15D14",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D15",
+          "name": {
+            "local": "Yeongdeok",
+            "en": "Yeongdeok",
+            "slug": "yeongdeok-kr15d15"
+          },
+          "code": {
+            "id": "KR15D15",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D16",
+          "name": {
+            "local": "Yecheon",
+            "en": "Yecheon",
+            "slug": "yecheon-kr15d16"
+          },
+          "code": {
+            "id": "KR15D16",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D17",
+          "name": {
+            "local": "Yeongcheon",
+            "en": "Yeongcheon",
+            "slug": "yeongcheon-kr15d17"
+          },
+          "code": {
+            "id": "KR15D17",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D18",
+          "name": {
+            "local": "Ulleung",
+            "en": "Ulleung",
+            "slug": "ulleung-kr15d18"
+          },
+          "code": {
+            "id": "KR15D18",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D19",
+          "name": {
+            "local": "Cheongdo",
+            "en": "Cheongdo",
+            "slug": "cheongdo-kr15d19"
+          },
+          "code": {
+            "id": "KR15D19",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D20",
+          "name": {
+            "local": "Yeongju",
+            "en": "Yeongju",
+            "slug": "yeongju-kr15d20"
+          },
+          "code": {
+            "id": "KR15D20",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D21",
+          "name": {
+            "local": "Mungyeong",
+            "en": "Mungyeong",
+            "slug": "mungyeong-kr15d21"
+          },
+          "code": {
+            "id": "KR15D21",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR15D22",
+          "name": {
+            "local": "Gyeongsan",
+            "en": "Gyeongsan",
+            "slug": "gyeongsan-kr15d22"
+          },
+          "code": {
+            "id": "KR15D22",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR16",
+      "name": {
+        "local": "제주특별자치도",
+        "en": "Jeju",
+        "slug": "jeju-kr16"
+      },
+      "code": {
+        "id": "KR16",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR16D01",
+          "name": {
+            "local": "Jeju",
+            "en": "Jeju",
+            "slug": "jeju-kr16d01"
+          },
+          "code": {
+            "id": "KR16D01",
+            "iso": null
+          }
+        },
+        {
+          "id": "KR16D02",
+          "name": {
+            "local": "Seogwipo",
+            "en": "Seogwipo",
+            "slug": "seogwipo-kr16d02"
+          },
+          "code": {
+            "id": "KR16D02",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KR17",
+      "name": {
+        "local": "세종특별자치시",
+        "en": "Sejong",
+        "slug": "sejong-kr17"
+      },
+      "code": {
+        "id": "KR17",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "KR17D01",
+          "name": {
+            "local": "Sejong",
+            "en": "Sejong",
+            "slug": "sejong-kr17d01"
+          },
+          "code": {
+            "id": "KR17D01",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

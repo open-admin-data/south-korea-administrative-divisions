@@ -1,0 +1,45 @@
+{
+  "id": "KR06D02",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muju",
+    "en": "Muju",
+    "slug": "muju-kr06d02"
+  },
+  "code": {
+    "id": "KR06D02",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR06",
+    "level": 1,
+    "name": {
+      "local": "전라북도",
+      "en": "North Jeolla",
+      "slug": "north-jeolla-kr06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.934",
+    "lon": "127.698"
+  },
+  "metadata": {},
+  "source": {}
+}

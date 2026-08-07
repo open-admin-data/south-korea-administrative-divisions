@@ -1,0 +1,74 @@
+# North Chungcheong — South Korea Administrative Divisions
+
+> 13 districts
+> Code: KR01
+> Coordinates: 36.846, 127.708
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Boeun
+
+Code: KR01D02, Coordinates: 36.493, 127.766
+
+
+### Cheongwon
+
+Code: KR01D04, Coordinates: 36.529, 127.483
+
+
+### Chungju
+
+Code: KR01D01, Coordinates: 37.014, 127.921
+
+
+### Danyang
+
+Code: KR01D03, Coordinates: 37.011, 128.375
+
+
+### Eumseong
+
+Code: KR01D12, Coordinates: 36.978, 127.583
+
+
+### Goesan
+
+Code: KR01D06, Coordinates: 36.779, 127.827
+
+
+### Heungdeok
+
+Code: KR01D10, Coordinates: 36.641, 127.429
+
+
+### Jecheon
+
+Code: KR01D07, Coordinates: 37.121, 128.163
+
+
+### Jeungpyeong
+
+Code: KR01D13, Coordinates: 36.798, 127.594
+
+
+### Jincheon
+
+Code: KR01D09, Coordinates: 36.867, 127.444
+
+
+### Okcheon
+
+Code: KR01D08, Coordinates: 36.334, 127.658
+
+
+### Sangdang
+
+Code: KR01D11, Coordinates: 36.637, 127.521
+
+
+### Yeongdong
+
+Code: KR01D05, Coordinates: 36.155, 127.793
+
+

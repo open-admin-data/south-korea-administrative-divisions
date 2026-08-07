@@ -1,0 +1,45 @@
+{
+  "id": "KR02D03",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gyeyang",
+    "en": "Gyeyang",
+    "slug": "gyeyang-kr02d03"
+  },
+  "code": {
+    "id": "KR02D03",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR02",
+    "level": 1,
+    "name": {
+      "local": "인천광역시",
+      "en": "Incheon",
+      "slug": "incheon-kr02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR02",
+      "level": 1,
+      "name": {
+        "local": "인천광역시",
+        "en": "Incheon",
+        "slug": "incheon-kr02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.557",
+    "lon": "126.738"
+  },
+  "metadata": {},
+  "source": {}
+}

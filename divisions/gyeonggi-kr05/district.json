@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "KR05D13",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Anseong",
+      "en": "Anseong",
+      "slug": "anseong-kr05d13"
+    },
+    "code": {
+      "id": "KR05D13",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.026",
+      "lon": "127.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D34",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bundang",
+      "en": "Bundang",
+      "slug": "bundang-kr05d34"
+    },
+    "code": {
+      "id": "KR05D34",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.377",
+      "lon": "127.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D42",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cheoin",
+      "en": "Cheoin",
+      "slug": "cheoin-kr05d42"
+    },
+    "code": {
+      "id": "KR05D42",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.218",
+      "lon": "127.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D26",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Danwon",
+      "en": "Danwon",
+      "slug": "danwon-kr05d26"
+    },
+    "code": {
+      "id": "KR05D26",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.244",
+      "lon": "126.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D31",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Deogyang",
+      "en": "Deogyang",
+      "slug": "deogyang-kr05d31"
+    },
+    "code": {
+      "id": "KR05D31",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.645",
+      "lon": "126.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D28",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongan",
+      "en": "Dongan",
+      "slug": "dongan-kr05d28"
+    },
+    "code": {
+      "id": "KR05D28",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.401",
+      "lon": "126.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D23",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongducheon",
+      "en": "Dongducheon",
+      "slug": "dongducheon-kr05d23"
+    },
+    "code": {
+      "id": "KR05D23",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.917",
+      "lon": "127.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D02",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gapyeong",
+      "en": "Gapyeong",
+      "slug": "gapyeong-kr05d02"
+    },
+    "code": {
+      "id": "KR05D02",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.822",
+      "lon": "127.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D43",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Giheung",
+      "en": "Giheung",
+      "slug": "giheung-kr05d43"
+    },
+    "code": {
+      "id": "KR05D43",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.271",
+      "lon": "127.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D03",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gimpo",
+      "en": "Gimpo",
+      "slug": "gimpo-kr05d03"
+    },
+    "code": {
+      "id": "KR05D03",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.67",
+      "lon": "126.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D10",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunpo",
+      "en": "Gunpo",
+      "slug": "gunpo-kr05d10"
+    },
+    "code": {
+      "id": "KR05D10",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.346",
+      "lon": "126.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D11",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Guri",
+      "en": "Guri",
+      "slug": "guri-kr05d11"
+    },
+    "code": {
+      "id": "KR05D11",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.595",
+      "lon": "127.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D05",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwacheon",
+      "en": "Gwacheon",
+      "slug": "gwacheon-kr05d05"
+    },
+    "code": {
+      "id": "KR05D05",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.433",
+      "lon": "127.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D01",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwangju",
+      "en": "Gwangju",
+      "slug": "gwangju-kr05d01"
+    },
+    "code": {
+      "id": "KR05D01",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.419",
+      "lon": "127.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D04",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwangmyeong",
+      "en": "Gwangmyeong",
+      "slug": "gwangmyeong-kr05d04"
+    },
+    "code": {
+      "id": "KR05D04",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.444",
+      "lon": "126.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D37",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gwonseon",
+      "en": "Gwonseon",
+      "slug": "gwonseon-kr05d37"
+    },
+    "code": {
+      "id": "KR05D37",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.263",
+      "lon": "126.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D07",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hanam",
+      "en": "Hanam",
+      "slug": "hanam-kr05d07"
+    },
+    "code": {
+      "id": "KR05D07",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.522",
+      "lon": "127.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D19",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hwaseong",
+      "en": "Hwaseong",
+      "slug": "hwaseong-kr05d19"
+    },
+    "code": {
+      "id": "KR05D19",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.172",
+      "lon": "126.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D14",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Icheon",
+      "en": "Icheon",
+      "slug": "icheon-kr05d14"
+    },
+    "code": {
+      "id": "KR05D14",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.254",
+      "lon": "127.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D32",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ilsandong",
+      "en": "Ilsandong",
+      "slug": "ilsandong-kr05d32"
+    },
+    "code": {
+      "id": "KR05D32",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.697",
+      "lon": "126.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D33",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ilsanseo",
+      "en": "Ilsanseo",
+      "slug": "ilsanseo-kr05d33"
+    },
+    "code": {
+      "id": "KR05D33",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.678",
+      "lon": "126.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D38",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jangan",
+      "en": "Jangan",
+      "slug": "jangan-kr05d38"
+    },
+    "code": {
+      "id": "KR05D38",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.312",
+      "lon": "127.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D35",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jungwon",
+      "en": "Jungwon",
+      "slug": "jungwon-kr05d35"
+    },
+    "code": {
+      "id": "KR05D35",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.43",
+      "lon": "127.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D24",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manan",
+      "en": "Manan",
+      "slug": "manan-kr05d24"
+    },
+    "code": {
+      "id": "KR05D24",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.399",
+      "lon": "126.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D09",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namyangju",
+      "en": "Namyangju",
+      "slug": "namyangju-kr05d09"
+    },
+    "code": {
+      "id": "KR05D09",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.667",
+      "lon": "127.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D25",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ojeong",
+      "en": "Ojeong",
+      "slug": "ojeong-kr05d25"
+    },
+    "code": {
+      "id": "KR05D25",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.526",
+      "lon": "126.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D08",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Osan",
+      "en": "Osan",
+      "slug": "osan-kr05d08"
+    },
+    "code": {
+      "id": "KR05D08",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.161",
+      "lon": "127.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D20",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Paju",
+      "en": "Paju",
+      "slug": "paju-kr05d20"
+    },
+    "code": {
+      "id": "KR05D20",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.864",
+      "lon": "126.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D39",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Paldal",
+      "en": "Paldal",
+      "slug": "paldal-kr05d39"
+    },
+    "code": {
+      "id": "KR05D39",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.278",
+      "lon": "127.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D21",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pocheon",
+      "en": "Pocheon",
+      "slug": "pocheon-kr05d21"
+    },
+    "code": {
+      "id": "KR05D21",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.981",
+      "lon": "127.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D22",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pyeongtaek",
+      "en": "Pyeongtaek",
+      "slug": "pyeongtaek-kr05d22"
+    },
+    "code": {
+      "id": "KR05D22",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.021",
+      "lon": "127.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D27",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sangnok",
+      "en": "Sangnok",
+      "slug": "sangnok-kr05d27"
+    },
+    "code": {
+      "id": "KR05D27",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.299",
+      "lon": "126.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D06",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Siheung",
+      "en": "Siheung",
+      "slug": "siheung-kr05d06"
+    },
+    "code": {
+      "id": "KR05D06",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.401",
+      "lon": "126.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D29",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sosa",
+      "en": "Sosa",
+      "slug": "sosa-kr05d29"
+    },
+    "code": {
+      "id": "KR05D29",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.474",
+      "lon": "126.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D36",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sujeong",
+      "en": "Sujeong",
+      "slug": "sujeong-kr05d36"
+    },
+    "code": {
+      "id": "KR05D36",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.428",
+      "lon": "127.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D44",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suji",
+      "en": "Suji",
+      "slug": "suji-kr05d44"
+    },
+    "code": {
+      "id": "KR05D44",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.338",
+      "lon": "127.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D15",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uijeongbu",
+      "en": "Uijeongbu",
+      "slug": "uijeongbu-kr05d15"
+    },
+    "code": {
+      "id": "KR05D15",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.733",
+      "lon": "127.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D12",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uiwang",
+      "en": "Uiwang",
+      "slug": "uiwang-kr05d12"
+    },
+    "code": {
+      "id": "KR05D12",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.368",
+      "lon": "126.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D30",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wonmi",
+      "en": "Wonmi",
+      "slug": "wonmi-kr05d30"
+    },
+    "code": {
+      "id": "KR05D30",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.499",
+      "lon": "126.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D17",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yangju",
+      "en": "Yangju",
+      "slug": "yangju-kr05d17"
+    },
+    "code": {
+      "id": "KR05D17",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.829",
+      "lon": "127.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D16",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yangpyeong",
+      "en": "Yangpyeong",
+      "slug": "yangpyeong-kr05d16"
+    },
+    "code": {
+      "id": "KR05D16",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.511",
+      "lon": "127.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D41",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeoju",
+      "en": "Yeoju",
+      "slug": "yeoju-kr05d41"
+    },
+    "code": {
+      "id": "KR05D41",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.281",
+      "lon": "127.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D18",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeoncheon",
+      "en": "Yeoncheon",
+      "slug": "yeoncheon-kr05d18"
+    },
+    "code": {
+      "id": "KR05D18",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "38.142",
+      "lon": "127.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KR05D40",
+    "level": 2,
+    "level_name": {
+      "local": "시·군·구",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yeongtong",
+      "en": "Yeongtong",
+      "slug": "yeongtong-kr05d40"
+    },
+    "code": {
+      "id": "KR05D40",
+      "iso": null
+    },
+    "parent": {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KR05",
+        "level": 1,
+        "name": {
+          "local": "경기도",
+          "en": "Gyeonggi",
+          "slug": "gyeonggi-kr05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.282",
+      "lon": "127.059"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

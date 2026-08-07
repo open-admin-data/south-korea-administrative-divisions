@@ -1,0 +1,34 @@
+# Gwangju — South Korea Administrative Divisions
+
+> 5 districts
+> Code: KR07
+> Coordinates: 35.157, 126.853
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Buk
+
+Code: KR07D05, Coordinates: 35.209, 126.908
+
+
+### Dong
+
+Code: KR07D01, Coordinates: 35.112, 126.951
+
+
+### Gwangsan
+
+Code: KR07D04, Coordinates: 35.168, 126.762
+
+
+### Nam
+
+Code: KR07D02, Coordinates: 35.094, 126.857
+
+
+### Seo
+
+Code: KR07D03, Coordinates: 35.14, 126.859
+
+

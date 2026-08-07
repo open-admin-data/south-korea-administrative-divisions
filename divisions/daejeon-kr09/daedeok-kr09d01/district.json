@@ -1,0 +1,45 @@
+{
+  "id": "KR09D01",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Daedeok",
+    "en": "Daedeok",
+    "slug": "daedeok-kr09d01"
+  },
+  "code": {
+    "id": "KR09D01",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR09",
+    "level": 1,
+    "name": {
+      "local": "대전광역시",
+      "en": "Daejeon",
+      "slug": "daejeon-kr09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR09",
+      "level": 1,
+      "name": {
+        "local": "대전광역시",
+        "en": "Daejeon",
+        "slug": "daejeon-kr09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.425",
+    "lon": "127.444"
+  },
+  "metadata": {},
+  "source": {}
+}

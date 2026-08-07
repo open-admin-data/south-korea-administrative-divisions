@@ -1,0 +1,19 @@
+# Daejeon — South Korea Administrative Divisions
+
+> 2 districts
+> Code: KR09
+> Coordinates: 36.359, 127.393
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Daedeok
+
+Code: KR09D01, Coordinates: 36.425, 127.444
+
+
+### Yuseong
+
+Code: KR09D02, Coordinates: 36.38, 127.321
+
+

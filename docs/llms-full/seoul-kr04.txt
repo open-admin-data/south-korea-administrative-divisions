@@ -1,0 +1,129 @@
+# Seoul — South Korea Administrative Divisions
+
+> 24 districts
+> Code: KR04
+> Coordinates: 37.549, 126.996
+> Last updated: 2026-08-07. License: CC-BY-4.0.
+
+## Districts
+
+### Dobong
+
+Code: KR04D23, Coordinates: 37.671, 127.035
+
+
+### Dongdaemun
+
+Code: KR04D16, Coordinates: 37.586, 127.056
+
+
+### Dongjak
+
+Code: KR04D22, Coordinates: 37.504, 126.959
+
+
+### Eunpyeong
+
+Code: KR04D17, Coordinates: 37.623, 126.931
+
+
+### Gangbuk
+
+Code: KR04D11, Coordinates: 37.645, 127
+
+
+### Gangdong
+
+Code: KR04D15, Coordinates: 37.55, 127.142
+
+
+### Gangnam
+
+Code: KR04D18, Coordinates: 37.499, 127.054
+
+
+### Geumcheon
+
+Code: KR04D06, Coordinates: 37.46, 126.902
+
+
+### Guro
+
+Code: KR04D19, Coordinates: 37.501, 126.853
+
+
+### Gwanak
+
+Code: KR04D01, Coordinates: 37.47, 126.947
+
+
+### Gwangjin
+
+Code: KR04D02, Coordinates: 37.546, 127.089
+
+
+### Jongno
+
+Code: KR04D09, Coordinates: 37.61, 126.97
+
+
+### Jung
+
+Code: KR04D21, Coordinates: 37.562, 126.997
+
+
+### Jungnang
+
+Code: KR04D24, Coordinates: 37.596, 127.091
+
+
+### Mapo
+
+Code: KR04D08, Coordinates: 37.557, 126.917
+
+
+### Nowon
+
+Code: KR04D03, Coordinates: 37.64, 127.076
+
+
+### Seocho
+
+Code: KR04D14, Coordinates: 37.477, 127.02
+
+
+### Seodaemun
+
+Code: KR04D07, Coordinates: 37.576, 126.943
+
+
+### Seongbuk
+
+Code: KR04D04, Coordinates: 37.598, 127.022
+
+
+### Seongdong
+
+Code: KR04D12, Coordinates: 37.556, 127.045
+
+
+### Songpa
+
+Code: KR04D13, Coordinates: 37.506, 127.121
+
+
+### Yangcheon
+
+Code: KR04D05, Coordinates: 37.52, 126.865
+
+
+### Yeongdeungpo
+
+Code: KR04D10, Coordinates: 37.522, 126.908
+
+
+### Yongsan
+
+Code: KR04D20, Coordinates: 37.534, 126.981
+
+

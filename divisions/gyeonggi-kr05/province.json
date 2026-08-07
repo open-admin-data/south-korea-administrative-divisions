@@ -1,0 +1,33 @@
+{
+  "id": "KR05",
+  "level": 1,
+  "level_name": {
+    "local": "시·도",
+    "en": "Province/City"
+  },
+  "name": {
+    "local": "경기도",
+    "en": "Gyeonggi",
+    "slug": "gyeonggi-kr05"
+  },
+  "code": {
+    "id": "KR05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.335",
+    "lon": "127.414"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kr/provinces/gyeonggi-kr05/",
+    "api": "https://openadmindata.org/api/kr/"
+  }
+}

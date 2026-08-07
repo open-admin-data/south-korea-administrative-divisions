@@ -1,0 +1,45 @@
+{
+  "id": "KR11D12",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hadong",
+    "en": "Hadong",
+    "slug": "hadong-kr11d12"
+  },
+  "code": {
+    "id": "KR11D12",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR11",
+    "level": 1,
+    "name": {
+      "local": "경상남도",
+      "en": "South Gyeongsang",
+      "slug": "south-gyeongsang-kr11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR11",
+      "level": 1,
+      "name": {
+        "local": "경상남도",
+        "en": "South Gyeongsang",
+        "slug": "south-gyeongsang-kr11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.139",
+    "lon": "127.793"
+  },
+  "metadata": {},
+  "source": {}
+}

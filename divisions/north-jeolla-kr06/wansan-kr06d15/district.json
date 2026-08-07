@@ -1,0 +1,45 @@
+{
+  "id": "KR06D15",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wansan",
+    "en": "Wansan",
+    "slug": "wansan-kr06d15"
+  },
+  "code": {
+    "id": "KR06D15",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR06",
+    "level": 1,
+    "name": {
+      "local": "전라북도",
+      "en": "North Jeolla",
+      "slug": "north-jeolla-kr06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR06",
+      "level": 1,
+      "name": {
+        "local": "전라북도",
+        "en": "North Jeolla",
+        "slug": "north-jeolla-kr06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.794",
+    "lon": "127.111"
+  },
+  "metadata": {},
+  "source": {}
+}

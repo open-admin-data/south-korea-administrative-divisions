@@ -1,0 +1,45 @@
+{
+  "id": "KR05D44",
+  "level": 2,
+  "level_name": {
+    "local": "시·군·구",
+    "en": "District"
+  },
+  "name": {
+    "local": "Suji",
+    "en": "Suji",
+    "slug": "suji-kr05d44"
+  },
+  "code": {
+    "id": "KR05D44",
+    "iso": null
+  },
+  "parent": {
+    "id": "KR05",
+    "level": 1,
+    "name": {
+      "local": "경기도",
+      "en": "Gyeonggi",
+      "slug": "gyeonggi-kr05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KR05",
+      "level": 1,
+      "name": {
+        "local": "경기도",
+        "en": "Gyeonggi",
+        "slug": "gyeonggi-kr05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "37.338",
+    "lon": "127.062"
+  },
+  "metadata": {},
+  "source": {}
+}
