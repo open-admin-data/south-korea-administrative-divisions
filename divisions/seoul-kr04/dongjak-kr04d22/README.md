@@ -1,8 +1,8 @@
-# Dongjak
+# 동작구 (Dongjak)
 
 [Home](../../../) &gt; [Seoul](../) > **Dongjak**
 
-Dongjak is a district in South Korea, under Seoul.
+동작구 (Dongjak) is a district in South Korea, under Seoul.
 
 ## Overview
 

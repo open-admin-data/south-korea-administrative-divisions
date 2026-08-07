@@ -1,8 +1,8 @@
-# Yeongdo
+# 영도구 (Yeongdo)
 
 [Home](../../../) &gt; [Busan](../) > **Yeongdo**
 
-Yeongdo is a district in South Korea, under Busan.
+영도구 (Yeongdo) is a district in South Korea, under Busan.
 
 ## Overview
 

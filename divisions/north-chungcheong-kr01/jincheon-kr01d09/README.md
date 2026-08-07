@@ -1,8 +1,8 @@
-# Jincheon
+# 진천군 (Jincheon)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Jincheon**
 
-Jincheon is a district in South Korea, under North Chungcheong.
+진천군 (Jincheon) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

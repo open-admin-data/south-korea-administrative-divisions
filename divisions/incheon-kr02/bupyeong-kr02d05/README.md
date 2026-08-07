@@ -1,8 +1,8 @@
-# Bupyeong
+# 부평구 (Bupyeong)
 
 [Home](../../../) &gt; [Incheon](../) > **Bupyeong**
 
-Bupyeong is a district in South Korea, under Incheon.
+부평구 (Bupyeong) is a district in South Korea, under Incheon.
 
 ## Overview
 

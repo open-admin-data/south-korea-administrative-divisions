@@ -1,8 +1,8 @@
-# Jeongseon
+# 정선군 (Jeongseon)
 
 [Home](../../../) &gt; [Gangwon](../) > **Jeongseon**
 
-Jeongseon is a district in South Korea, under Gangwon.
+정선군 (Jeongseon) is a district in South Korea, under Gangwon.
 
 ## Overview
 

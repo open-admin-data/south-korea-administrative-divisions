@@ -16,8 +16,8 @@
 
 | # | District | Coordinates | Link |
 |---|----|-------------|------|
-| 1 | Jeju | 33.439, 126.522 | [Browse](jeju-kr16d01/) |
-| 2 | Seogwipo | 33.308, 126.582 | [Browse](seogwipo-kr16d02/) |
+| 1 | 제주시 (Jeju) | 33.439, 126.522 | [Browse](jeju-kr16d01/) |
+| 2 | 서귀포시 (Seogwipo) | 33.308, 126.582 | [Browse](seogwipo-kr16d02/) |
 
 ## Data Files
 

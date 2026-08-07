@@ -1,8 +1,8 @@
-# Seocho
+# 서초구 (Seocho)
 
 [Home](../../../) &gt; [Seoul](../) > **Seocho**
 
-Seocho is a district in South Korea, under Seoul.
+서초구 (Seocho) is a district in South Korea, under Seoul.
 
 ## Overview
 

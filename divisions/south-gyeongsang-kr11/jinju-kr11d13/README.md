@@ -1,8 +1,8 @@
-# Jinju
+# 진주시 (Jinju)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Jinju**
 
-Jinju is a district in South Korea, under South Gyeongsang.
+진주시 (Jinju) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

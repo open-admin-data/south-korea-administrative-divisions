@@ -1,8 +1,8 @@
-# Pyeongchang
+# 평창군 (Pyeongchang)
 
 [Home](../../../) &gt; [Gangwon](../) > **Pyeongchang**
 
-Pyeongchang is a district in South Korea, under Gangwon.
+평창군 (Pyeongchang) is a district in South Korea, under Gangwon.
 
 ## Overview
 

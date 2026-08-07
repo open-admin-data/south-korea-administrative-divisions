@@ -1,8 +1,8 @@
-# Uijeongbu
+# 의정부시 (Uijeongbu)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Uijeongbu**
 
-Uijeongbu is a district in South Korea, under Gyeonggi.
+의정부시 (Uijeongbu) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

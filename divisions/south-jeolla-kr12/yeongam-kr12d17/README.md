@@ -1,8 +1,8 @@
-# Yeongam
+# 영암군 (Yeongam)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Yeongam**
 
-Yeongam is a district in South Korea, under South Jeolla.
+영암군 (Yeongam) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

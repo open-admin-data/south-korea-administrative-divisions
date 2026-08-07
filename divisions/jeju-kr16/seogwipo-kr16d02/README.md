@@ -1,8 +1,8 @@
-# Seogwipo
+# 서귀포시 (Seogwipo)
 
 [Home](../../../) &gt; [Jeju](../) > **Seogwipo**
 
-Seogwipo is a district in South Korea, under Jeju.
+서귀포시 (Seogwipo) is a district in South Korea, under Jeju.
 
 ## Overview
 

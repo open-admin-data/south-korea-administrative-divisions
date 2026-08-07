@@ -1,8 +1,8 @@
-# Dongan
+# 동구 (Dongan)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Dongan**
 
-Dongan is a district in South Korea, under Gyeonggi.
+동구 (Dongan) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

@@ -7,7 +7,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dobong",
+      "local": "도봉구",
       "en": "Dobong",
       "slug": "dobong-kr04d23"
     },
@@ -52,7 +52,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dongdaemun",
+      "local": "동대문구",
       "en": "Dongdaemun",
       "slug": "dongdaemun-kr04d16"
     },
@@ -97,7 +97,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dongjak",
+      "local": "동작구",
       "en": "Dongjak",
       "slug": "dongjak-kr04d22"
     },
@@ -142,7 +142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Eunpyeong",
+      "local": "은평구",
       "en": "Eunpyeong",
       "slug": "eunpyeong-kr04d17"
     },
@@ -187,7 +187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangbuk",
+      "local": "강북구",
       "en": "Gangbuk",
       "slug": "gangbuk-kr04d11"
     },
@@ -232,7 +232,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangdong",
+      "local": "강동구",
       "en": "Gangdong",
       "slug": "gangdong-kr04d15"
     },
@@ -277,7 +277,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangnam",
+      "local": "강남구",
       "en": "Gangnam",
       "slug": "gangnam-kr04d18"
     },
@@ -322,7 +322,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Geumcheon",
+      "local": "금천구",
       "en": "Geumcheon",
       "slug": "geumcheon-kr04d06"
     },
@@ -367,7 +367,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Guro",
+      "local": "구로구",
       "en": "Guro",
       "slug": "guro-kr04d19"
     },
@@ -412,7 +412,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwanak",
+      "local": "관악구",
       "en": "Gwanak",
       "slug": "gwanak-kr04d01"
     },
@@ -457,7 +457,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwangjin",
+      "local": "광진구",
       "en": "Gwangjin",
       "slug": "gwangjin-kr04d02"
     },
@@ -502,7 +502,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jongno",
+      "local": "종로구",
       "en": "Jongno",
       "slug": "jongno-kr04d09"
     },
@@ -547,7 +547,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jung",
+      "local": "중구",
       "en": "Jung",
       "slug": "jung-kr04d21"
     },
@@ -592,7 +592,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jungnang",
+      "local": "중랑구",
       "en": "Jungnang",
       "slug": "jungnang-kr04d24"
     },
@@ -637,7 +637,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Mapo",
+      "local": "마포구",
       "en": "Mapo",
       "slug": "mapo-kr04d08"
     },
@@ -682,7 +682,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Nowon",
+      "local": "노원구",
       "en": "Nowon",
       "slug": "nowon-kr04d03"
     },
@@ -727,7 +727,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seocho",
+      "local": "서초구",
       "en": "Seocho",
       "slug": "seocho-kr04d14"
     },
@@ -772,7 +772,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seodaemun",
+      "local": "서대문구",
       "en": "Seodaemun",
       "slug": "seodaemun-kr04d07"
     },
@@ -817,7 +817,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seongbuk",
+      "local": "성북구",
       "en": "Seongbuk",
       "slug": "seongbuk-kr04d04"
     },
@@ -862,7 +862,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seongdong",
+      "local": "성동구",
       "en": "Seongdong",
       "slug": "seongdong-kr04d12"
     },
@@ -907,7 +907,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Songpa",
+      "local": "송파구",
       "en": "Songpa",
       "slug": "songpa-kr04d13"
     },
@@ -952,7 +952,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yangcheon",
+      "local": "양천구",
       "en": "Yangcheon",
       "slug": "yangcheon-kr04d05"
     },
@@ -997,7 +997,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongdeungpo",
+      "local": "영등포구",
       "en": "Yeongdeungpo",
       "slug": "yeongdeungpo-kr04d10"
     },
@@ -1042,7 +1042,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yongsan",
+      "local": "용산구",
       "en": "Yongsan",
       "slug": "yongsan-kr04d20"
     },

@@ -1,8 +1,8 @@
-# Masanhoewon
+# 아산시 (Masanhoewon)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Masanhoewon**
 
-Masanhoewon is a district in South Korea, under South Gyeongsang.
+아산시 (Masanhoewon) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

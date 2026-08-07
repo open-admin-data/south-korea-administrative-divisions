@@ -1,8 +1,8 @@
-# Gwangju
+# 광주시 (Gwangju)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Gwangju**
 
-Gwangju is a district in South Korea, under Gyeonggi.
+광주시 (Gwangju) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

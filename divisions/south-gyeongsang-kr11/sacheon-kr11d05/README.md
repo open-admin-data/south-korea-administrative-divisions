@@ -1,8 +1,8 @@
-# Sacheon
+# 사천시 (Sacheon)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Sacheon**
 
-Sacheon is a district in South Korea, under South Gyeongsang.
+사천시 (Sacheon) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

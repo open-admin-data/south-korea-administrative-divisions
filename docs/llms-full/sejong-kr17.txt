@@ -7,7 +7,7 @@
 
 ## Districts
 
-### Sejong
+### 세종시 (Sejong)
 
 Code: KR17D01, Coordinates: 36.51, 127.273
 

@@ -7,107 +7,107 @@
 
 ## Districts
 
-### Changnyeong
+### 창녕군 (Changnyeong)
 
 Code: KR11D06, Coordinates: 35.539, 128.496
 
 
-### Geochang
+### 거창군 (Geochang)
 
 Code: KR11D16, Coordinates: 35.768, 127.888
 
 
-### Geoje
+### 거제시 (Geoje)
 
 Code: KR11D08, Coordinates: 34.846, 128.639
 
 
-### Gimhae
+### 김해시 (Gimhae)
 
 Code: KR11D14, Coordinates: 35.271, 128.82
 
 
-### Hadong
+### 하동군 (Hadong)
 
 Code: KR11D12, Coordinates: 35.139, 127.793
 
 
-### Haman
+### 함안군 (Haman)
 
 Code: KR11D07, Coordinates: 35.293, 128.433
 
 
-### Hamyang
+### 함양군 (Hamyang)
 
 Code: KR11D03, Coordinates: 35.571, 127.725
 
 
-### Hapcheon
+### 합천군 (Hapcheon)
 
 Code: KR11D04, Coordinates: 35.545, 128.105
 
 
-### Jinhae
+### 진해구 (Jinhae)
 
 Code: KR11D17, Coordinates: 35.131, 128.754
 
 
-### Jinju
+### 진주시 (Jinju)
 
 Code: KR11D13, Coordinates: 35.223, 128.108
 
 
-### Masanhappo
+### 아산시 (Masanhappo)
 
 Code: KR11D18, Coordinates: 35.143, 128.478
 
 
-### Masanhoewon
+### 아산시 (Masanhoewon)
 
 Code: KR11D19, Coordinates: 35.237, 128.513
 
 
-### Miryang
+### 밀양시 (Miryang)
 
 Code: KR11D01, Coordinates: 35.476, 128.787
 
 
-### Namhae
+### 남해군 (Namhae)
 
 Code: KR11D15, Coordinates: 34.803, 127.909
 
 
-### Sacheon
+### 사천시 (Sacheon)
 
 Code: KR11D05, Coordinates: 35.037, 128.102
 
 
-### Sancheong
+### 산청군 (Sancheong)
 
 Code: KR11D02, Coordinates: 35.382, 127.889
 
 
-### Seongsan
+### 서구 (Seongsan)
 
 Code: KR11D20, Coordinates: 35.201, 128.675
 
 
-### Tongyeong
+### 통영시 (Tongyeong)
 
 Code: KR11D09, Coordinates: 34.921, 128.395
 
 
-### Uichang
+### 의창구 (Uichang)
 
 Code: KR11D21, Coordinates: 35.311, 128.64
 
 
-### Uiryeong
+### 의령군 (Uiryeong)
 
 Code: KR11D11, Coordinates: 35.423, 128.28
 
 
-### Yangsan
+### 양산시 (Yangsan)
 
 Code: KR11D10, Coordinates: 35.398, 129.041
 

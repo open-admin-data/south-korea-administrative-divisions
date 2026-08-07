@@ -1,8 +1,8 @@
-# Yeongdeungpo
+# 영등포구 (Yeongdeungpo)
 
 [Home](../../../) &gt; [Seoul](../) > **Yeongdeungpo**
 
-Yeongdeungpo is a district in South Korea, under Seoul.
+영등포구 (Yeongdeungpo) is a district in South Korea, under Seoul.
 
 ## Overview
 

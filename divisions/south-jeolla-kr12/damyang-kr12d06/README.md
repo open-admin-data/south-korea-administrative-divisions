@@ -1,8 +1,8 @@
-# Damyang
+# 담양군 (Damyang)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Damyang**
 
-Damyang is a district in South Korea, under South Jeolla.
+담양군 (Damyang) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

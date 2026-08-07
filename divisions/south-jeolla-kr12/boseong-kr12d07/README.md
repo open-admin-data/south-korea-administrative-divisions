@@ -1,8 +1,8 @@
-# Boseong
+# 보성군 (Boseong)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Boseong**
 
-Boseong is a district in South Korea, under South Jeolla.
+보성군 (Boseong) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

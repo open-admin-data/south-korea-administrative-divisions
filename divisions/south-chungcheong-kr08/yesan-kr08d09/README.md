@@ -1,8 +1,8 @@
-# Yesan
+# 예산군 (Yesan)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Yesan**
 
-Yesan is a district in South Korea, under South Chungcheong.
+예산군 (Yesan) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

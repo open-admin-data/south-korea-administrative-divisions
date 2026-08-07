@@ -7,7 +7,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Bupyeong",
+      "local": "부평구",
       "en": "Bupyeong",
       "slug": "bupyeong-kr02d05"
     },
@@ -52,7 +52,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Ganghwa",
+      "local": "강화군",
       "en": "Ganghwa",
       "slug": "ganghwa-kr02d06"
     },
@@ -97,7 +97,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gyeyang",
+      "local": "계양구",
       "en": "Gyeyang",
       "slug": "gyeyang-kr02d03"
     },
@@ -142,7 +142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Namdong",
+      "local": "남동구",
       "en": "Namdong",
       "slug": "namdong-kr02d01"
     },
@@ -187,7 +187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Ongjin",
+      "local": "옹진군",
       "en": "Ongjin",
       "slug": "ongjin-kr02d02"
     },
@@ -232,7 +232,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeonsu",
+      "local": "연수구",
       "en": "Yeonsu",
       "slug": "yeonsu-kr02d04"
     },

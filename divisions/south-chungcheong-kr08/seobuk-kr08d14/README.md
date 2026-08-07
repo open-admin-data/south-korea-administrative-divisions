@@ -1,8 +1,8 @@
-# Seobuk
+# 서구 (Seobuk)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Seobuk**
 
-Seobuk is a district in South Korea, under South Chungcheong.
+서구 (Seobuk) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

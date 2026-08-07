@@ -1,8 +1,8 @@
-# Yeosu
+# 여수시 (Yeosu)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Yeosu**
 
-Yeosu is a district in South Korea, under South Jeolla.
+여수시 (Yeosu) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Jecheon
+# 제천시 (Jecheon)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Jecheon**
 
-Jecheon is a district in South Korea, under North Chungcheong.
+제천시 (Jecheon) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

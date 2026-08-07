@@ -1,8 +1,8 @@
-# Yeonje
+# 연제구 (Yeonje)
 
 [Home](../../../) &gt; [Busan](../) > **Yeonje**
 
-Yeonje is a district in South Korea, under Busan.
+연제구 (Yeonje) is a district in South Korea, under Busan.
 
 ## Overview
 

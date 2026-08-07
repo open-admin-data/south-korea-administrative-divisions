@@ -1,8 +1,8 @@
-# Namdong
+# 남동구 (Namdong)
 
 [Home](../../../) &gt; [Incheon](../) > **Namdong**
 
-Namdong is a district in South Korea, under Incheon.
+남동구 (Namdong) is a district in South Korea, under Incheon.
 
 ## Overview
 

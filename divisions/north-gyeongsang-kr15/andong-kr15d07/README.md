@@ -1,8 +1,8 @@
-# Andong
+# 안동시 (Andong)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Andong**
 
-Andong is a district in South Korea, under North Gyeongsang.
+안동시 (Andong) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

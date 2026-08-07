@@ -1,8 +1,8 @@
-# Naju
+# 나주시 (Naju)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Naju**
 
-Naju is a district in South Korea, under South Jeolla.
+나주시 (Naju) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

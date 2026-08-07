@@ -1,8 +1,8 @@
-# Goryeong
+# 고령군 (Goryeong)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Goryeong**
 
-Goryeong is a district in South Korea, under North Gyeongsang.
+고령군 (Goryeong) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

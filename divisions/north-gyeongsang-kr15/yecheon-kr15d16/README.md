@@ -1,8 +1,8 @@
-# Yecheon
+# 예천군 (Yecheon)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Yecheon**
 
-Yecheon is a district in South Korea, under North Gyeongsang.
+예천군 (Yecheon) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

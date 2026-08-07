@@ -1,8 +1,8 @@
-# Samcheok
+# 삼척시 (Samcheok)
 
 [Home](../../../) &gt; [Gangwon](../) > **Samcheok**
 
-Samcheok is a district in South Korea, under Gangwon.
+삼척시 (Samcheok) is a district in South Korea, under Gangwon.
 
 ## Overview
 

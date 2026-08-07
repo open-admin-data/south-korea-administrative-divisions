@@ -1,8 +1,8 @@
-# Uichang
+# 의창구 (Uichang)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Uichang**
 
-Uichang is a district in South Korea, under South Gyeongsang.
+의창구 (Uichang) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Uljin
+# 울진군 (Uljin)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Uljin**
 
-Uljin is a district in South Korea, under North Gyeongsang.
+울진군 (Uljin) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Sinan
+# 신안군 (Sinan)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Sinan**
 
-Sinan is a district in South Korea, under South Jeolla.
+신안군 (Sinan) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Sosa
+# 소사구 (Sosa)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Sosa**
 
-Sosa is a district in South Korea, under Gyeonggi.
+소사구 (Sosa) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

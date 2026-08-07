@@ -1,8 +1,8 @@
-# Ulju
+# 울주군 (Ulju)
 
 [Home](../../../) &gt; [Ulsan](../) > **Ulju**
 
-Ulju is a district in South Korea, under Ulsan.
+울주군 (Ulju) is a district in South Korea, under Ulsan.
 
 ## Overview
 

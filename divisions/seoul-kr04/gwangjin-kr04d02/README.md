@@ -1,8 +1,8 @@
-# Gwangjin
+# 광진구 (Gwangjin)
 
 [Home](../../../) &gt; [Seoul](../) > **Gwangjin**
 
-Gwangjin is a district in South Korea, under Seoul.
+광진구 (Gwangjin) is a district in South Korea, under Seoul.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Gwanak
+# 관악구 (Gwanak)
 
 [Home](../../../) &gt; [Seoul](../) > **Gwanak**
 
-Gwanak is a district in South Korea, under Seoul.
+관악구 (Gwanak) is a district in South Korea, under Seoul.
 
 ## Overview
 

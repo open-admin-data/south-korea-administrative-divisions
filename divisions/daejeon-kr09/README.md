@@ -16,8 +16,8 @@
 
 | # | District | Coordinates | Link |
 |---|----|-------------|------|
-| 1 | Daedeok | 36.425, 127.444 | [Browse](daedeok-kr09d01/) |
-| 2 | Yuseong | 36.38, 127.321 | [Browse](yuseong-kr09d02/) |
+| 1 | 대덕구 (Daedeok) | 36.425, 127.444 | [Browse](daedeok-kr09d01/) |
+| 2 | 유성구 (Yuseong) | 36.38, 127.321 | [Browse](yuseong-kr09d02/) |
 
 ## Data Files
 

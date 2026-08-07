@@ -1,8 +1,8 @@
-# Buan
+# 부안군 (Buan)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Buan**
 
-Buan is a district in South Korea, under North Jeolla.
+부안군 (Buan) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Geumjeong
+# 금정구 (Geumjeong)
 
 [Home](../../../) &gt; [Busan](../) > **Geumjeong**
 
-Geumjeong is a district in South Korea, under Busan.
+금정구 (Geumjeong) is a district in South Korea, under Busan.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Haeundae
+# 해운대구 (Haeundae)
 
 [Home](../../../) &gt; [Busan](../) > **Haeundae**
 
-Haeundae is a district in South Korea, under Busan.
+해운대구 (Haeundae) is a district in South Korea, under Busan.
 
 ## Overview
 

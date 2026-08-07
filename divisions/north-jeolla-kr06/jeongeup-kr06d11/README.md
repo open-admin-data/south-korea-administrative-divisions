@@ -1,8 +1,8 @@
-# Jeongeup
+# 정읍시 (Jeongeup)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Jeongeup**
 
-Jeongeup is a district in South Korea, under North Jeolla.
+정읍시 (Jeongeup) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

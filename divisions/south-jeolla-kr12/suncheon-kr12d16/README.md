@@ -1,8 +1,8 @@
-# Suncheon
+# 순천시 (Suncheon)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Suncheon**
 
-Suncheon is a district in South Korea, under South Jeolla.
+순천시 (Suncheon) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

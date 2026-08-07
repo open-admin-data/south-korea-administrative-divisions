@@ -1,8 +1,8 @@
-# Yuseong
+# 유성구 (Yuseong)
 
 [Home](../../../) &gt; [Daejeon](../) > **Yuseong**
 
-Yuseong is a district in South Korea, under Daejeon.
+유성구 (Yuseong) is a district in South Korea, under Daejeon.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Yangju
+# 양주시 (Yangju)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Yangju**
 
-Yangju is a district in South Korea, under Gyeonggi.
+양주시 (Yangju) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

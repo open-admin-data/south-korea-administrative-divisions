@@ -1,8 +1,8 @@
-# Nam
+# 남구 (Nam)
 
 [Home](../../../) &gt; [Gwangju](../) > **Nam**
 
-Nam is a district in South Korea, under Gwangju.
+남구 (Nam) is a district in South Korea, under Gwangju.
 
 ## Overview
 

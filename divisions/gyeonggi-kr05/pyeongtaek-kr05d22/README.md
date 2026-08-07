@@ -1,8 +1,8 @@
-# Pyeongtaek
+# 평택시 (Pyeongtaek)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Pyeongtaek**
 
-Pyeongtaek is a district in South Korea, under Gyeonggi.
+평택시 (Pyeongtaek) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

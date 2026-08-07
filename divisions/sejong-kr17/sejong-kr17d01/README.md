@@ -1,8 +1,8 @@
-# Sejong
+# 세종시 (Sejong)
 
 [Home](../../../) &gt; [Sejong](../) > **Sejong**
 
-Sejong is a district in South Korea, under Sejong.
+세종시 (Sejong) is a district in South Korea, under Sejong.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Gangjin
+# 강진군 (Gangjin)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Gangjin**
 
-Gangjin is a district in South Korea, under South Jeolla.
+강진군 (Gangjin) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

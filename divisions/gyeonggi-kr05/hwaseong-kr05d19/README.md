@@ -1,8 +1,8 @@
-# Hwaseong
+# 화성시 (Hwaseong)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Hwaseong**
 
-Hwaseong is a district in South Korea, under Gyeonggi.
+화성시 (Hwaseong) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

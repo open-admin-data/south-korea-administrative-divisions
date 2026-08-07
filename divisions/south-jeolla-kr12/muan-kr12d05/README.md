@@ -1,8 +1,8 @@
-# Muan
+# 무안군 (Muan)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Muan**
 
-Muan is a district in South Korea, under South Jeolla.
+무안군 (Muan) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

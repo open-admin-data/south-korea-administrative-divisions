@@ -1,8 +1,8 @@
-# Suseong
+# 수성구 (Suseong)
 
 [Home](../../../) &gt; [Daegu](../) > **Suseong**
 
-Suseong is a district in South Korea, under Daegu.
+수성구 (Suseong) is a district in South Korea, under Daegu.
 
 ## Overview
 

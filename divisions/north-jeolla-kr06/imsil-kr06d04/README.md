@@ -1,8 +1,8 @@
-# Imsil
+# 임실군 (Imsil)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Imsil**
 
-Imsil is a district in South Korea, under North Jeolla.
+임실군 (Imsil) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Namhae
+# 남해군 (Namhae)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Namhae**
 
-Namhae is a district in South Korea, under South Gyeongsang.
+남해군 (Namhae) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

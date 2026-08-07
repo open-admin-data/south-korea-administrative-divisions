@@ -1,8 +1,8 @@
-# Nowon
+# 노원구 (Nowon)
 
 [Home](../../../) &gt; [Seoul](../) > **Nowon**
 
-Nowon is a district in South Korea, under Seoul.
+노원구 (Nowon) is a district in South Korea, under Seoul.
 
 ## Overview
 

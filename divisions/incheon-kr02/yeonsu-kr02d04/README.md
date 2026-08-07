@@ -1,8 +1,8 @@
-# Yeonsu
+# 연수구 (Yeonsu)
 
 [Home](../../../) &gt; [Incheon](../) > **Yeonsu**
 
-Yeonsu is a district in South Korea, under Incheon.
+연수구 (Yeonsu) is a district in South Korea, under Incheon.
 
 ## Overview
 

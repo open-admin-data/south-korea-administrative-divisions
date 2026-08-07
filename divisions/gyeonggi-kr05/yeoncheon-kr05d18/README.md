@@ -1,8 +1,8 @@
-# Yeoncheon
+# 연천군 (Yeoncheon)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Yeoncheon**
 
-Yeoncheon is a district in South Korea, under Gyeonggi.
+연천군 (Yeoncheon) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Goesan
+# 괴산군 (Goesan)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Goesan**
 
-Goesan is a district in South Korea, under North Chungcheong.
+괴산군 (Goesan) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

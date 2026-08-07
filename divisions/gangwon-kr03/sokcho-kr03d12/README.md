@@ -1,8 +1,8 @@
-# Sokcho
+# 속초시 (Sokcho)
 
 [Home](../../../) &gt; [Gangwon](../) > **Sokcho**
 
-Sokcho is a district in South Korea, under Gangwon.
+속초시 (Sokcho) is a district in South Korea, under Gangwon.
 
 ## Overview
 

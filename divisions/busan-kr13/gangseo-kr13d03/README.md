@@ -1,8 +1,8 @@
-# Gangseo
+# 강서구 (Gangseo)
 
 [Home](../../../) &gt; [Busan](../) > **Gangseo**
 
-Gangseo is a district in South Korea, under Busan.
+강서구 (Gangseo) is a district in South Korea, under Busan.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Jungwon
+# 중구 (Jungwon)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Jungwon**
 
-Jungwon is a district in South Korea, under Gyeonggi.
+중구 (Jungwon) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

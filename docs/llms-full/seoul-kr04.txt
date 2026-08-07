@@ -7,122 +7,122 @@
 
 ## Districts
 
-### Dobong
+### 도봉구 (Dobong)
 
 Code: KR04D23, Coordinates: 37.671, 127.035
 
 
-### Dongdaemun
+### 동대문구 (Dongdaemun)
 
 Code: KR04D16, Coordinates: 37.586, 127.056
 
 
-### Dongjak
+### 동작구 (Dongjak)
 
 Code: KR04D22, Coordinates: 37.504, 126.959
 
 
-### Eunpyeong
+### 은평구 (Eunpyeong)
 
 Code: KR04D17, Coordinates: 37.623, 126.931
 
 
-### Gangbuk
+### 강북구 (Gangbuk)
 
 Code: KR04D11, Coordinates: 37.645, 127
 
 
-### Gangdong
+### 강동구 (Gangdong)
 
 Code: KR04D15, Coordinates: 37.55, 127.142
 
 
-### Gangnam
+### 강남구 (Gangnam)
 
 Code: KR04D18, Coordinates: 37.499, 127.054
 
 
-### Geumcheon
+### 금천구 (Geumcheon)
 
 Code: KR04D06, Coordinates: 37.46, 126.902
 
 
-### Guro
+### 구로구 (Guro)
 
 Code: KR04D19, Coordinates: 37.501, 126.853
 
 
-### Gwanak
+### 관악구 (Gwanak)
 
 Code: KR04D01, Coordinates: 37.47, 126.947
 
 
-### Gwangjin
+### 광진구 (Gwangjin)
 
 Code: KR04D02, Coordinates: 37.546, 127.089
 
 
-### Jongno
+### 종로구 (Jongno)
 
 Code: KR04D09, Coordinates: 37.61, 126.97
 
 
-### Jung
+### 중구 (Jung)
 
 Code: KR04D21, Coordinates: 37.562, 126.997
 
 
-### Jungnang
+### 중랑구 (Jungnang)
 
 Code: KR04D24, Coordinates: 37.596, 127.091
 
 
-### Mapo
+### 마포구 (Mapo)
 
 Code: KR04D08, Coordinates: 37.557, 126.917
 
 
-### Nowon
+### 노원구 (Nowon)
 
 Code: KR04D03, Coordinates: 37.64, 127.076
 
 
-### Seocho
+### 서초구 (Seocho)
 
 Code: KR04D14, Coordinates: 37.477, 127.02
 
 
-### Seodaemun
+### 서대문구 (Seodaemun)
 
 Code: KR04D07, Coordinates: 37.576, 126.943
 
 
-### Seongbuk
+### 성북구 (Seongbuk)
 
 Code: KR04D04, Coordinates: 37.598, 127.022
 
 
-### Seongdong
+### 성동구 (Seongdong)
 
 Code: KR04D12, Coordinates: 37.556, 127.045
 
 
-### Songpa
+### 송파구 (Songpa)
 
 Code: KR04D13, Coordinates: 37.506, 127.121
 
 
-### Yangcheon
+### 양천구 (Yangcheon)
 
 Code: KR04D05, Coordinates: 37.52, 126.865
 
 
-### Yeongdeungpo
+### 영등포구 (Yeongdeungpo)
 
 Code: KR04D10, Coordinates: 37.522, 126.908
 
 
-### Yongsan
+### 용산구 (Yongsan)
 
 Code: KR04D20, Coordinates: 37.534, 126.981
 

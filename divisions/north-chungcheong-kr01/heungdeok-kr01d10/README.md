@@ -1,8 +1,8 @@
-# Heungdeok
+# 흥덕구 (Heungdeok)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Heungdeok**
 
-Heungdeok is a district in South Korea, under North Chungcheong.
+흥덕구 (Heungdeok) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

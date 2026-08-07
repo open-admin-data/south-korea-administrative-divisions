@@ -7,7 +7,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Andong",
+      "local": "안동시",
       "en": "Andong",
       "slug": "andong-kr15d07"
     },
@@ -52,7 +52,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Bonghwa",
+      "local": "봉화군",
       "en": "Bonghwa",
       "slug": "bonghwa-kr15d09"
     },
@@ -97,7 +97,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Cheongdo",
+      "local": "청도군",
       "en": "Cheongdo",
       "slug": "cheongdo-kr15d19"
     },
@@ -142,7 +142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Cheongsong",
+      "local": "청송군",
       "en": "Cheongsong",
       "slug": "cheongsong-kr15d12"
     },
@@ -187,7 +187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Chilgok",
+      "local": "칠곡군",
       "en": "Chilgok",
       "slug": "chilgok-kr15d14"
     },
@@ -232,7 +232,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gimcheon",
+      "local": "김천시",
       "en": "Gimcheon",
       "slug": "gimcheon-kr15d05"
     },
@@ -277,7 +277,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Goryeong",
+      "local": "고령군",
       "en": "Goryeong",
       "slug": "goryeong-kr15d04"
     },
@@ -322,7 +322,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gumi",
+      "local": "구미시",
       "en": "Gumi",
       "slug": "gumi-kr15d01"
     },
@@ -367,7 +367,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gunwi",
+      "local": "군위군",
       "en": "Gunwi",
       "slug": "gunwi-kr15d13"
     },
@@ -412,7 +412,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gyeongju",
+      "local": "경주시",
       "en": "Gyeongju",
       "slug": "gyeongju-kr15d03"
     },
@@ -457,7 +457,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gyeongsan",
+      "local": "경산시",
       "en": "Gyeongsan",
       "slug": "gyeongsan-kr15d22"
     },
@@ -502,7 +502,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Mungyeong",
+      "local": "문경시",
       "en": "Mungyeong",
       "slug": "mungyeong-kr15d21"
     },
@@ -547,7 +547,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sangju",
+      "local": "상주시",
       "en": "Sangju",
       "slug": "sangju-kr15d02"
     },
@@ -592,7 +592,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seongju",
+      "local": "성주군",
       "en": "Seongju",
       "slug": "seongju-kr15d06"
     },
@@ -637,7 +637,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Uiseong",
+      "local": "의성군",
       "en": "Uiseong",
       "slug": "uiseong-kr15d10"
     },
@@ -682,7 +682,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Uljin",
+      "local": "울진군",
       "en": "Uljin",
       "slug": "uljin-kr15d11"
     },
@@ -727,7 +727,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Ulleung",
+      "local": "울릉군",
       "en": "Ulleung",
       "slug": "ulleung-kr15d18"
     },
@@ -772,7 +772,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yecheon",
+      "local": "예천군",
       "en": "Yecheon",
       "slug": "yecheon-kr15d16"
     },
@@ -817,7 +817,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongcheon",
+      "local": "영천시",
       "en": "Yeongcheon",
       "slug": "yeongcheon-kr15d17"
     },
@@ -862,7 +862,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongdeok",
+      "local": "영덕군",
       "en": "Yeongdeok",
       "slug": "yeongdeok-kr15d15"
     },
@@ -907,7 +907,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongju",
+      "local": "영주시",
       "en": "Yeongju",
       "slug": "yeongju-kr15d20"
     },
@@ -952,7 +952,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongyang",
+      "local": "영양군",
       "en": "Yeongyang",
       "slug": "yeongyang-kr15d08"
     },

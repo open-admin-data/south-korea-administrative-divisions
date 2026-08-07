@@ -1,8 +1,8 @@
-# Gimpo
+# 김포시 (Gimpo)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Gimpo**
 
-Gimpo is a district in South Korea, under Gyeonggi.
+김포시 (Gimpo) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

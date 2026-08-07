@@ -7,7 +7,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Boeun",
+      "local": "보은군",
       "en": "Boeun",
       "slug": "boeun-kr01d02"
     },
@@ -52,7 +52,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Cheongwon",
+      "local": "청원구",
       "en": "Cheongwon",
       "slug": "cheongwon-kr01d04"
     },
@@ -97,7 +97,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Chungju",
+      "local": "충주시",
       "en": "Chungju",
       "slug": "chungju-kr01d01"
     },
@@ -142,7 +142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Danyang",
+      "local": "단양군",
       "en": "Danyang",
       "slug": "danyang-kr01d03"
     },
@@ -187,7 +187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Eumseong",
+      "local": "서구",
       "en": "Eumseong",
       "slug": "eumseong-kr01d12"
     },
@@ -232,7 +232,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Goesan",
+      "local": "괴산군",
       "en": "Goesan",
       "slug": "goesan-kr01d06"
     },
@@ -277,7 +277,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Heungdeok",
+      "local": "흥덕구",
       "en": "Heungdeok",
       "slug": "heungdeok-kr01d10"
     },
@@ -322,7 +322,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jecheon",
+      "local": "제천시",
       "en": "Jecheon",
       "slug": "jecheon-kr01d07"
     },
@@ -367,7 +367,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jeungpyeong",
+      "local": "증평군",
       "en": "Jeungpyeong",
       "slug": "jeungpyeong-kr01d13"
     },
@@ -412,7 +412,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jincheon",
+      "local": "진천군",
       "en": "Jincheon",
       "slug": "jincheon-kr01d09"
     },
@@ -457,7 +457,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Okcheon",
+      "local": "옥천군",
       "en": "Okcheon",
       "slug": "okcheon-kr01d08"
     },
@@ -502,7 +502,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sangdang",
+      "local": "상당구",
       "en": "Sangdang",
       "slug": "sangdang-kr01d11"
     },
@@ -547,7 +547,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongdong",
+      "local": "영동군",
       "en": "Yeongdong",
       "slug": "yeongdong-kr01d05"
     },

@@ -1,8 +1,8 @@
-# Ilsanseo
+# 서구 (Ilsanseo)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Ilsanseo**
 
-Ilsanseo is a district in South Korea, under Gyeonggi.
+서구 (Ilsanseo) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Danwon
+# 단원구 (Danwon)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Danwon**
 
-Danwon is a district in South Korea, under Gyeonggi.
+단원구 (Danwon) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

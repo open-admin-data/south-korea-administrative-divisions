@@ -1,8 +1,8 @@
-# Buk
+# 북구 (Buk)
 
 [Home](../../../) &gt; [Gwangju](../) > **Buk**
 
-Buk is a district in South Korea, under Gwangju.
+북구 (Buk) is a district in South Korea, under Gwangju.
 
 ## Overview
 

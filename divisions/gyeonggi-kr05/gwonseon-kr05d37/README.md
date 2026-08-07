@@ -1,8 +1,8 @@
-# Gwonseon
+# 서구 (Gwonseon)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Gwonseon**
 
-Gwonseon is a district in South Korea, under Gyeonggi.
+서구 (Gwonseon) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

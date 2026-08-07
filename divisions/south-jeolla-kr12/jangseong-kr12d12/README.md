@@ -1,8 +1,8 @@
-# Jangseong
+# 장성군 (Jangseong)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Jangseong**
 
-Jangseong is a district in South Korea, under South Jeolla.
+장성군 (Jangseong) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

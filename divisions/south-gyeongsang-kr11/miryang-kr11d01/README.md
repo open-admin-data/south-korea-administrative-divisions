@@ -1,8 +1,8 @@
-# Miryang
+# 밀양시 (Miryang)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Miryang**
 
-Miryang is a district in South Korea, under South Gyeongsang.
+밀양시 (Miryang) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

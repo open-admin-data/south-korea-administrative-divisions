@@ -1,8 +1,8 @@
-# Bundang
+# 분당구 (Bundang)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Bundang**
 
-Bundang is a district in South Korea, under Gyeonggi.
+분당구 (Bundang) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

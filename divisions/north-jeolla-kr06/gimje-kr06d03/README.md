@@ -1,8 +1,8 @@
-# Gimje
+# 김제시 (Gimje)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Gimje**
 
-Gimje is a district in South Korea, under North Jeolla.
+김제시 (Gimje) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

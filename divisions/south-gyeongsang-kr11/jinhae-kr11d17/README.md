@@ -1,8 +1,8 @@
-# Jinhae
+# 진해구 (Jinhae)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Jinhae**
 
-Jinhae is a district in South Korea, under South Gyeongsang.
+진해구 (Jinhae) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

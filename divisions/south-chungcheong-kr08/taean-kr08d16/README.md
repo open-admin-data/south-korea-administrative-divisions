@@ -1,8 +1,8 @@
-# Taean
+# 태안군 (Taean)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Taean**
 
-Taean is a district in South Korea, under South Chungcheong.
+태안군 (Taean) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

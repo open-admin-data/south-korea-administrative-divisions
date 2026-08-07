@@ -1,8 +1,8 @@
-# Geoje
+# 거제시 (Geoje)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Geoje**
 
-Geoje is a district in South Korea, under South Gyeongsang.
+거제시 (Geoje) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

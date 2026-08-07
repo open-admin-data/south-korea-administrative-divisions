@@ -1,8 +1,8 @@
-# Hongseong
+# 홍성군 (Hongseong)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Hongseong**
 
-Hongseong is a district in South Korea, under South Chungcheong.
+홍성군 (Hongseong) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

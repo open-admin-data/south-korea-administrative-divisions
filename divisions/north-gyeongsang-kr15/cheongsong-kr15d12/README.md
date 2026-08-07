@@ -1,8 +1,8 @@
-# Cheongsong
+# 청송군 (Cheongsong)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Cheongsong**
 
-Cheongsong is a district in South Korea, under North Gyeongsang.
+청송군 (Cheongsong) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

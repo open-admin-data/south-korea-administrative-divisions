@@ -1,8 +1,8 @@
-# Danyang
+# 단양군 (Danyang)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Danyang**
 
-Danyang is a district in South Korea, under North Chungcheong.
+단양군 (Danyang) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

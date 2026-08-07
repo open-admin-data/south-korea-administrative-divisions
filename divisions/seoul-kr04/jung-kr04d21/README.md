@@ -1,8 +1,8 @@
-# Jung
+# 중구 (Jung)
 
 [Home](../../../) &gt; [Seoul](../) > **Jung**
 
-Jung is a district in South Korea, under Seoul.
+중구 (Jung) is a district in South Korea, under Seoul.
 
 ## Overview
 

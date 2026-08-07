@@ -1,8 +1,8 @@
-# Wanju
+# 완주군 (Wanju)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Wanju**
 
-Wanju is a district in South Korea, under North Jeolla.
+완주군 (Wanju) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

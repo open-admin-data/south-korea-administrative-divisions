@@ -1,8 +1,8 @@
-# Gangdong
+# 강동구 (Gangdong)
 
 [Home](../../../) &gt; [Seoul](../) > **Gangdong**
 
-Gangdong is a district in South Korea, under Seoul.
+강동구 (Gangdong) is a district in South Korea, under Seoul.
 
 ## Overview
 

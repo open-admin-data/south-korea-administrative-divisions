@@ -1,8 +1,8 @@
-# Cheongwon
+# 청원구 (Cheongwon)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Cheongwon**
 
-Cheongwon is a district in South Korea, under North Chungcheong.
+청원구 (Cheongwon) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

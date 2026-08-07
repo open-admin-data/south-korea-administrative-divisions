@@ -7,17 +7,17 @@
 
 ## Districts
 
-### Dalseo
+### 달서구 (Dalseo)
 
 Code: KR10D03, Coordinates: 35.829, 128.531
 
 
-### Dalseong
+### 달성군 (Dalseong)
 
 Code: KR10D02, Coordinates: 35.753, 128.484
 
 
-### Suseong
+### 수성구 (Suseong)
 
 Code: KR10D01, Coordinates: 35.843, 128.651
 

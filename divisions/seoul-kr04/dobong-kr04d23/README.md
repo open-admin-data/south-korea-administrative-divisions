@@ -1,8 +1,8 @@
-# Dobong
+# 도봉구 (Dobong)
 
 [Home](../../../) &gt; [Seoul](../) > **Dobong**
 
-Dobong is a district in South Korea, under Seoul.
+도봉구 (Dobong) is a district in South Korea, under Seoul.
 
 ## Overview
 

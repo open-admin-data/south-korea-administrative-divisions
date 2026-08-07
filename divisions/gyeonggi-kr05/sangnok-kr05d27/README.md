@@ -1,8 +1,8 @@
-# Sangnok
+# 상록구 (Sangnok)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Sangnok**
 
-Sangnok is a district in South Korea, under Gyeonggi.
+상록구 (Sangnok) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

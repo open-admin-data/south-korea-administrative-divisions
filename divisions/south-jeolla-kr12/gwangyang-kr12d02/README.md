@@ -1,8 +1,8 @@
-# Gwangyang
+# 광양시 (Gwangyang)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Gwangyang**
 
-Gwangyang is a district in South Korea, under South Jeolla.
+광양시 (Gwangyang) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

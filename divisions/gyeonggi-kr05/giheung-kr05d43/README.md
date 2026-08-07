@@ -1,8 +1,8 @@
-# Giheung
+# 기흥구 (Giheung)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Giheung**
 
-Giheung is a district in South Korea, under Gyeonggi.
+기흥구 (Giheung) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

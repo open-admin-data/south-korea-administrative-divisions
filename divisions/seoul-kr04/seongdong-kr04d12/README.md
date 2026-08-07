@@ -1,8 +1,8 @@
-# Seongdong
+# 성동구 (Seongdong)
 
 [Home](../../../) &gt; [Seoul](../) > **Seongdong**
 
-Seongdong is a district in South Korea, under Seoul.
+성동구 (Seongdong) is a district in South Korea, under Seoul.
 
 ## Overview
 

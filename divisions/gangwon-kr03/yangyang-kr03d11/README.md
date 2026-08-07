@@ -1,8 +1,8 @@
-# Yangyang
+# 양양군 (Yangyang)
 
 [Home](../../../) &gt; [Gangwon](../) > **Yangyang**
 
-Yangyang is a district in South Korea, under Gangwon.
+양양군 (Yangyang) is a district in South Korea, under Gangwon.
 
 ## Overview
 

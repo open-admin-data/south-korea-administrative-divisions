@@ -1,8 +1,8 @@
-# Hongcheon
+# 홍천군 (Hongcheon)
 
 [Home](../../../) &gt; [Gangwon](../) > **Hongcheon**
 
-Hongcheon is a district in South Korea, under Gangwon.
+홍천군 (Hongcheon) is a district in South Korea, under Gangwon.
 
 ## Overview
 

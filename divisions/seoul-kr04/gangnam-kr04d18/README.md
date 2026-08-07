@@ -1,8 +1,8 @@
-# Gangnam
+# 강남구 (Gangnam)
 
 [Home](../../../) &gt; [Seoul](../) > **Gangnam**
 
-Gangnam is a district in South Korea, under Seoul.
+강남구 (Gangnam) is a district in South Korea, under Seoul.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Sancheong
+# 산청군 (Sancheong)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Sancheong**
 
-Sancheong is a district in South Korea, under South Gyeongsang.
+산청군 (Sancheong) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Hapcheon
+# 합천군 (Hapcheon)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Hapcheon**
 
-Hapcheon is a district in South Korea, under South Gyeongsang.
+합천군 (Hapcheon) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

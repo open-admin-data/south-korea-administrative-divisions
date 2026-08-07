@@ -1,8 +1,8 @@
-# Cheoin
+# 처인구 (Cheoin)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Cheoin**
 
-Cheoin is a district in South Korea, under Gyeonggi.
+처인구 (Cheoin) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

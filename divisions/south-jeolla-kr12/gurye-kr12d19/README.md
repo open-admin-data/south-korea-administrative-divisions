@@ -1,8 +1,8 @@
-# Gurye
+# 구례군 (Gurye)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Gurye**
 
-Gurye is a district in South Korea, under South Jeolla.
+구례군 (Gurye) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

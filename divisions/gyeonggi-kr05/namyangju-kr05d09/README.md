@@ -1,8 +1,8 @@
-# Namyangju
+# 남양주시 (Namyangju)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Namyangju**
 
-Namyangju is a district in South Korea, under Gyeonggi.
+남양주시 (Namyangju) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

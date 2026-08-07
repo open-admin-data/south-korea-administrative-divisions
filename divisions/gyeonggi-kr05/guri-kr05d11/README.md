@@ -1,8 +1,8 @@
-# Guri
+# 구리시 (Guri)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Guri**
 
-Guri is a district in South Korea, under Gyeonggi.
+구리시 (Guri) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

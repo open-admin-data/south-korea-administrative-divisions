@@ -1,8 +1,8 @@
-# Gijang
+# 기장군 (Gijang)
 
 [Home](../../../) &gt; [Busan](../) > **Gijang**
 
-Gijang is a district in South Korea, under Busan.
+기장군 (Gijang) is a district in South Korea, under Busan.
 
 ## Overview
 

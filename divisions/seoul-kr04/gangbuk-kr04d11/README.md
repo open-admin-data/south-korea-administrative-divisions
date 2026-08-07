@@ -1,8 +1,8 @@
-# Gangbuk
+# 강북구 (Gangbuk)
 
 [Home](../../../) &gt; [Seoul](../) > **Gangbuk**
 
-Gangbuk is a district in South Korea, under Seoul.
+강북구 (Gangbuk) is a district in South Korea, under Seoul.
 
 ## Overview
 

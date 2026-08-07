@@ -1,8 +1,8 @@
-# Muju
+# 무주군 (Muju)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Muju**
 
-Muju is a district in South Korea, under North Jeolla.
+무주군 (Muju) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

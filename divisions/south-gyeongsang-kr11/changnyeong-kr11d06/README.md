@@ -1,8 +1,8 @@
-# Changnyeong
+# 창녕군 (Changnyeong)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Changnyeong**
 
-Changnyeong is a district in South Korea, under South Gyeongsang.
+창녕군 (Changnyeong) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

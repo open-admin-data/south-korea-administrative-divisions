@@ -1,8 +1,8 @@
-# Ongjin
+# 옹진군 (Ongjin)
 
 [Home](../../../) &gt; [Incheon](../) > **Ongjin**
 
-Ongjin is a district in South Korea, under Incheon.
+옹진군 (Ongjin) is a district in South Korea, under Incheon.
 
 ## Overview
 

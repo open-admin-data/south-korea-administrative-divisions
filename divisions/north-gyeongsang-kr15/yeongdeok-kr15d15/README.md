@@ -1,8 +1,8 @@
-# Yeongdeok
+# 영덕군 (Yeongdeok)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Yeongdeok**
 
-Yeongdeok is a district in South Korea, under North Gyeongsang.
+영덕군 (Yeongdeok) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

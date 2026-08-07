@@ -1,8 +1,8 @@
-# Seocheon
+# 서천군 (Seocheon)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Seocheon**
 
-Seocheon is a district in South Korea, under South Chungcheong.
+서천군 (Seocheon) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

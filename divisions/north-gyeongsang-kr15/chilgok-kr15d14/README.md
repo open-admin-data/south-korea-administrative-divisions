@@ -1,8 +1,8 @@
-# Chilgok
+# 칠곡군 (Chilgok)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Chilgok**
 
-Chilgok is a district in South Korea, under North Gyeongsang.
+칠곡군 (Chilgok) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Gwangmyeong
+# 광명시 (Gwangmyeong)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Gwangmyeong**
 
-Gwangmyeong is a district in South Korea, under Gyeonggi.
+광명시 (Gwangmyeong) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

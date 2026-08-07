@@ -1,8 +1,8 @@
-# Tongyeong
+# 통영시 (Tongyeong)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Tongyeong**
 
-Tongyeong is a district in South Korea, under South Gyeongsang.
+통영시 (Tongyeong) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

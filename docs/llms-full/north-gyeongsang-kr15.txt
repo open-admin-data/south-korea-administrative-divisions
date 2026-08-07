@@ -7,112 +7,112 @@
 
 ## Districts
 
-### Andong
+### 안동시 (Andong)
 
 Code: KR15D07, Coordinates: 36.605, 128.829
 
 
-### Bonghwa
+### 봉화군 (Bonghwa)
 
 Code: KR15D09, Coordinates: 36.924, 128.915
 
 
-### Cheongdo
+### 청도군 (Cheongdo)
 
 Code: KR15D19, Coordinates: 35.634, 128.76
 
 
-### Cheongsong
+### 청송군 (Cheongsong)
 
 Code: KR15D12, Coordinates: 36.376, 129.079
 
 
-### Chilgok
+### 칠곡군 (Chilgok)
 
 Code: KR15D14, Coordinates: 36.008, 128.465
 
 
-### Gimcheon
+### 김천시 (Gimcheon)
 
 Code: KR15D05, Coordinates: 36.076, 128.076
 
 
-### Goryeong
+### 고령군 (Goryeong)
 
 Code: KR15D04, Coordinates: 35.724, 128.284
 
 
-### Gumi
+### 구미시 (Gumi)
 
 Code: KR15D01, Coordinates: 36.206, 128.357
 
 
-### Gunwi
+### 군위군 (Gunwi)
 
 Code: KR15D13, Coordinates: 36.138, 128.667
 
 
-### Gyeongju
+### 경주시 (Gyeongju)
 
 Code: KR15D03, Coordinates: 35.84, 129.233
 
 
-### Gyeongsan
+### 경산시 (Gyeongsan)
 
 Code: KR15D22, Coordinates: 35.818, 128.811
 
 
-### Mungyeong
+### 문경시 (Mungyeong)
 
 Code: KR15D21, Coordinates: 36.708, 128.187
 
 
-### Sangju
+### 상주시 (Sangju)
 
 Code: KR15D02, Coordinates: 36.403, 128.064
 
 
-### Seongju
+### 성주군 (Seongju)
 
 Code: KR15D06, Coordinates: 35.916, 128.236
 
 
-### Uiseong
+### 의성군 (Uiseong)
 
 Code: KR15D10, Coordinates: 36.328, 128.738
 
 
-### Uljin
+### 울진군 (Uljin)
 
 Code: KR15D11, Coordinates: 36.972, 129.311
 
 
-### Ulleung
+### 울릉군 (Ulleung)
 
 Code: KR15D18, Coordinates: 37.492, 130.871
 
 
-### Yecheon
+### 예천군 (Yecheon)
 
 Code: KR15D16, Coordinates: 36.683, 128.442
 
 
-### Yeongcheon
+### 영천시 (Yeongcheon)
 
 Code: KR15D17, Coordinates: 36.033, 128.967
 
 
-### Yeongdeok
+### 영덕군 (Yeongdeok)
 
 Code: KR15D15, Coordinates: 36.458, 129.331
 
 
-### Yeongju
+### 영주시 (Yeongju)
 
 Code: KR15D20, Coordinates: 36.874, 128.556
 
 
-### Yeongyang
+### 영양군 (Yeongyang)
 
 Code: KR15D08, Coordinates: 36.708, 129.127
 

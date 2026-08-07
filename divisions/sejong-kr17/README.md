@@ -16,7 +16,7 @@
 
 | # | District | Coordinates | Link |
 |---|----|-------------|------|
-| 1 | Sejong | 36.51, 127.273 | [Browse](sejong-kr17d01/) |
+| 1 | 세종시 (Sejong) | 36.51, 127.273 | [Browse](sejong-kr17d01/) |
 
 ## Data Files
 

@@ -1,8 +1,8 @@
-# Hoengseong
+# 횡성군 (Hoengseong)
 
 [Home](../../../) &gt; [Gangwon](../) > **Hoengseong**
 
-Hoengseong is a district in South Korea, under Gangwon.
+횡성군 (Hoengseong) is a district in South Korea, under Gangwon.
 
 ## Overview
 

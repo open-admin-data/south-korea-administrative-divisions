@@ -7,82 +7,82 @@
 
 ## Districts
 
-### Asan
+### 아산시 (Asan)
 
 Code: KR08D11, Coordinates: 36.803, 126.987
 
 
-### Boryeong
+### 보령시 (Boryeong)
 
 Code: KR08D04, Coordinates: 36.379, 126.629
 
 
-### Buyeo
+### 부여군 (Buyeo)
 
 Code: KR08D06, Coordinates: 36.229, 126.877
 
 
-### Cheongyang
+### 청양군 (Cheongyang)
 
 Code: KR08D08, Coordinates: 36.457, 126.825
 
 
-### Dangjin
+### 당진시 (Dangjin)
 
 Code: KR08D15, Coordinates: 36.883, 126.693
 
 
-### Dongnam
+### 동구 (Dongnam)
 
 Code: KR08D13, Coordinates: 36.787, 127.261
 
 
-### Geumsan
+### 금산군 (Geumsan)
 
 Code: KR08D05, Coordinates: 36.109, 127.477
 
 
-### Gongju
+### 공주시 (Gongju)
 
 Code: KR08D02, Coordinates: 36.534, 127.073
 
 
-### Gyeryong
+### 계룡시 (Gyeryong)
 
 Code: KR08D03, Coordinates: 36.286, 127.228
 
 
-### Hongseong
+### 홍성군 (Hongseong)
 
 Code: KR08D01, Coordinates: 36.551, 126.661
 
 
-### Nonsan
+### 논산시 (Nonsan)
 
 Code: KR08D07, Coordinates: 36.182, 127.147
 
 
-### Seobuk
+### 서구 (Seobuk)
 
 Code: KR08D14, Coordinates: 36.903, 127.155
 
 
-### Seocheon
+### 서천군 (Seocheon)
 
 Code: KR08D12, Coordinates: 36.098, 126.724
 
 
-### Seosan
+### 서산시 (Seosan)
 
 Code: KR08D10, Coordinates: 36.79, 126.427
 
 
-### Taean
+### 태안군 (Taean)
 
 Code: KR08D16, Coordinates: 36.763, 126.248
 
 
-### Yesan
+### 예산군 (Yesan)
 
 Code: KR08D09, Coordinates: 36.67, 126.819
 

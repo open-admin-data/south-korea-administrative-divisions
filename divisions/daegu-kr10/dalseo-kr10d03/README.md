@@ -1,8 +1,8 @@
-# Dalseo
+# 달서구 (Dalseo)
 
 [Home](../../../) &gt; [Daegu](../) > **Dalseo**
 
-Dalseo is a district in South Korea, under Daegu.
+달서구 (Dalseo) is a district in South Korea, under Daegu.
 
 ## Overview
 

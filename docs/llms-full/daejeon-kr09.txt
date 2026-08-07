@@ -7,12 +7,12 @@
 
 ## Districts
 
-### Daedeok
+### 대덕구 (Daedeok)
 
 Code: KR09D01, Coordinates: 36.425, 127.444
 
 
-### Yuseong
+### 유성구 (Yuseong)
 
 Code: KR09D02, Coordinates: 36.38, 127.321
 

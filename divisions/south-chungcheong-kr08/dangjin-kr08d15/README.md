@@ -1,8 +1,8 @@
-# Dangjin
+# 당진시 (Dangjin)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Dangjin**
 
-Dangjin is a district in South Korea, under South Chungcheong.
+당진시 (Dangjin) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

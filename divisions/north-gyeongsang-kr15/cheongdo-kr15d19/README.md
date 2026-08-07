@@ -1,8 +1,8 @@
-# Cheongdo
+# 청도군 (Cheongdo)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Cheongdo**
 
-Cheongdo is a district in South Korea, under North Gyeongsang.
+청도군 (Cheongdo) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

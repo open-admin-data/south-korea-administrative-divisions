@@ -1,8 +1,8 @@
-# Deogyang
+# 덕양구 (Deogyang)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Deogyang**
 
-Deogyang is a district in South Korea, under Gyeonggi.
+덕양구 (Deogyang) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

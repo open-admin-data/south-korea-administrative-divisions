@@ -7,7 +7,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Buk",
+      "local": "북구",
       "en": "Buk",
       "slug": "buk-kr07d05"
     },
@@ -52,7 +52,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dong",
+      "local": "동구",
       "en": "Dong",
       "slug": "dong-kr07d01"
     },
@@ -97,7 +97,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwangsan",
+      "local": "광산구",
       "en": "Gwangsan",
       "slug": "gwangsan-kr07d04"
     },
@@ -142,7 +142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Nam",
+      "local": "남구",
       "en": "Nam",
       "slug": "nam-kr07d02"
     },
@@ -187,7 +187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seo",
+      "local": "서구",
       "en": "Seo",
       "slug": "seo-kr07d03"
     },

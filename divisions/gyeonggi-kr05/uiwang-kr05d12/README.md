@@ -1,8 +1,8 @@
-# Uiwang
+# 의왕시 (Uiwang)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Uiwang**
 
-Uiwang is a district in South Korea, under Gyeonggi.
+의왕시 (Uiwang) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

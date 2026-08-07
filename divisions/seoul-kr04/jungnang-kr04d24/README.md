@@ -1,8 +1,8 @@
-# Jungnang
+# 중랑구 (Jungnang)
 
 [Home](../../../) &gt; [Seoul](../) > **Jungnang**
 
-Jungnang is a district in South Korea, under Seoul.
+중랑구 (Jungnang) is a district in South Korea, under Seoul.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Yeongtong
+# 영통구 (Yeongtong)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Yeongtong**
 
-Yeongtong is a district in South Korea, under Gyeonggi.
+영통구 (Yeongtong) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

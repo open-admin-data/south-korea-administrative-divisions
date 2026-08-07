@@ -1,8 +1,8 @@
-# Geumsan
+# 금산군 (Geumsan)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Geumsan**
 
-Geumsan is a district in South Korea, under South Chungcheong.
+금산군 (Geumsan) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

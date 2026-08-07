@@ -1,8 +1,8 @@
-# Iksan
+# 익산시 (Iksan)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Iksan**
 
-Iksan is a district in South Korea, under North Jeolla.
+익산시 (Iksan) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

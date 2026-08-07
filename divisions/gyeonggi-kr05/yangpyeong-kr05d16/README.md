@@ -1,8 +1,8 @@
-# Yangpyeong
+# 양평군 (Yangpyeong)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Yangpyeong**
 
-Yangpyeong is a district in South Korea, under Gyeonggi.
+양평군 (Yangpyeong) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

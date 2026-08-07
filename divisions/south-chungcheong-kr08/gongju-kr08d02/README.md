@@ -1,8 +1,8 @@
-# Gongju
+# 공주시 (Gongju)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Gongju**
 
-Gongju is a district in South Korea, under South Chungcheong.
+공주시 (Gongju) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

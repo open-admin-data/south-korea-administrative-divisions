@@ -1,8 +1,8 @@
-# Sujeong
+# 수정구 (Sujeong)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Sujeong**
 
-Sujeong is a district in South Korea, under Gyeonggi.
+수정구 (Sujeong) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

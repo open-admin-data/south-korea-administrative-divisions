@@ -7,7 +7,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeonje",
+      "local": "연제구",
       "en": "Yeonje",
       "slug": "yeonje-kr13d01"
     },
@@ -52,7 +52,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Haeundae",
+      "local": "해운대구",
       "en": "Haeundae",
       "slug": "haeundae-kr13d02"
     },
@@ -97,7 +97,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangseo",
+      "local": "강서구",
       "en": "Gangseo",
       "slug": "gangseo-kr13d03"
     },
@@ -142,7 +142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dong",
+      "local": "동구",
       "en": "Dong",
       "slug": "dong-kr07d01"
     },
@@ -187,7 +187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Geumjeong",
+      "local": "금정구",
       "en": "Geumjeong",
       "slug": "geumjeong-kr13d04"
     },
@@ -232,7 +232,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gijang",
+      "local": "기장군",
       "en": "Gijang",
       "slug": "gijang-kr13d05"
     },
@@ -277,7 +277,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hongseong",
+      "local": "홍성군",
       "en": "Hongseong",
       "slug": "hongseong-kr08d01"
     },
@@ -322,7 +322,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Nam",
+      "local": "남구",
       "en": "Nam",
       "slug": "nam-kr07d02"
     },
@@ -367,7 +367,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwanak",
+      "local": "관악구",
       "en": "Gwanak",
       "slug": "gwanak-kr04d01"
     },
@@ -412,7 +412,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jindo",
+      "local": "진도군",
       "en": "Jindo",
       "slug": "jindo-kr12d01"
     },
@@ -457,7 +457,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwangyang",
+      "local": "광양시",
       "en": "Gwangyang",
       "slug": "gwangyang-kr12d02"
     },
@@ -502,7 +502,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gumi",
+      "local": "구미시",
       "en": "Gumi",
       "slug": "gumi-kr15d01"
     },
@@ -547,7 +547,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwangju",
+      "local": "광주시",
       "en": "Gwangju",
       "slug": "gwangju-kr05d01"
     },
@@ -592,7 +592,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Chungju",
+      "local": "충주시",
       "en": "Chungju",
       "slug": "chungju-kr01d01"
     },
@@ -637,7 +637,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jinan",
+      "local": "진안군",
       "en": "Jinan",
       "slug": "jinan-kr06d01"
     },
@@ -682,7 +682,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Wando",
+      "local": "완도군",
       "en": "Wando",
       "slug": "wando-kr12d03"
     },
@@ -727,7 +727,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seo",
+      "local": "서구",
       "en": "Seo",
       "slug": "seo-kr07d03"
     },
@@ -772,7 +772,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwangjin",
+      "local": "광진구",
       "en": "Gwangjin",
       "slug": "gwangjin-kr04d02"
     },
@@ -817,7 +817,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Nowon",
+      "local": "노원구",
       "en": "Nowon",
       "slug": "nowon-kr04d03"
     },
@@ -862,7 +862,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seongbuk",
+      "local": "성북구",
       "en": "Seongbuk",
       "slug": "seongbuk-kr04d04"
     },
@@ -907,7 +907,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yangcheon",
+      "local": "양천구",
       "en": "Yangcheon",
       "slug": "yangcheon-kr04d05"
     },
@@ -952,7 +952,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Geumcheon",
+      "local": "금천구",
       "en": "Geumcheon",
       "slug": "geumcheon-kr04d06"
     },
@@ -997,7 +997,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Naju",
+      "local": "나주시",
       "en": "Naju",
       "slug": "naju-kr12d04"
     },
@@ -1042,7 +1042,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Boeun",
+      "local": "보은군",
       "en": "Boeun",
       "slug": "boeun-kr01d02"
     },
@@ -1087,7 +1087,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sangju",
+      "local": "상주시",
       "en": "Sangju",
       "slug": "sangju-kr15d02"
     },
@@ -1132,7 +1132,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Muan",
+      "local": "무안군",
       "en": "Muan",
       "slug": "muan-kr12d05"
     },
@@ -1177,7 +1177,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Inje",
+      "local": "인제군",
       "en": "Inje",
       "slug": "inje-kr03d01"
     },
@@ -1222,7 +1222,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Miryang",
+      "local": "밀양시",
       "en": "Miryang",
       "slug": "miryang-kr11d01"
     },
@@ -1267,7 +1267,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gongju",
+      "local": "공주시",
       "en": "Gongju",
       "slug": "gongju-kr08d02"
     },
@@ -1312,7 +1312,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gapyeong",
+      "local": "가평군",
       "en": "Gapyeong",
       "slug": "gapyeong-kr05d02"
     },
@@ -1357,7 +1357,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Chuncheon",
+      "local": "춘천시",
       "en": "Chuncheon",
       "slug": "chuncheon-kr03d02"
     },
@@ -1402,7 +1402,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Damyang",
+      "local": "담양군",
       "en": "Damyang",
       "slug": "damyang-kr12d06"
     },
@@ -1447,7 +1447,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sancheong",
+      "local": "산청군",
       "en": "Sancheong",
       "slug": "sancheong-kr11d02"
     },
@@ -1492,7 +1492,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gyeongju",
+      "local": "경주시",
       "en": "Gyeongju",
       "slug": "gyeongju-kr15d03"
     },
@@ -1537,7 +1537,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gimpo",
+      "local": "김포시",
       "en": "Gimpo",
       "slug": "gimpo-kr05d03"
     },
@@ -1582,7 +1582,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Namdong",
+      "local": "남동구",
       "en": "Namdong",
       "slug": "namdong-kr02d01"
     },
@@ -1627,7 +1627,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hamyang",
+      "local": "함양군",
       "en": "Hamyang",
       "slug": "hamyang-kr11d03"
     },
@@ -1672,7 +1672,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gyeryong",
+      "local": "계룡시",
       "en": "Gyeryong",
       "slug": "gyeryong-kr08d03"
     },
@@ -1717,7 +1717,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwangmyeong",
+      "local": "광명시",
       "en": "Gwangmyeong",
       "slug": "gwangmyeong-kr05d04"
     },
@@ -1762,7 +1762,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Boryeong",
+      "local": "보령시",
       "en": "Boryeong",
       "slug": "boryeong-kr08d04"
     },
@@ -1807,7 +1807,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Danyang",
+      "local": "단양군",
       "en": "Danyang",
       "slug": "danyang-kr01d03"
     },
@@ -1852,7 +1852,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seodaemun",
+      "local": "서대문구",
       "en": "Seodaemun",
       "slug": "seodaemun-kr04d07"
     },
@@ -1897,7 +1897,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Muju",
+      "local": "무주군",
       "en": "Muju",
       "slug": "muju-kr06d02"
     },
@@ -1942,7 +1942,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Suseong",
+      "local": "수성구",
       "en": "Suseong",
       "slug": "suseong-kr10d01"
     },
@@ -1987,7 +1987,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Boseong",
+      "local": "보성군",
       "en": "Boseong",
       "slug": "boseong-kr12d07"
     },
@@ -2032,7 +2032,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Goheung",
+      "local": "고흥군",
       "en": "Goheung",
       "slug": "goheung-kr12d08"
     },
@@ -2077,7 +2077,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jeju",
+      "local": "제주시",
       "en": "Jeju",
       "slug": "jeju-kr16d01"
     },
@@ -2122,7 +2122,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwacheon",
+      "local": "과천시",
       "en": "Gwacheon",
       "slug": "gwacheon-kr05d05"
     },
@@ -2167,7 +2167,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Goryeong",
+      "local": "고령군",
       "en": "Goryeong",
       "slug": "goryeong-kr15d04"
     },
@@ -2212,7 +2212,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hapcheon",
+      "local": "합천군",
       "en": "Hapcheon",
       "slug": "hapcheon-kr11d04"
     },
@@ -2257,7 +2257,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gimcheon",
+      "local": "김천시",
       "en": "Gimcheon",
       "slug": "gimcheon-kr15d05"
     },
@@ -2302,7 +2302,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Wonju",
+      "local": "원주시",
       "en": "Wonju",
       "slug": "wonju-kr03d03"
     },
@@ -2347,7 +2347,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Taebaek",
+      "local": "태백시",
       "en": "Taebaek",
       "slug": "taebaek-kr03d04"
     },
@@ -2392,7 +2392,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seongju",
+      "local": "성주군",
       "en": "Seongju",
       "slug": "seongju-kr15d06"
     },
@@ -2437,7 +2437,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Siheung",
+      "local": "시흥시",
       "en": "Siheung",
       "slug": "siheung-kr05d06"
     },
@@ -2482,7 +2482,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwangsan",
+      "local": "광산구",
       "en": "Gwangsan",
       "slug": "gwangsan-kr07d04"
     },
@@ -2527,7 +2527,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Mapo",
+      "local": "마포구",
       "en": "Mapo",
       "slug": "mapo-kr04d08"
     },
@@ -2572,7 +2572,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Andong",
+      "local": "안동시",
       "en": "Andong",
       "slug": "andong-kr15d07"
     },
@@ -2617,7 +2617,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeosu",
+      "local": "여수시",
       "en": "Yeosu",
       "slug": "yeosu-kr12d09"
     },
@@ -2662,7 +2662,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jongno",
+      "local": "종로구",
       "en": "Jongno",
       "slug": "jongno-kr04d09"
     },
@@ -2707,7 +2707,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeonggwang",
+      "local": "영광군",
       "en": "Yeonggwang",
       "slug": "yeonggwang-kr12d10"
     },
@@ -2752,7 +2752,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongdeungpo",
+      "local": "영등포구",
       "en": "Yeongdeungpo",
       "slug": "yeongdeungpo-kr04d10"
     },
@@ -2797,7 +2797,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangbuk",
+      "local": "강북구",
       "en": "Gangbuk",
       "slug": "gangbuk-kr04d11"
     },
@@ -2842,7 +2842,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hwasun",
+      "local": "화순군",
       "en": "Hwasun",
       "slug": "hwasun-kr12d11"
     },
@@ -2887,7 +2887,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seongdong",
+      "local": "성동구",
       "en": "Seongdong",
       "slug": "seongdong-kr04d12"
     },
@@ -2932,7 +2932,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Songpa",
+      "local": "송파구",
       "en": "Songpa",
       "slug": "songpa-kr04d13"
     },
@@ -2977,7 +2977,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jangseong",
+      "local": "장성군",
       "en": "Jangseong",
       "slug": "jangseong-kr12d12"
     },
@@ -3022,7 +3022,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hanam",
+      "local": "하남시",
       "en": "Hanam",
       "slug": "hanam-kr05d07"
     },
@@ -3067,7 +3067,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Mokpo",
+      "local": "목포시",
       "en": "Mokpo",
       "slug": "mokpo-kr12d13"
     },
@@ -3112,7 +3112,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seocho",
+      "local": "서초구",
       "en": "Seocho",
       "slug": "seocho-kr04d14"
     },
@@ -3157,7 +3157,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Buk",
+      "local": "북구",
       "en": "Buk",
       "slug": "buk-kr07d05"
     },
@@ -3202,7 +3202,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Osan",
+      "local": "오산시",
       "en": "Osan",
       "slug": "osan-kr05d08"
     },
@@ -3247,7 +3247,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Geumsan",
+      "local": "금산군",
       "en": "Geumsan",
       "slug": "geumsan-kr08d05"
     },
@@ -3292,7 +3292,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongwol",
+      "local": "영월군",
       "en": "Yeongwol",
       "slug": "yeongwol-kr03d05"
     },
@@ -3337,7 +3337,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Cheongwon",
+      "local": "청원구",
       "en": "Cheongwon",
       "slug": "cheongwon-kr01d04"
     },
@@ -3382,7 +3382,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangdong",
+      "local": "강동구",
       "en": "Gangdong",
       "slug": "gangdong-kr04d15"
     },
@@ -3427,7 +3427,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sacheon",
+      "local": "사천시",
       "en": "Sacheon",
       "slug": "sacheon-kr11d05"
     },
@@ -3472,7 +3472,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jeongseon",
+      "local": "정선군",
       "en": "Jeongseon",
       "slug": "jeongseon-kr03d06"
     },
@@ -3517,7 +3517,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Buyeo",
+      "local": "부여군",
       "en": "Buyeo",
       "slug": "buyeo-kr08d06"
     },
@@ -3562,7 +3562,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gimje",
+      "local": "김제시",
       "en": "Gimje",
       "slug": "gimje-kr06d03"
     },
@@ -3607,7 +3607,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dongdaemun",
+      "local": "동대문구",
       "en": "Dongdaemun",
       "slug": "dongdaemun-kr04d16"
     },
@@ -3652,7 +3652,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jangheung",
+      "local": "장흥군",
       "en": "Jangheung",
       "slug": "jangheung-kr12d14"
     },
@@ -3697,7 +3697,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Ongjin",
+      "local": "옹진군",
       "en": "Ongjin",
       "slug": "ongjin-kr02d02"
     },
@@ -3742,7 +3742,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongdong",
+      "local": "영동군",
       "en": "Yeongdong",
       "slug": "yeongdong-kr01d05"
     },
@@ -3787,7 +3787,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Eunpyeong",
+      "local": "은평구",
       "en": "Eunpyeong",
       "slug": "eunpyeong-kr04d17"
     },
@@ -3832,7 +3832,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Changnyeong",
+      "local": "창녕군",
       "en": "Changnyeong",
       "slug": "changnyeong-kr11d06"
     },
@@ -3877,7 +3877,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hoengseong",
+      "local": "횡성군",
       "en": "Hoengseong",
       "slug": "hoengseong-kr03d07"
     },
@@ -3922,7 +3922,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangjin",
+      "local": "강진군",
       "en": "Gangjin",
       "slug": "gangjin-kr12d15"
     },
@@ -3967,7 +3967,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongyang",
+      "local": "영양군",
       "en": "Yeongyang",
       "slug": "yeongyang-kr15d08"
     },
@@ -4012,7 +4012,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Goesan",
+      "local": "괴산군",
       "en": "Goesan",
       "slug": "goesan-kr01d06"
     },
@@ -4057,7 +4057,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Daedeok",
+      "local": "대덕구",
       "en": "Daedeok",
       "slug": "daedeok-kr09d01"
     },
@@ -4102,7 +4102,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Nonsan",
+      "local": "논산시",
       "en": "Nonsan",
       "slug": "nonsan-kr08d07"
     },
@@ -4147,7 +4147,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangnam",
+      "local": "강남구",
       "en": "Gangnam",
       "slug": "gangnam-kr04d18"
     },
@@ -4192,7 +4192,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Bonghwa",
+      "local": "봉화군",
       "en": "Bonghwa",
       "slug": "bonghwa-kr15d09"
     },
@@ -4237,7 +4237,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Haman",
+      "local": "함안군",
       "en": "Haman",
       "slug": "haman-kr11d07"
     },
@@ -4282,7 +4282,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Geoje",
+      "local": "거제시",
       "en": "Geoje",
       "slug": "geoje-kr11d08"
     },
@@ -4327,7 +4327,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Tongyeong",
+      "local": "통영시",
       "en": "Tongyeong",
       "slug": "tongyeong-kr11d09"
     },
@@ -4372,7 +4372,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Namyangju",
+      "local": "남양주시",
       "en": "Namyangju",
       "slug": "namyangju-kr05d09"
     },
@@ -4417,7 +4417,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gunpo",
+      "local": "군포시",
       "en": "Gunpo",
       "slug": "gunpo-kr05d10"
     },
@@ -4462,7 +4462,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Guri",
+      "local": "구리시",
       "en": "Guri",
       "slug": "guri-kr05d11"
     },
@@ -4507,7 +4507,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yangsan",
+      "local": "양산시",
       "en": "Yangsan",
       "slug": "yangsan-kr11d10"
     },
@@ -4552,7 +4552,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yuseong",
+      "local": "유성구",
       "en": "Yuseong",
       "slug": "yuseong-kr09d02"
     },
@@ -4597,7 +4597,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Saha",
+      "local": "사하구",
       "en": "Saha",
       "slug": "saha-kr13d06"
     },
@@ -4642,7 +4642,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Uiryeong",
+      "local": "의령군",
       "en": "Uiryeong",
       "slug": "uiryeong-kr11d11"
     },
@@ -4687,7 +4687,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Uiseong",
+      "local": "의성군",
       "en": "Uiseong",
       "slug": "uiseong-kr15d10"
     },
@@ -4732,7 +4732,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seogwipo",
+      "local": "서귀포시",
       "en": "Seogwipo",
       "slug": "seogwipo-kr16d02"
     },
@@ -4777,7 +4777,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Suncheon",
+      "local": "순천시",
       "en": "Suncheon",
       "slug": "suncheon-kr12d16"
     },
@@ -4822,7 +4822,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Uiwang",
+      "local": "의왕시",
       "en": "Uiwang",
       "slug": "uiwang-kr05d12"
     },
@@ -4867,7 +4867,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Uljin",
+      "local": "울진군",
       "en": "Uljin",
       "slug": "uljin-kr15d11"
     },
@@ -4912,7 +4912,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Anseong",
+      "local": "안성시",
       "en": "Anseong",
       "slug": "anseong-kr05d13"
     },
@@ -4957,7 +4957,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Imsil",
+      "local": "임실군",
       "en": "Imsil",
       "slug": "imsil-kr06d04"
     },
@@ -5002,7 +5002,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gyeyang",
+      "local": "계양구",
       "en": "Gyeyang",
       "slug": "gyeyang-kr02d03"
     },
@@ -5047,7 +5047,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Cheongyang",
+      "local": "청양군",
       "en": "Cheongyang",
       "slug": "cheongyang-kr08d08"
     },
@@ -5092,7 +5092,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Ulju",
+      "local": "울주군",
       "en": "Ulju",
       "slug": "ulju-kr14d01"
     },
@@ -5137,7 +5137,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Wanju",
+      "local": "완주군",
       "en": "Wanju",
       "slug": "wanju-kr06d05"
     },
@@ -5182,7 +5182,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yanggu",
+      "local": "양구군",
       "en": "Yanggu",
       "slug": "yanggu-kr03d08"
     },
@@ -5227,7 +5227,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongam",
+      "local": "영암군",
       "en": "Yeongam",
       "slug": "yeongam-kr12d17"
     },
@@ -5272,7 +5272,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yesan",
+      "local": "예산군",
       "en": "Yesan",
       "slug": "yesan-kr08d09"
     },
@@ -5317,7 +5317,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Cheongsong",
+      "local": "청송군",
       "en": "Cheongsong",
       "slug": "cheongsong-kr15d12"
     },
@@ -5362,7 +5362,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Guro",
+      "local": "구로구",
       "en": "Guro",
       "slug": "guro-kr04d19"
     },
@@ -5407,7 +5407,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gunwi",
+      "local": "군위군",
       "en": "Gunwi",
       "slug": "gunwi-kr15d13"
     },
@@ -5452,7 +5452,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jecheon",
+      "local": "제천시",
       "en": "Jecheon",
       "slug": "jecheon-kr01d07"
     },
@@ -5497,7 +5497,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seosan",
+      "local": "서산시",
       "en": "Seosan",
       "slug": "seosan-kr08d10"
     },
@@ -5542,7 +5542,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sinan",
+      "local": "신안군",
       "en": "Sinan",
       "slug": "sinan-kr12d18"
     },
@@ -5587,7 +5587,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Icheon",
+      "local": "이천시",
       "en": "Icheon",
       "slug": "icheon-kr05d14"
     },
@@ -5632,7 +5632,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gurye",
+      "local": "구례군",
       "en": "Gurye",
       "slug": "gurye-kr12d19"
     },
@@ -5677,7 +5677,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hadong",
+      "local": "하동군",
       "en": "Hadong",
       "slug": "hadong-kr11d12"
     },
@@ -5722,7 +5722,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Haenam",
+      "local": "해남군",
       "en": "Haenam",
       "slug": "haenam-kr12d20"
     },
@@ -5767,7 +5767,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Chilgok",
+      "local": "칠곡군",
       "en": "Chilgok",
       "slug": "chilgok-kr15d14"
     },
@@ -5812,7 +5812,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yongsan",
+      "local": "용산구",
       "en": "Yongsan",
       "slug": "yongsan-kr04d20"
     },
@@ -5857,7 +5857,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jung",
+      "local": "중구",
       "en": "Jung",
       "slug": "jung-kr04d21"
     },
@@ -5902,7 +5902,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Uijeongbu",
+      "local": "의정부시",
       "en": "Uijeongbu",
       "slug": "uijeongbu-kr05d15"
     },
@@ -5947,7 +5947,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jinju",
+      "local": "진주시",
       "en": "Jinju",
       "slug": "jinju-kr11d13"
     },
@@ -5992,7 +5992,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gimhae",
+      "local": "김해시",
       "en": "Gimhae",
       "slug": "gimhae-kr11d14"
     },
@@ -6037,7 +6037,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongdeok",
+      "local": "영덕군",
       "en": "Yeongdeok",
       "slug": "yeongdeok-kr15d15"
     },
@@ -6082,7 +6082,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yangpyeong",
+      "local": "양평군",
       "en": "Yangpyeong",
       "slug": "yangpyeong-kr05d16"
     },
@@ -6127,7 +6127,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yecheon",
+      "local": "예천군",
       "en": "Yecheon",
       "slug": "yecheon-kr15d16"
     },
@@ -6172,7 +6172,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongcheon",
+      "local": "영천시",
       "en": "Yeongcheon",
       "slug": "yeongcheon-kr15d17"
     },
@@ -6217,7 +6217,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongdo",
+      "local": "영도구",
       "en": "Yeongdo",
       "slug": "yeongdo-kr13d07"
     },
@@ -6262,7 +6262,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Ulleung",
+      "local": "울릉군",
       "en": "Ulleung",
       "slug": "ulleung-kr15d18"
     },
@@ -6307,7 +6307,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gokseong",
+      "local": "곡성군",
       "en": "Gokseong",
       "slug": "gokseong-kr12d21"
     },
@@ -6352,7 +6352,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gunsan",
+      "local": "군산시",
       "en": "Gunsan",
       "slug": "gunsan-kr06d06"
     },
@@ -6397,7 +6397,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yangju",
+      "local": "양주시",
       "en": "Yangju",
       "slug": "yangju-kr05d17"
     },
@@ -6442,7 +6442,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Goseong",
+      "local": "고성군",
       "en": "Goseong",
       "slug": "goseong-kr03d09"
     },
@@ -6487,7 +6487,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Namhae",
+      "local": "남해군",
       "en": "Namhae",
       "slug": "namhae-kr11d15"
     },
@@ -6532,7 +6532,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gochang",
+      "local": "고창군",
       "en": "Gochang",
       "slug": "gochang-kr06d07"
     },
@@ -6577,7 +6577,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Asan",
+      "local": "아산시",
       "en": "Asan",
       "slug": "asan-kr08d11"
     },
@@ -6622,7 +6622,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Okcheon",
+      "local": "옥천군",
       "en": "Okcheon",
       "slug": "okcheon-kr01d08"
     },
@@ -6667,7 +6667,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jangsu",
+      "local": "장수군",
       "en": "Jangsu",
       "slug": "jangsu-kr06d08"
     },
@@ -6712,7 +6712,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Cheongdo",
+      "local": "청도군",
       "en": "Cheongdo",
       "slug": "cheongdo-kr15d19"
     },
@@ -6757,7 +6757,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Busanjin",
+      "local": "부산진구",
       "en": "Busanjin",
       "slug": "busanjin-kr13d08"
     },
@@ -6802,7 +6802,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Buan",
+      "local": "부안군",
       "en": "Buan",
       "slug": "buan-kr06d09"
     },
@@ -6847,7 +6847,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Namwon",
+      "local": "남원시",
       "en": "Namwon",
       "slug": "namwon-kr06d10"
     },
@@ -6892,7 +6892,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jeongeup",
+      "local": "정읍시",
       "en": "Jeongeup",
       "slug": "jeongeup-kr06d11"
     },
@@ -6937,7 +6937,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hongcheon",
+      "local": "홍천군",
       "en": "Hongcheon",
       "slug": "hongcheon-kr03d10"
     },
@@ -6982,7 +6982,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dalseong",
+      "local": "달성군",
       "en": "Dalseong",
       "slug": "dalseong-kr10d02"
     },
@@ -7027,7 +7027,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yangyang",
+      "local": "양양군",
       "en": "Yangyang",
       "slug": "yangyang-kr03d11"
     },
@@ -7072,7 +7072,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeoncheon",
+      "local": "연천군",
       "en": "Yeoncheon",
       "slug": "yeoncheon-kr05d18"
     },
@@ -7117,7 +7117,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Geochang",
+      "local": "거창군",
       "en": "Geochang",
       "slug": "geochang-kr11d16"
     },
@@ -7162,7 +7162,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dalseo",
+      "local": "달서구",
       "en": "Dalseo",
       "slug": "dalseo-kr10d03"
     },
@@ -7207,7 +7207,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeonsu",
+      "local": "연수구",
       "en": "Yeonsu",
       "slug": "yeonsu-kr02d04"
     },
@@ -7252,7 +7252,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Bupyeong",
+      "local": "부평구",
       "en": "Bupyeong",
       "slug": "bupyeong-kr02d05"
     },
@@ -7297,7 +7297,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sasang",
+      "local": "사상구",
       "en": "Sasang",
       "slug": "sasang-kr13d09"
     },
@@ -7342,7 +7342,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hwaseong",
+      "local": "화성시",
       "en": "Hwaseong",
       "slug": "hwaseong-kr05d19"
     },
@@ -7387,7 +7387,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Paju",
+      "local": "파주시",
       "en": "Paju",
       "slug": "paju-kr05d20"
     },
@@ -7432,7 +7432,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Pocheon",
+      "local": "포천시",
       "en": "Pocheon",
       "slug": "pocheon-kr05d21"
     },
@@ -7477,7 +7477,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sokcho",
+      "local": "속초시",
       "en": "Sokcho",
       "slug": "sokcho-kr03d12"
     },
@@ -7522,7 +7522,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Iksan",
+      "local": "익산시",
       "en": "Iksan",
       "slug": "iksan-kr06d12"
     },
@@ -7567,7 +7567,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Pyeongchang",
+      "local": "평창군",
       "en": "Pyeongchang",
       "slug": "pyeongchang-kr03d13"
     },
@@ -7612,7 +7612,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Pyeongtaek",
+      "local": "평택시",
       "en": "Pyeongtaek",
       "slug": "pyeongtaek-kr05d22"
     },
@@ -7657,7 +7657,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangneung",
+      "local": "강릉시",
       "en": "Gangneung",
       "slug": "gangneung-kr03d14"
     },
@@ -7702,7 +7702,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sunchang",
+      "local": "순창군",
       "en": "Sunchang",
       "slug": "sunchang-kr06d13"
     },
@@ -7747,7 +7747,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Suyeong",
+      "local": "수영구",
       "en": "Suyeong",
       "slug": "suyeong-kr13d10"
     },
@@ -7792,7 +7792,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongju",
+      "local": "영주시",
       "en": "Yeongju",
       "slug": "yeongju-kr15d20"
     },
@@ -7837,7 +7837,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jincheon",
+      "local": "진천군",
       "en": "Jincheon",
       "slug": "jincheon-kr01d09"
     },
@@ -7882,7 +7882,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hwacheon",
+      "local": "화천군",
       "en": "Hwacheon",
       "slug": "hwacheon-kr03d15"
     },
@@ -7927,7 +7927,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Samcheok",
+      "local": "삼척시",
       "en": "Samcheok",
       "slug": "samcheok-kr03d16"
     },
@@ -7972,7 +7972,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seocheon",
+      "local": "서천군",
       "en": "Seocheon",
       "slug": "seocheon-kr08d12"
     },
@@ -8017,7 +8017,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Mungyeong",
+      "local": "문경시",
       "en": "Mungyeong",
       "slug": "mungyeong-kr15d21"
     },
@@ -8062,7 +8062,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gyeongsan",
+      "local": "경산시",
       "en": "Gyeongsan",
       "slug": "gyeongsan-kr15d22"
     },
@@ -8107,7 +8107,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hampyeong",
+      "local": "함평군",
       "en": "Hampyeong",
       "slug": "hampyeong-kr12d22"
     },
@@ -8152,7 +8152,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dongducheon",
+      "local": "동두천시",
       "en": "Dongducheon",
       "slug": "dongducheon-kr05d23"
     },
@@ -8197,7 +8197,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Donghae",
+      "local": "동해시",
       "en": "Donghae",
       "slug": "donghae-kr03d17"
     },
@@ -8242,7 +8242,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Ganghwa",
+      "local": "강화군",
       "en": "Ganghwa",
       "slug": "ganghwa-kr02d06"
     },
@@ -8287,7 +8287,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dongjak",
+      "local": "동작구",
       "en": "Dongjak",
       "slug": "dongjak-kr04d22"
     },
@@ -8332,7 +8332,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Manan",
+      "local": "만안구",
       "en": "Manan",
       "slug": "manan-kr05d24"
     },
@@ -8377,7 +8377,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Ojeong",
+      "local": "오정구",
       "en": "Ojeong",
       "slug": "ojeong-kr05d25"
     },
@@ -8422,7 +8422,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Danwon",
+      "local": "단원구",
       "en": "Danwon",
       "slug": "danwon-kr05d26"
     },
@@ -8467,7 +8467,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sangnok",
+      "local": "상록구",
       "en": "Sangnok",
       "slug": "sangnok-kr05d27"
     },
@@ -8512,7 +8512,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dongan",
+      "local": "동구",
       "en": "Dongan",
       "slug": "dongan-kr05d28"
     },
@@ -8557,7 +8557,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sosa",
+      "local": "소사구",
       "en": "Sosa",
       "slug": "sosa-kr05d29"
     },
@@ -8602,7 +8602,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Wonmi",
+      "local": "원미구",
       "en": "Wonmi",
       "slug": "wonmi-kr05d30"
     },
@@ -8647,7 +8647,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dongnam",
+      "local": "동구",
       "en": "Dongnam",
       "slug": "dongnam-kr08d13"
     },
@@ -8692,7 +8692,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seobuk",
+      "local": "서구",
       "en": "Seobuk",
       "slug": "seobuk-kr08d14"
     },
@@ -8737,7 +8737,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Heungdeok",
+      "local": "흥덕구",
       "en": "Heungdeok",
       "slug": "heungdeok-kr01d10"
     },
@@ -8782,7 +8782,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sangdang",
+      "local": "상당구",
       "en": "Sangdang",
       "slug": "sangdang-kr01d11"
     },
@@ -8827,7 +8827,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dangjin",
+      "local": "당진시",
       "en": "Dangjin",
       "slug": "dangjin-kr08d15"
     },
@@ -8872,7 +8872,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dobong",
+      "local": "도봉구",
       "en": "Dobong",
       "slug": "dobong-kr04d23"
     },
@@ -8917,7 +8917,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dongnae",
+      "local": "동래구",
       "en": "Dongnae",
       "slug": "dongnae-kr13d11"
     },
@@ -8962,7 +8962,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Eumseong",
+      "local": "서구",
       "en": "Eumseong",
       "slug": "eumseong-kr01d12"
     },
@@ -9007,7 +9007,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Deogyang",
+      "local": "덕양구",
       "en": "Deogyang",
       "slug": "deogyang-kr05d31"
     },
@@ -9052,7 +9052,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Ilsandong",
+      "local": "동구",
       "en": "Ilsandong",
       "slug": "ilsandong-kr05d32"
     },
@@ -9097,7 +9097,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Ilsanseo",
+      "local": "서구",
       "en": "Ilsanseo",
       "slug": "ilsanseo-kr05d33"
     },
@@ -9142,7 +9142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Deokjin",
+      "local": "덕진구",
       "en": "Deokjin",
       "slug": "deokjin-kr06d14"
     },
@@ -9187,7 +9187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Wansan",
+      "local": "안산시",
       "en": "Wansan",
       "slug": "wansan-kr06d15"
     },
@@ -9232,7 +9232,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jeungpyeong",
+      "local": "증평군",
       "en": "Jeungpyeong",
       "slug": "jeungpyeong-kr01d13"
     },
@@ -9277,7 +9277,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jinhae",
+      "local": "진해구",
       "en": "Jinhae",
       "slug": "jinhae-kr11d17"
     },
@@ -9322,7 +9322,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jungnang",
+      "local": "중랑구",
       "en": "Jungnang",
       "slug": "jungnang-kr04d24"
     },
@@ -9367,7 +9367,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Masanhappo",
+      "local": "아산시",
       "en": "Masanhappo",
       "slug": "masanhappo-kr11d18"
     },
@@ -9412,7 +9412,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Masanhoewon",
+      "local": "아산시",
       "en": "Masanhoewon",
       "slug": "masanhoewon-kr11d19"
     },
@@ -9457,7 +9457,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sejong",
+      "local": "세종시",
       "en": "Sejong",
       "slug": "sejong-kr17d01"
     },
@@ -9502,7 +9502,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Bundang",
+      "local": "분당구",
       "en": "Bundang",
       "slug": "bundang-kr05d34"
     },
@@ -9547,7 +9547,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jungwon",
+      "local": "중구",
       "en": "Jungwon",
       "slug": "jungwon-kr05d35"
     },
@@ -9592,7 +9592,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sujeong",
+      "local": "수정구",
       "en": "Sujeong",
       "slug": "sujeong-kr05d36"
     },
@@ -9637,7 +9637,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seongsan",
+      "local": "서구",
       "en": "Seongsan",
       "slug": "seongsan-kr11d20"
     },
@@ -9682,7 +9682,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwonseon",
+      "local": "서구",
       "en": "Gwonseon",
       "slug": "gwonseon-kr05d37"
     },
@@ -9727,7 +9727,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jangan",
+      "local": "장안구",
       "en": "Jangan",
       "slug": "jangan-kr05d38"
     },
@@ -9772,7 +9772,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Paldal",
+      "local": "팔달구",
       "en": "Paldal",
       "slug": "paldal-kr05d39"
     },
@@ -9817,7 +9817,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongtong",
+      "local": "영통구",
       "en": "Yeongtong",
       "slug": "yeongtong-kr05d40"
     },
@@ -9862,7 +9862,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Taean",
+      "local": "태안군",
       "en": "Taean",
       "slug": "taean-kr08d16"
     },
@@ -9907,7 +9907,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Uichang",
+      "local": "의창구",
       "en": "Uichang",
       "slug": "uichang-kr11d21"
     },
@@ -9952,7 +9952,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeoju",
+      "local": "여주시",
       "en": "Yeoju",
       "slug": "yeoju-kr05d41"
     },
@@ -9997,7 +9997,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Cheoin",
+      "local": "처인구",
       "en": "Cheoin",
       "slug": "cheoin-kr05d42"
     },
@@ -10042,7 +10042,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Giheung",
+      "local": "기흥구",
       "en": "Giheung",
       "slug": "giheung-kr05d43"
     },
@@ -10087,7 +10087,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Suji",
+      "local": "수지구",
       "en": "Suji",
       "slug": "suji-kr05d44"
     },

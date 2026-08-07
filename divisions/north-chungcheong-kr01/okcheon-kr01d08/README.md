@@ -1,8 +1,8 @@
-# Okcheon
+# 옥천군 (Okcheon)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Okcheon**
 
-Okcheon is a district in South Korea, under North Chungcheong.
+옥천군 (Okcheon) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

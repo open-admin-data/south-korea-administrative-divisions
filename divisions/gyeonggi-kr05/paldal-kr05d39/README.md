@@ -1,8 +1,8 @@
-# Paldal
+# 팔달구 (Paldal)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Paldal**
 
-Paldal is a district in South Korea, under Gyeonggi.
+팔달구 (Paldal) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

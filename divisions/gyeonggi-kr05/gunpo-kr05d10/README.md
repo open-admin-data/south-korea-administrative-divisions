@@ -1,8 +1,8 @@
-# Gunpo
+# 군포시 (Gunpo)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Gunpo**
 
-Gunpo is a district in South Korea, under Gyeonggi.
+군포시 (Gunpo) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

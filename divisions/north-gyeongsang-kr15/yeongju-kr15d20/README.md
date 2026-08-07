@@ -1,8 +1,8 @@
-# Yeongju
+# 영주시 (Yeongju)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Yeongju**
 
-Yeongju is a district in South Korea, under North Gyeongsang.
+영주시 (Yeongju) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

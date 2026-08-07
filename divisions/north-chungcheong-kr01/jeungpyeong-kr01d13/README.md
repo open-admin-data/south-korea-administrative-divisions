@@ -1,8 +1,8 @@
-# Jeungpyeong
+# 증평군 (Jeungpyeong)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Jeungpyeong**
 
-Jeungpyeong is a district in South Korea, under North Chungcheong.
+증평군 (Jeungpyeong) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Deokjin
+# 덕진구 (Deokjin)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Deokjin**
 
-Deokjin is a district in South Korea, under North Jeolla.
+덕진구 (Deokjin) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Uiryeong
+# 의령군 (Uiryeong)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Uiryeong**
 
-Uiryeong is a district in South Korea, under South Gyeongsang.
+의령군 (Uiryeong) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

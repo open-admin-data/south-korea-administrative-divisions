@@ -1,8 +1,8 @@
-# Siheung
+# 시흥시 (Siheung)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Siheung**
 
-Siheung is a district in South Korea, under Gyeonggi.
+시흥시 (Siheung) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

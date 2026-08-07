@@ -1,8 +1,8 @@
-# Donghae
+# 동해시 (Donghae)
 
 [Home](../../../) &gt; [Gangwon](../) > **Donghae**
 
-Donghae is a district in South Korea, under Gangwon.
+동해시 (Donghae) is a district in South Korea, under Gangwon.
 
 ## Overview
 

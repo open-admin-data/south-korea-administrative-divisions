@@ -1,8 +1,8 @@
-# Boryeong
+# 보령시 (Boryeong)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Boryeong**
 
-Boryeong is a district in South Korea, under South Chungcheong.
+보령시 (Boryeong) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Seongsan
+# 서구 (Seongsan)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Seongsan**
 
-Seongsan is a district in South Korea, under South Gyeongsang.
+서구 (Seongsan) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

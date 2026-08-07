@@ -1,8 +1,8 @@
-# Yeongdong
+# 영동군 (Yeongdong)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Yeongdong**
 
-Yeongdong is a district in South Korea, under North Chungcheong.
+영동군 (Yeongdong) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

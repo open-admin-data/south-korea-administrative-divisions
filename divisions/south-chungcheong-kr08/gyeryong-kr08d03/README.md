@@ -1,8 +1,8 @@
-# Gyeryong
+# 계룡시 (Gyeryong)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Gyeryong**
 
-Gyeryong is a district in South Korea, under South Chungcheong.
+계룡시 (Gyeryong) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

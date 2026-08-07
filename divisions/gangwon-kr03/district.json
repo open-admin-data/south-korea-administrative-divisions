@@ -7,7 +7,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Chuncheon",
+      "local": "춘천시",
       "en": "Chuncheon",
       "slug": "chuncheon-kr03d02"
     },
@@ -52,7 +52,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Donghae",
+      "local": "동해시",
       "en": "Donghae",
       "slug": "donghae-kr03d17"
     },
@@ -97,7 +97,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangneung",
+      "local": "강릉시",
       "en": "Gangneung",
       "slug": "gangneung-kr03d14"
     },
@@ -142,7 +142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Goseong",
+      "local": "고성군",
       "en": "Goseong",
       "slug": "goseong-kr03d09"
     },
@@ -187,7 +187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hoengseong",
+      "local": "횡성군",
       "en": "Hoengseong",
       "slug": "hoengseong-kr03d07"
     },
@@ -232,7 +232,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hongcheon",
+      "local": "홍천군",
       "en": "Hongcheon",
       "slug": "hongcheon-kr03d10"
     },
@@ -277,7 +277,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hwacheon",
+      "local": "화천군",
       "en": "Hwacheon",
       "slug": "hwacheon-kr03d15"
     },
@@ -322,7 +322,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Inje",
+      "local": "인제군",
       "en": "Inje",
       "slug": "inje-kr03d01"
     },
@@ -367,7 +367,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jeongseon",
+      "local": "정선군",
       "en": "Jeongseon",
       "slug": "jeongseon-kr03d06"
     },
@@ -412,7 +412,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Pyeongchang",
+      "local": "평창군",
       "en": "Pyeongchang",
       "slug": "pyeongchang-kr03d13"
     },
@@ -457,7 +457,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Samcheok",
+      "local": "삼척시",
       "en": "Samcheok",
       "slug": "samcheok-kr03d16"
     },
@@ -502,7 +502,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sokcho",
+      "local": "속초시",
       "en": "Sokcho",
       "slug": "sokcho-kr03d12"
     },
@@ -547,7 +547,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Taebaek",
+      "local": "태백시",
       "en": "Taebaek",
       "slug": "taebaek-kr03d04"
     },
@@ -592,7 +592,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Wonju",
+      "local": "원주시",
       "en": "Wonju",
       "slug": "wonju-kr03d03"
     },
@@ -637,7 +637,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yanggu",
+      "local": "양구군",
       "en": "Yanggu",
       "slug": "yanggu-kr03d08"
     },
@@ -682,7 +682,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yangyang",
+      "local": "양양군",
       "en": "Yangyang",
       "slug": "yangyang-kr03d11"
     },
@@ -727,7 +727,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongwol",
+      "local": "영월군",
       "en": "Yeongwol",
       "slug": "yeongwol-kr03d05"
     },

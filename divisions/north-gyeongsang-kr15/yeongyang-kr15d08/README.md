@@ -1,8 +1,8 @@
-# Yeongyang
+# 영양군 (Yeongyang)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Yeongyang**
 
-Yeongyang is a district in South Korea, under North Gyeongsang.
+영양군 (Yeongyang) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Mungyeong
+# 문경시 (Mungyeong)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Mungyeong**
 
-Mungyeong is a district in South Korea, under North Gyeongsang.
+문경시 (Mungyeong) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

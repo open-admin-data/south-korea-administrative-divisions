@@ -1,8 +1,8 @@
-# Ilsandong
+# 동구 (Ilsandong)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Ilsandong**
 
-Ilsandong is a district in South Korea, under Gyeonggi.
+동구 (Ilsandong) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

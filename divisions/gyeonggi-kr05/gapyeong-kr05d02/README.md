@@ -1,8 +1,8 @@
-# Gapyeong
+# 가평군 (Gapyeong)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Gapyeong**
 
-Gapyeong is a district in South Korea, under Gyeonggi.
+가평군 (Gapyeong) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

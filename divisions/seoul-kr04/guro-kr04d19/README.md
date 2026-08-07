@@ -1,8 +1,8 @@
-# Guro
+# 구로구 (Guro)
 
 [Home](../../../) &gt; [Seoul](../) > **Guro**
 
-Guro is a district in South Korea, under Seoul.
+구로구 (Guro) is a district in South Korea, under Seoul.
 
 ## Overview
 

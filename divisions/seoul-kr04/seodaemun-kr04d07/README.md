@@ -1,8 +1,8 @@
-# Seodaemun
+# 서대문구 (Seodaemun)
 
 [Home](../../../) &gt; [Seoul](../) > **Seodaemun**
 
-Seodaemun is a district in South Korea, under Seoul.
+서대문구 (Seodaemun) is a district in South Korea, under Seoul.
 
 ## Overview
 

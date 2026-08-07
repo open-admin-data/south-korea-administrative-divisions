@@ -1,8 +1,8 @@
-# Paju
+# 파주시 (Paju)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Paju**
 
-Paju is a district in South Korea, under Gyeonggi.
+파주시 (Paju) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

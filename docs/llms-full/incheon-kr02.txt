@@ -7,32 +7,32 @@
 
 ## Districts
 
-### Bupyeong
+### 부평구 (Bupyeong)
 
 Code: KR02D05, Coordinates: 37.504, 126.719
 
 
-### Ganghwa
+### 강화군 (Ganghwa)
 
 Code: KR02D06, Coordinates: 37.721, 126.451
 
 
-### Gyeyang
+### 계양구 (Gyeyang)
 
 Code: KR02D03, Coordinates: 37.557, 126.738
 
 
-### Namdong
+### 남동구 (Namdong)
 
 Code: KR02D01, Coordinates: 37.437, 126.733
 
 
-### Ongjin
+### 옹진군 (Ongjin)
 
 Code: KR02D02, Coordinates: 37.23, 126.128
 
 
-### Yeonsu
+### 연수구 (Yeonsu)
 
 Code: KR02D04, Coordinates: 37.42, 126.667
 

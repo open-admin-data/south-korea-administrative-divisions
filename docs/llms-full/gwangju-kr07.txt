@@ -7,27 +7,27 @@
 
 ## Districts
 
-### Buk
+### 북구 (Buk)
 
 Code: KR07D05, Coordinates: 35.209, 126.908
 
 
-### Dong
+### 동구 (Dong)
 
 Code: KR07D01, Coordinates: 35.112, 126.951
 
 
-### Gwangsan
+### 광산구 (Gwangsan)
 
 Code: KR07D04, Coordinates: 35.168, 126.762
 
 
-### Nam
+### 남구 (Nam)
 
 Code: KR07D02, Coordinates: 35.094, 126.857
 
 
-### Seo
+### 서구 (Seo)
 
 Code: KR07D03, Coordinates: 35.14, 126.859
 

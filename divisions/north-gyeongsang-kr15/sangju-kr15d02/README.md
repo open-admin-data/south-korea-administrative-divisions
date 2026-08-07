@@ -1,8 +1,8 @@
-# Sangju
+# 상주시 (Sangju)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Sangju**
 
-Sangju is a district in South Korea, under North Gyeongsang.
+상주시 (Sangju) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

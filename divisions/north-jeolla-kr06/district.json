@@ -7,7 +7,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Buan",
+      "local": "부안군",
       "en": "Buan",
       "slug": "buan-kr06d09"
     },
@@ -52,7 +52,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Deokjin",
+      "local": "덕진구",
       "en": "Deokjin",
       "slug": "deokjin-kr06d14"
     },
@@ -97,7 +97,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gimje",
+      "local": "김제시",
       "en": "Gimje",
       "slug": "gimje-kr06d03"
     },
@@ -142,7 +142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gochang",
+      "local": "고창군",
       "en": "Gochang",
       "slug": "gochang-kr06d07"
     },
@@ -187,7 +187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gunsan",
+      "local": "군산시",
       "en": "Gunsan",
       "slug": "gunsan-kr06d06"
     },
@@ -232,7 +232,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Iksan",
+      "local": "익산시",
       "en": "Iksan",
       "slug": "iksan-kr06d12"
     },
@@ -277,7 +277,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Imsil",
+      "local": "임실군",
       "en": "Imsil",
       "slug": "imsil-kr06d04"
     },
@@ -322,7 +322,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jangsu",
+      "local": "장수군",
       "en": "Jangsu",
       "slug": "jangsu-kr06d08"
     },
@@ -367,7 +367,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jeongeup",
+      "local": "정읍시",
       "en": "Jeongeup",
       "slug": "jeongeup-kr06d11"
     },
@@ -412,7 +412,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jinan",
+      "local": "진안군",
       "en": "Jinan",
       "slug": "jinan-kr06d01"
     },
@@ -457,7 +457,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Muju",
+      "local": "무주군",
       "en": "Muju",
       "slug": "muju-kr06d02"
     },
@@ -502,7 +502,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Namwon",
+      "local": "남원시",
       "en": "Namwon",
       "slug": "namwon-kr06d10"
     },
@@ -547,7 +547,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sunchang",
+      "local": "순창군",
       "en": "Sunchang",
       "slug": "sunchang-kr06d13"
     },
@@ -592,7 +592,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Wanju",
+      "local": "완주군",
       "en": "Wanju",
       "slug": "wanju-kr06d05"
     },
@@ -637,7 +637,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Wansan",
+      "local": "안산시",
       "en": "Wansan",
       "slug": "wansan-kr06d15"
     },

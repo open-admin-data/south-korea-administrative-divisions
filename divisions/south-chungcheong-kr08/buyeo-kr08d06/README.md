@@ -1,8 +1,8 @@
-# Buyeo
+# 부여군 (Buyeo)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Buyeo**
 
-Buyeo is a district in South Korea, under South Chungcheong.
+부여군 (Buyeo) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

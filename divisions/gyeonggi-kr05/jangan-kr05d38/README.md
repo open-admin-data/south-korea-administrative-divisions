@@ -1,8 +1,8 @@
-# Jangan
+# 장안구 (Jangan)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Jangan**
 
-Jangan is a district in South Korea, under Gyeonggi.
+장안구 (Jangan) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

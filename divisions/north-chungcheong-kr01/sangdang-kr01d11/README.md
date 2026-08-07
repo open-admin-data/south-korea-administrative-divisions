@@ -1,8 +1,8 @@
-# Sangdang
+# 상당구 (Sangdang)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Sangdang**
 
-Sangdang is a district in South Korea, under North Chungcheong.
+상당구 (Sangdang) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

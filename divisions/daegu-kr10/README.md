@@ -16,9 +16,9 @@
 
 | # | District | Coordinates | Link |
 |---|----|-------------|------|
-| 1 | Dalseo | 35.829, 128.531 | [Browse](dalseo-kr10d03/) |
-| 2 | Dalseong | 35.753, 128.484 | [Browse](dalseong-kr10d02/) |
-| 3 | Suseong | 35.843, 128.651 | [Browse](suseong-kr10d01/) |
+| 1 | 달서구 (Dalseo) | 35.829, 128.531 | [Browse](dalseo-kr10d03/) |
+| 2 | 달성군 (Dalseong) | 35.753, 128.484 | [Browse](dalseong-kr10d02/) |
+| 3 | 수성구 (Suseong) | 35.843, 128.651 | [Browse](suseong-kr10d01/) |
 
 ## Data Files
 

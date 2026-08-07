@@ -1,8 +1,8 @@
-# Sunchang
+# 순창군 (Sunchang)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Sunchang**
 
-Sunchang is a district in South Korea, under North Jeolla.
+순창군 (Sunchang) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

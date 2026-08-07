@@ -1,8 +1,8 @@
-# Yeongcheon
+# 영천시 (Yeongcheon)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Yeongcheon**
 
-Yeongcheon is a district in South Korea, under North Gyeongsang.
+영천시 (Yeongcheon) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Gyeongju
+# 경주시 (Gyeongju)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Gyeongju**
 
-Gyeongju is a district in South Korea, under North Gyeongsang.
+경주시 (Gyeongju) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

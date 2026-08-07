@@ -7,7 +7,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Asan",
+      "local": "아산시",
       "en": "Asan",
       "slug": "asan-kr08d11"
     },
@@ -52,7 +52,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Boryeong",
+      "local": "보령시",
       "en": "Boryeong",
       "slug": "boryeong-kr08d04"
     },
@@ -97,7 +97,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Buyeo",
+      "local": "부여군",
       "en": "Buyeo",
       "slug": "buyeo-kr08d06"
     },
@@ -142,7 +142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Cheongyang",
+      "local": "청양군",
       "en": "Cheongyang",
       "slug": "cheongyang-kr08d08"
     },
@@ -187,7 +187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dangjin",
+      "local": "당진시",
       "en": "Dangjin",
       "slug": "dangjin-kr08d15"
     },
@@ -232,7 +232,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dongnam",
+      "local": "동구",
       "en": "Dongnam",
       "slug": "dongnam-kr08d13"
     },
@@ -277,7 +277,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Geumsan",
+      "local": "금산군",
       "en": "Geumsan",
       "slug": "geumsan-kr08d05"
     },
@@ -322,7 +322,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gongju",
+      "local": "공주시",
       "en": "Gongju",
       "slug": "gongju-kr08d02"
     },
@@ -367,7 +367,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gyeryong",
+      "local": "계룡시",
       "en": "Gyeryong",
       "slug": "gyeryong-kr08d03"
     },
@@ -412,7 +412,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hongseong",
+      "local": "홍성군",
       "en": "Hongseong",
       "slug": "hongseong-kr08d01"
     },
@@ -457,7 +457,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Nonsan",
+      "local": "논산시",
       "en": "Nonsan",
       "slug": "nonsan-kr08d07"
     },
@@ -502,7 +502,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seobuk",
+      "local": "서구",
       "en": "Seobuk",
       "slug": "seobuk-kr08d14"
     },
@@ -547,7 +547,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seocheon",
+      "local": "서천군",
       "en": "Seocheon",
       "slug": "seocheon-kr08d12"
     },
@@ -592,7 +592,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Seosan",
+      "local": "서산시",
       "en": "Seosan",
       "slug": "seosan-kr08d10"
     },
@@ -637,7 +637,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Taean",
+      "local": "태안군",
       "en": "Taean",
       "slug": "taean-kr08d16"
     },
@@ -682,7 +682,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yesan",
+      "local": "예산군",
       "en": "Yesan",
       "slug": "yesan-kr08d09"
     },

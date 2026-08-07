@@ -1,8 +1,8 @@
-# Jongno
+# 종로구 (Jongno)
 
 [Home](../../../) &gt; [Seoul](../) > **Jongno**
 
-Jongno is a district in South Korea, under Seoul.
+종로구 (Jongno) is a district in South Korea, under Seoul.
 
 ## Overview
 

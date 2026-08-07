@@ -16,7 +16,7 @@
 
 | # | District | Coordinates | Link |
 |---|----|-------------|------|
-| 1 | Ulju | 35.585, 129.154 | [Browse](ulju-kr14d01/) |
+| 1 | 울주군 (Ulju) | 35.585, 129.154 | [Browse](ulju-kr14d01/) |
 
 ## Data Files
 

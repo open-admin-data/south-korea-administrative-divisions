@@ -1,8 +1,8 @@
-# Busanjin
+# 부산진구 (Busanjin)
 
 [Home](../../../) &gt; [Busan](../) > **Busanjin**
 
-Busanjin is a district in South Korea, under Busan.
+부산진구 (Busanjin) is a district in South Korea, under Busan.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Hampyeong
+# 함평군 (Hampyeong)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Hampyeong**
 
-Hampyeong is a district in South Korea, under South Jeolla.
+함평군 (Hampyeong) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Uiseong
+# 의성군 (Uiseong)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Uiseong**
 
-Uiseong is a district in South Korea, under North Gyeongsang.
+의성군 (Uiseong) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

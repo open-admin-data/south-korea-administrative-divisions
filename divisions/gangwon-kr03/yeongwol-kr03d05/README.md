@@ -1,8 +1,8 @@
-# Yeongwol
+# 영월군 (Yeongwol)
 
 [Home](../../../) &gt; [Gangwon](../) > **Yeongwol**
 
-Yeongwol is a district in South Korea, under Gangwon.
+영월군 (Yeongwol) is a district in South Korea, under Gangwon.
 
 ## Overview
 

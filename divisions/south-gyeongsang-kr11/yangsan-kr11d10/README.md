@@ -1,8 +1,8 @@
-# Yangsan
+# 양산시 (Yangsan)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Yangsan**
 
-Yangsan is a district in South Korea, under South Gyeongsang.
+양산시 (Yangsan) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

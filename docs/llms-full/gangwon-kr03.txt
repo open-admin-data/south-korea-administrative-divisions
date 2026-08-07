@@ -7,87 +7,87 @@
 
 ## Districts
 
-### Chuncheon
+### 춘천시 (Chuncheon)
 
 Code: KR03D02, Coordinates: 37.89, 127.724
 
 
-### Donghae
+### 동해시 (Donghae)
 
 Code: KR03D17, Coordinates: 37.504, 129.06
 
 
-### Gangneung
+### 강릉시 (Gangneung)
 
 Code: KR03D14, Coordinates: 37.716, 128.858
 
 
-### Goseong
+### 고성군 (Goseong)
 
 Code: KR03D09, Coordinates: 38.383, 128.383
 
 
-### Hoengseong
+### 횡성군 (Hoengseong)
 
 Code: KR03D07, Coordinates: 37.54, 128.142
 
 
-### Hongcheon
+### 홍천군 (Hongcheon)
 
 Code: KR03D10, Coordinates: 37.779, 128.076
 
 
-### Hwacheon
+### 화천군 (Hwacheon)
 
 Code: KR03D15, Coordinates: 38.182, 127.713
 
 
-### Inje
+### 인제군 (Inje)
 
 Code: KR03D01, Coordinates: 38.068, 128.265
 
 
-### Jeongseon
+### 정선군 (Jeongseon)
 
 Code: KR03D06, Coordinates: 37.39, 128.717
 
 
-### Pyeongchang
+### 평창군 (Pyeongchang)
 
 Code: KR03D13, Coordinates: 37.565, 128.437
 
 
-### Samcheok
+### 삼척시 (Samcheok)
 
 Code: KR03D16, Coordinates: 37.284, 129.149
 
 
-### Sokcho
+### 속초시 (Sokcho)
 
 Code: KR03D12, Coordinates: 38.178, 128.53
 
 
-### Taebaek
+### 태백시 (Taebaek)
 
 Code: KR03D04, Coordinates: 37.153, 128.974
 
 
-### Wonju
+### 원주시 (Wonju)
 
 Code: KR03D03, Coordinates: 37.333, 127.916
 
 
-### Yanggu
+### 양구군 (Yanggu)
 
 Code: KR03D08, Coordinates: 38.198, 127.993
 
 
-### Yangyang
+### 양양군 (Yangyang)
 
 Code: KR03D11, Coordinates: 37.99, 128.613
 
 
-### Yeongwol
+### 영월군 (Yeongwol)
 
 Code: KR03D05, Coordinates: 37.211, 128.465
 

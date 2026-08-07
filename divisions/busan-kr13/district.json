@@ -7,7 +7,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Busanjin",
+      "local": "부산진구",
       "en": "Busanjin",
       "slug": "busanjin-kr13d08"
     },
@@ -52,7 +52,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Dongnae",
+      "local": "동래구",
       "en": "Dongnae",
       "slug": "dongnae-kr13d11"
     },
@@ -97,7 +97,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangseo",
+      "local": "강서구",
       "en": "Gangseo",
       "slug": "gangseo-kr13d03"
     },
@@ -142,7 +142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Geumjeong",
+      "local": "금정구",
       "en": "Geumjeong",
       "slug": "geumjeong-kr13d04"
     },
@@ -187,7 +187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gijang",
+      "local": "기장군",
       "en": "Gijang",
       "slug": "gijang-kr13d05"
     },
@@ -232,7 +232,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Haeundae",
+      "local": "해운대구",
       "en": "Haeundae",
       "slug": "haeundae-kr13d02"
     },
@@ -277,7 +277,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Saha",
+      "local": "사하구",
       "en": "Saha",
       "slug": "saha-kr13d06"
     },
@@ -322,7 +322,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sasang",
+      "local": "사상구",
       "en": "Sasang",
       "slug": "sasang-kr13d09"
     },
@@ -367,7 +367,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Suyeong",
+      "local": "수영구",
       "en": "Suyeong",
       "slug": "suyeong-kr13d10"
     },
@@ -412,7 +412,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongdo",
+      "local": "영도구",
       "en": "Yeongdo",
       "slug": "yeongdo-kr13d07"
     },
@@ -457,7 +457,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeonje",
+      "local": "연제구",
       "en": "Yeonje",
       "slug": "yeonje-kr13d01"
     },

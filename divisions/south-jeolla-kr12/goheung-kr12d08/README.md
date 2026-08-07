@@ -1,8 +1,8 @@
-# Goheung
+# 고흥군 (Goheung)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Goheung**
 
-Goheung is a district in South Korea, under South Jeolla.
+고흥군 (Goheung) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

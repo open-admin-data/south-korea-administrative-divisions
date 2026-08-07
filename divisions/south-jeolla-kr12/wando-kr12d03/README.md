@@ -1,8 +1,8 @@
-# Wando
+# 완도군 (Wando)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Wando**
 
-Wando is a district in South Korea, under South Jeolla.
+완도군 (Wando) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

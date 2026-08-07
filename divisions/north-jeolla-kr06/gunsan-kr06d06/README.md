@@ -1,8 +1,8 @@
-# Gunsan
+# 군산시 (Gunsan)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Gunsan**
 
-Gunsan is a district in South Korea, under North Jeolla.
+군산시 (Gunsan) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

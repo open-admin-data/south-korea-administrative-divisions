@@ -1,8 +1,8 @@
-# Mokpo
+# 목포시 (Mokpo)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Mokpo**
 
-Mokpo is a district in South Korea, under South Jeolla.
+목포시 (Mokpo) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

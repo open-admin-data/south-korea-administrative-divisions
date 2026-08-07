@@ -1,8 +1,8 @@
-# Gwangsan
+# 광산구 (Gwangsan)
 
 [Home](../../../) &gt; [Gwangju](../) > **Gwangsan**
 
-Gwangsan is a district in South Korea, under Gwangju.
+광산구 (Gwangsan) is a district in South Korea, under Gwangju.
 
 ## Overview
 

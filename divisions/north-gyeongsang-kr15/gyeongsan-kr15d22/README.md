@@ -1,8 +1,8 @@
-# Gyeongsan
+# 경산시 (Gyeongsan)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Gyeongsan**
 
-Gyeongsan is a district in South Korea, under North Gyeongsang.
+경산시 (Gyeongsan) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

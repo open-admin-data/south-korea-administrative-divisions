@@ -1,8 +1,8 @@
-# Gyeyang
+# 계양구 (Gyeyang)
 
 [Home](../../../) &gt; [Incheon](../) > **Gyeyang**
 
-Gyeyang is a district in South Korea, under Incheon.
+계양구 (Gyeyang) is a district in South Korea, under Incheon.
 
 ## Overview
 

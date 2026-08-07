@@ -1,8 +1,8 @@
-# Dongnae
+# 동래구 (Dongnae)
 
 [Home](../../../) &gt; [Busan](../) > **Dongnae**
 
-Dongnae is a district in South Korea, under Busan.
+동래구 (Dongnae) is a district in South Korea, under Busan.
 
 ## Overview
 

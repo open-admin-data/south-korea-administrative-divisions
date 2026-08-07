@@ -1,8 +1,8 @@
-# Seongju
+# 성주군 (Seongju)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Seongju**
 
-Seongju is a district in South Korea, under North Gyeongsang.
+성주군 (Seongju) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

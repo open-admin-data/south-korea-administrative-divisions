@@ -1,8 +1,8 @@
-# Ulleung
+# 울릉군 (Ulleung)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Ulleung**
 
-Ulleung is a district in South Korea, under North Gyeongsang.
+울릉군 (Ulleung) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

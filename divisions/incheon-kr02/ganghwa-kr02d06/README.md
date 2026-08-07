@@ -1,8 +1,8 @@
-# Ganghwa
+# 강화군 (Ganghwa)
 
 [Home](../../../) &gt; [Incheon](../) > **Ganghwa**
 
-Ganghwa is a district in South Korea, under Incheon.
+강화군 (Ganghwa) is a district in South Korea, under Incheon.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Jangheung
+# 장흥군 (Jangheung)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Jangheung**
 
-Jangheung is a district in South Korea, under South Jeolla.
+장흥군 (Jangheung) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

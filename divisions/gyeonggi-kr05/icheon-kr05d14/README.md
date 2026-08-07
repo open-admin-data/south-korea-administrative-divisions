@@ -1,8 +1,8 @@
-# Icheon
+# 이천시 (Icheon)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Icheon**
 
-Icheon is a district in South Korea, under Gyeonggi.
+이천시 (Icheon) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

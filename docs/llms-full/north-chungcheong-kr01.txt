@@ -7,67 +7,67 @@
 
 ## Districts
 
-### Boeun
+### 보은군 (Boeun)
 
 Code: KR01D02, Coordinates: 36.493, 127.766
 
 
-### Cheongwon
+### 청원구 (Cheongwon)
 
 Code: KR01D04, Coordinates: 36.529, 127.483
 
 
-### Chungju
+### 충주시 (Chungju)
 
 Code: KR01D01, Coordinates: 37.014, 127.921
 
 
-### Danyang
+### 단양군 (Danyang)
 
 Code: KR01D03, Coordinates: 37.011, 128.375
 
 
-### Eumseong
+### 서구 (Eumseong)
 
 Code: KR01D12, Coordinates: 36.978, 127.583
 
 
-### Goesan
+### 괴산군 (Goesan)
 
 Code: KR01D06, Coordinates: 36.779, 127.827
 
 
-### Heungdeok
+### 흥덕구 (Heungdeok)
 
 Code: KR01D10, Coordinates: 36.641, 127.429
 
 
-### Jecheon
+### 제천시 (Jecheon)
 
 Code: KR01D07, Coordinates: 37.121, 128.163
 
 
-### Jeungpyeong
+### 증평군 (Jeungpyeong)
 
 Code: KR01D13, Coordinates: 36.798, 127.594
 
 
-### Jincheon
+### 진천군 (Jincheon)
 
 Code: KR01D09, Coordinates: 36.867, 127.444
 
 
-### Okcheon
+### 옥천군 (Okcheon)
 
 Code: KR01D08, Coordinates: 36.334, 127.658
 
 
-### Sangdang
+### 상당구 (Sangdang)
 
 Code: KR01D11, Coordinates: 36.637, 127.521
 
 
-### Yeongdong
+### 영동군 (Yeongdong)
 
 Code: KR01D05, Coordinates: 36.155, 127.793
 

@@ -1,8 +1,8 @@
-# Wonmi
+# 원미구 (Wonmi)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Wonmi**
 
-Wonmi is a district in South Korea, under Gyeonggi.
+원미구 (Wonmi) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

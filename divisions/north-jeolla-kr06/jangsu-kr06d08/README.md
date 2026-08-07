@@ -1,8 +1,8 @@
-# Jangsu
+# 장수군 (Jangsu)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Jangsu**
 
-Jangsu is a district in South Korea, under North Jeolla.
+장수군 (Jangsu) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

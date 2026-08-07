@@ -1,8 +1,8 @@
-# Taebaek
+# 태백시 (Taebaek)
 
 [Home](../../../) &gt; [Gangwon](../) > **Taebaek**
 
-Taebaek is a district in South Korea, under Gangwon.
+태백시 (Taebaek) is a district in South Korea, under Gangwon.
 
 ## Overview
 

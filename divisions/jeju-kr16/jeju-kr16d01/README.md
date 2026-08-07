@@ -1,8 +1,8 @@
-# Jeju
+# 제주시 (Jeju)
 
 [Home](../../../) &gt; [Jeju](../) > **Jeju**
 
-Jeju is a district in South Korea, under Jeju.
+제주시 (Jeju) is a district in South Korea, under Jeju.
 
 ## Overview
 

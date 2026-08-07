@@ -1,8 +1,8 @@
-# Dongducheon
+# 동두천시 (Dongducheon)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Dongducheon**
 
-Dongducheon is a district in South Korea, under Gyeonggi.
+동두천시 (Dongducheon) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Boeun
+# 보은군 (Boeun)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Boeun**
 
-Boeun is a district in South Korea, under North Chungcheong.
+보은군 (Boeun) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

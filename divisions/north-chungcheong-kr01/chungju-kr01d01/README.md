@@ -1,8 +1,8 @@
-# Chungju
+# 충주시 (Chungju)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Chungju**
 
-Chungju is a district in South Korea, under North Chungcheong.
+충주시 (Chungju) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

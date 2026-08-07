@@ -1,8 +1,8 @@
-# Seongbuk
+# 성북구 (Seongbuk)
 
 [Home](../../../) &gt; [Seoul](../) > **Seongbuk**
 
-Seongbuk is a district in South Korea, under Seoul.
+성북구 (Seongbuk) is a district in South Korea, under Seoul.
 
 ## Overview
 

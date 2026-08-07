@@ -1,8 +1,8 @@
-# Hadong
+# 하동군 (Hadong)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Hadong**
 
-Hadong is a district in South Korea, under South Gyeongsang.
+하동군 (Hadong) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

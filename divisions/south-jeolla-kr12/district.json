@@ -7,7 +7,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Boseong",
+      "local": "보성군",
       "en": "Boseong",
       "slug": "boseong-kr12d07"
     },
@@ -52,7 +52,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Damyang",
+      "local": "담양군",
       "en": "Damyang",
       "slug": "damyang-kr12d06"
     },
@@ -97,7 +97,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gangjin",
+      "local": "강진군",
       "en": "Gangjin",
       "slug": "gangjin-kr12d15"
     },
@@ -142,7 +142,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Goheung",
+      "local": "고흥군",
       "en": "Goheung",
       "slug": "goheung-kr12d08"
     },
@@ -187,7 +187,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gokseong",
+      "local": "곡성군",
       "en": "Gokseong",
       "slug": "gokseong-kr12d21"
     },
@@ -232,7 +232,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gurye",
+      "local": "구례군",
       "en": "Gurye",
       "slug": "gurye-kr12d19"
     },
@@ -277,7 +277,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Gwangyang",
+      "local": "광양시",
       "en": "Gwangyang",
       "slug": "gwangyang-kr12d02"
     },
@@ -322,7 +322,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Haenam",
+      "local": "해남군",
       "en": "Haenam",
       "slug": "haenam-kr12d20"
     },
@@ -367,7 +367,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hampyeong",
+      "local": "함평군",
       "en": "Hampyeong",
       "slug": "hampyeong-kr12d22"
     },
@@ -412,7 +412,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Hwasun",
+      "local": "화순군",
       "en": "Hwasun",
       "slug": "hwasun-kr12d11"
     },
@@ -457,7 +457,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jangheung",
+      "local": "장흥군",
       "en": "Jangheung",
       "slug": "jangheung-kr12d14"
     },
@@ -502,7 +502,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jangseong",
+      "local": "장성군",
       "en": "Jangseong",
       "slug": "jangseong-kr12d12"
     },
@@ -547,7 +547,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Jindo",
+      "local": "진도군",
       "en": "Jindo",
       "slug": "jindo-kr12d01"
     },
@@ -592,7 +592,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Mokpo",
+      "local": "목포시",
       "en": "Mokpo",
       "slug": "mokpo-kr12d13"
     },
@@ -637,7 +637,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Muan",
+      "local": "무안군",
       "en": "Muan",
       "slug": "muan-kr12d05"
     },
@@ -682,7 +682,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Naju",
+      "local": "나주시",
       "en": "Naju",
       "slug": "naju-kr12d04"
     },
@@ -727,7 +727,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Sinan",
+      "local": "신안군",
       "en": "Sinan",
       "slug": "sinan-kr12d18"
     },
@@ -772,7 +772,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Suncheon",
+      "local": "순천시",
       "en": "Suncheon",
       "slug": "suncheon-kr12d16"
     },
@@ -817,7 +817,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Wando",
+      "local": "완도군",
       "en": "Wando",
       "slug": "wando-kr12d03"
     },
@@ -862,7 +862,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeongam",
+      "local": "영암군",
       "en": "Yeongam",
       "slug": "yeongam-kr12d17"
     },
@@ -907,7 +907,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeonggwang",
+      "local": "영광군",
       "en": "Yeonggwang",
       "slug": "yeonggwang-kr12d10"
     },
@@ -952,7 +952,7 @@
       "en": "District"
     },
     "name": {
-      "local": "Yeosu",
+      "local": "여수시",
       "en": "Yeosu",
       "slug": "yeosu-kr12d09"
     },

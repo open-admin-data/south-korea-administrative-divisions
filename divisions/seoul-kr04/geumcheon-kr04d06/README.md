@@ -1,8 +1,8 @@
-# Geumcheon
+# 금천구 (Geumcheon)
 
 [Home](../../../) &gt; [Seoul](../) > **Geumcheon**
 
-Geumcheon is a district in South Korea, under Seoul.
+금천구 (Geumcheon) is a district in South Korea, under Seoul.
 
 ## Overview
 

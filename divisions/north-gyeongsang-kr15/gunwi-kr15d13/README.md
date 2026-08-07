@@ -1,8 +1,8 @@
-# Gunwi
+# 군위군 (Gunwi)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Gunwi**
 
-Gunwi is a district in South Korea, under North Gyeongsang.
+군위군 (Gunwi) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

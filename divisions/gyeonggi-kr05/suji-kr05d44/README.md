@@ -1,8 +1,8 @@
-# Suji
+# 수지구 (Suji)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Suji**
 
-Suji is a district in South Korea, under Gyeonggi.
+수지구 (Suji) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

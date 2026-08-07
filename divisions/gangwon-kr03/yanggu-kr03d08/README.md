@@ -1,8 +1,8 @@
-# Yanggu
+# 양구군 (Yanggu)
 
 [Home](../../../) &gt; [Gangwon](../) > **Yanggu**
 
-Yanggu is a district in South Korea, under Gangwon.
+양구군 (Yanggu) is a district in South Korea, under Gangwon.
 
 ## Overview
 

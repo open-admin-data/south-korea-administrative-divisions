@@ -1,8 +1,8 @@
-# Chuncheon
+# 춘천시 (Chuncheon)
 
 [Home](../../../) &gt; [Gangwon](../) > **Chuncheon**
 
-Chuncheon is a district in South Korea, under Gangwon.
+춘천시 (Chuncheon) is a district in South Korea, under Gangwon.
 
 ## Overview
 

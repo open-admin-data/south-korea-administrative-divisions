@@ -1,8 +1,8 @@
-# Goseong
+# 고성군 (Goseong)
 
 [Home](../../../) &gt; [Gangwon](../) > **Goseong**
 
-Goseong is a district in South Korea, under Gangwon.
+고성군 (Goseong) is a district in South Korea, under Gangwon.
 
 ## Overview
 

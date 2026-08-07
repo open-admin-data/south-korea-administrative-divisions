@@ -1,8 +1,8 @@
-# Yeonggwang
+# 영광군 (Yeonggwang)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Yeonggwang**
 
-Yeonggwang is a district in South Korea, under South Jeolla.
+영광군 (Yeonggwang) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

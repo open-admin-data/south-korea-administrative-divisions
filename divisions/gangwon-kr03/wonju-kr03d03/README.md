@@ -1,8 +1,8 @@
-# Wonju
+# 원주시 (Wonju)
 
 [Home](../../../) &gt; [Gangwon](../) > **Wonju**
 
-Wonju is a district in South Korea, under Gangwon.
+원주시 (Wonju) is a district in South Korea, under Gangwon.
 
 ## Overview
 

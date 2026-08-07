@@ -1,8 +1,8 @@
-# Dongnam
+# 동구 (Dongnam)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Dongnam**
 
-Dongnam is a district in South Korea, under South Chungcheong.
+동구 (Dongnam) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

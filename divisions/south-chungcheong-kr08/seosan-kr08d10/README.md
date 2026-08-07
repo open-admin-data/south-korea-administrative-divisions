@@ -1,8 +1,8 @@
-# Seosan
+# 서산시 (Seosan)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Seosan**
 
-Seosan is a district in South Korea, under South Chungcheong.
+서산시 (Seosan) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

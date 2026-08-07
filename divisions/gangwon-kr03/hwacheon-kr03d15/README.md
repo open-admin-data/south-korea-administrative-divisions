@@ -1,8 +1,8 @@
-# Hwacheon
+# 화천군 (Hwacheon)
 
 [Home](../../../) &gt; [Gangwon](../) > **Hwacheon**
 
-Hwacheon is a district in South Korea, under Gangwon.
+화천군 (Hwacheon) is a district in South Korea, under Gangwon.
 
 ## Overview
 

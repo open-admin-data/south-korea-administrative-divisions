@@ -1,8 +1,8 @@
-# Hamyang
+# 함양군 (Hamyang)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Hamyang**
 
-Hamyang is a district in South Korea, under South Gyeongsang.
+함양군 (Hamyang) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

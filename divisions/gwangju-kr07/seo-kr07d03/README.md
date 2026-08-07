@@ -1,8 +1,8 @@
-# Seo
+# 서구 (Seo)
 
 [Home](../../../) &gt; [Gwangju](../) > **Seo**
 
-Seo is a district in South Korea, under Gwangju.
+서구 (Seo) is a district in South Korea, under Gwangju.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Bonghwa
+# 봉화군 (Bonghwa)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Bonghwa**
 
-Bonghwa is a district in South Korea, under North Gyeongsang.
+봉화군 (Bonghwa) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

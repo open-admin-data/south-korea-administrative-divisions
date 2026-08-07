@@ -1,8 +1,8 @@
-# Yeoju
+# 여주시 (Yeoju)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Yeoju**
 
-Yeoju is a district in South Korea, under Gyeonggi.
+여주시 (Yeoju) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# Eunpyeong
+# 은평구 (Eunpyeong)
 
 [Home](../../../) &gt; [Seoul](../) > **Eunpyeong**
 
-Eunpyeong is a district in South Korea, under Seoul.
+은평구 (Eunpyeong) is a district in South Korea, under Seoul.
 
 ## Overview
 

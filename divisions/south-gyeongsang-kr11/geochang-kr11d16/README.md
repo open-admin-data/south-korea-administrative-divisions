@@ -1,8 +1,8 @@
-# Geochang
+# 거창군 (Geochang)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Geochang**
 
-Geochang is a district in South Korea, under South Gyeongsang.
+거창군 (Geochang) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

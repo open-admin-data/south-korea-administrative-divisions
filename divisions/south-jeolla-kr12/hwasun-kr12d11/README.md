@@ -1,8 +1,8 @@
-# Hwasun
+# 화순군 (Hwasun)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Hwasun**
 
-Hwasun is a district in South Korea, under South Jeolla.
+화순군 (Hwasun) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

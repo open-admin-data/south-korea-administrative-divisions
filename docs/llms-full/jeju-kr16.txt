@@ -7,12 +7,12 @@
 
 ## Districts
 
-### Jeju
+### 제주시 (Jeju)
 
 Code: KR16D01, Coordinates: 33.439, 126.522
 
 
-### Seogwipo
+### 서귀포시 (Seogwipo)
 
 Code: KR16D02, Coordinates: 33.308, 126.582
 

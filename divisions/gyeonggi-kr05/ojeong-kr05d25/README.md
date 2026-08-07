@@ -1,8 +1,8 @@
-# Ojeong
+# 오정구 (Ojeong)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Ojeong**
 
-Ojeong is a district in South Korea, under Gyeonggi.
+오정구 (Ojeong) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

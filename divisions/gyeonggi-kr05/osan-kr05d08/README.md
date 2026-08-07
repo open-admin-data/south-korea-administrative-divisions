@@ -1,8 +1,8 @@
-# Osan
+# 오산시 (Osan)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Osan**
 
-Osan is a district in South Korea, under Gyeonggi.
+오산시 (Osan) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

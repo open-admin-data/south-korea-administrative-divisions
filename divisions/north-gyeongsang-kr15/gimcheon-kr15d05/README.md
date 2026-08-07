@@ -1,8 +1,8 @@
-# Gimcheon
+# 김천시 (Gimcheon)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Gimcheon**
 
-Gimcheon is a district in South Korea, under North Gyeongsang.
+김천시 (Gimcheon) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

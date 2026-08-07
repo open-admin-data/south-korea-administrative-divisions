@@ -1,8 +1,8 @@
-# Dong
+# 동구 (Dong)
 
 [Home](../../../) &gt; [Gwangju](../) > **Dong**
 
-Dong is a district in South Korea, under Gwangju.
+동구 (Dong) is a district in South Korea, under Gwangju.
 
 ## Overview
 

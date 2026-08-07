@@ -1,8 +1,8 @@
-# Haman
+# 함안군 (Haman)
 
 [Home](../../../) &gt; [South Gyeongsang](../) > **Haman**
 
-Haman is a district in South Korea, under South Gyeongsang.
+함안군 (Haman) is a district in South Korea, under South Gyeongsang.
 
 ## Overview
 

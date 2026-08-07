@@ -1,8 +1,8 @@
-# Inje
+# 인제군 (Inje)
 
 [Home](../../../) &gt; [Gangwon](../) > **Inje**
 
-Inje is a district in South Korea, under Gangwon.
+인제군 (Inje) is a district in South Korea, under Gangwon.
 
 ## Overview
 

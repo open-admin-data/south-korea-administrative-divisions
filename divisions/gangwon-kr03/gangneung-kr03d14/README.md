@@ -1,8 +1,8 @@
-# Gangneung
+# 강릉시 (Gangneung)
 
 [Home](../../../) &gt; [Gangwon](../) > **Gangneung**
 
-Gangneung is a district in South Korea, under Gangwon.
+강릉시 (Gangneung) is a district in South Korea, under Gangwon.
 
 ## Overview
 

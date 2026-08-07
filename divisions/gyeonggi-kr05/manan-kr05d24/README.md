@@ -1,8 +1,8 @@
-# Manan
+# 만안구 (Manan)
 
 [Home](../../../) &gt; [Gyeonggi](../) > **Manan**
 
-Manan is a district in South Korea, under Gyeonggi.
+만안구 (Manan) is a district in South Korea, under Gyeonggi.
 
 ## Overview
 

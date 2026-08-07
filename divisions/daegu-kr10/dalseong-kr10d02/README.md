@@ -1,8 +1,8 @@
-# Dalseong
+# 달성군 (Dalseong)
 
 [Home](../../../) &gt; [Daegu](../) > **Dalseong**
 
-Dalseong is a district in South Korea, under Daegu.
+달성군 (Dalseong) is a district in South Korea, under Daegu.
 
 ## Overview
 

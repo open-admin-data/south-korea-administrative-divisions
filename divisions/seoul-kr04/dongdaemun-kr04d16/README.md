@@ -1,8 +1,8 @@
-# Dongdaemun
+# 동대문구 (Dongdaemun)
 
 [Home](../../../) &gt; [Seoul](../) > **Dongdaemun**
 
-Dongdaemun is a district in South Korea, under Seoul.
+동대문구 (Dongdaemun) is a district in South Korea, under Seoul.
 
 ## Overview
 

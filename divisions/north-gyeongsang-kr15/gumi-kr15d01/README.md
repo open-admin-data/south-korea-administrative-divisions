@@ -1,8 +1,8 @@
-# Gumi
+# 구미시 (Gumi)
 
 [Home](../../../) &gt; [North Gyeongsang](../) > **Gumi**
 
-Gumi is a district in South Korea, under North Gyeongsang.
+구미시 (Gumi) is a district in South Korea, under North Gyeongsang.
 
 ## Overview
 

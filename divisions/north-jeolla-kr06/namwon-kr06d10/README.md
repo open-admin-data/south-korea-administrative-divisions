@@ -1,8 +1,8 @@
-# Namwon
+# 남원시 (Namwon)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Namwon**
 
-Namwon is a district in South Korea, under North Jeolla.
+남원시 (Namwon) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

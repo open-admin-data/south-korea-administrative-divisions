@@ -1,8 +1,8 @@
-# Yangcheon
+# 양천구 (Yangcheon)
 
 [Home](../../../) &gt; [Seoul](../) > **Yangcheon**
 
-Yangcheon is a district in South Korea, under Seoul.
+양천구 (Yangcheon) is a district in South Korea, under Seoul.
 
 ## Overview
 

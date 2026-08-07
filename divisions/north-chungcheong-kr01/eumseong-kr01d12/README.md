@@ -1,8 +1,8 @@
-# Eumseong
+# 서구 (Eumseong)
 
 [Home](../../../) &gt; [North Chungcheong](../) > **Eumseong**
 
-Eumseong is a district in South Korea, under North Chungcheong.
+서구 (Eumseong) is a district in South Korea, under North Chungcheong.
 
 ## Overview
 

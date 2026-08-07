@@ -1,8 +1,8 @@
-# Cheongyang
+# 청양군 (Cheongyang)
 
 [Home](../../../) &gt; [South Chungcheong](../) > **Cheongyang**
 
-Cheongyang is a district in South Korea, under South Chungcheong.
+청양군 (Cheongyang) is a district in South Korea, under South Chungcheong.
 
 ## Overview
 

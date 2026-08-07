@@ -1,8 +1,8 @@
-# Haenam
+# 해남군 (Haenam)
 
 [Home](../../../) &gt; [South Jeolla](../) > **Haenam**
 
-Haenam is a district in South Korea, under South Jeolla.
+해남군 (Haenam) is a district in South Korea, under South Jeolla.
 
 ## Overview
 

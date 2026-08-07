@@ -1,8 +1,8 @@
-# Gochang
+# 고창군 (Gochang)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Gochang**
 
-Gochang is a district in South Korea, under North Jeolla.
+고창군 (Gochang) is a district in South Korea, under North Jeolla.
 
 ## Overview
 

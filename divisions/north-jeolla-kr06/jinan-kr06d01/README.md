@@ -1,8 +1,8 @@
-# Jinan
+# 진안군 (Jinan)
 
 [Home](../../../) &gt; [North Jeolla](../) > **Jinan**
 
-Jinan is a district in South Korea, under North Jeolla.
+진안군 (Jinan) is a district in South Korea, under North Jeolla.
 
 ## Overview
 
